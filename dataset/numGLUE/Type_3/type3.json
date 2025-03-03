@@ -1,0 +1,3502 @@
+[
+    {
+        "question": "Jame's mother has a photo of Jane standing at a height of 14 inches, whereas a mountain appears to have height of 26 cm. It looks that way because? ",
+        "Option1": "the mountain was farther away",
+        "Option2": "Jane was farther away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tree branch was 6 inches thick wheras the flower branch was 0.25 inches so tree branch was? ",
+        "Option1": "weaker",
+        "Option2": "stronger",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A salmon swimming through a river experiences friction force of 2.1 N, while a salmon swimming through a creek experiences friction force of 3.4 N. Which river causes the temperature of the salmon to increase more?? ",
+        "Option1": "river",
+        "Option2": "creek",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jame's mother has a photo of Jane standing at a height of 15 cm, whereas a mountain appears to have height of 14 cm. It looks that way because? ",
+        "Option1": "the mountain was farther away",
+        "Option2": "Jane was farther away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Which do you think would be easier to hear? ",
+        "Option1": "a helicopter that is flying 154 feet away",
+        "Option2": "a helicopter that is flying 62 meter away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Little Sally found that her dad's freight train was able to travel 3 m on sloped tracks and 140 cm on flat tracks. She surmised that the freight train got hotter on? ",
+        "Option1": "sloped tracks",
+        "Option2": "flat tracks",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "As the police siren moves from a distance of 100 feet from my house to half of its previous distance from my house, it became? ",
+        "Option1": "louder",
+        "Option2": "quieter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bmx bike can ride 1 m on a quarter pipe and 90 cm on a half pipe. This means the bmx bike will get hotter on the? ",
+        "Option1": "quarter pipe",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "3 kids and their partners are able to push a toy car across a wooden table, whereas 4 kids are required to push it across the grass. The tires of the toy car would get more warm when it is pushed over the? ",
+        "Option1": "wooden table",
+        "Option2": "grass.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of steak is usually 3 inches thick and a piece of paper is 1/10th of a millimeter inches thick. Which object is harder to rip in half?? ",
+        "Option1": "steak",
+        "Option2": "paper",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A salmon swimming through a river experiences friction force of 2.9 N, while a salmon swimming through a creek experiences friction force which is half of that of river. Which river causes the temperature of the salmon to increase more?? ",
+        "Option1": "river",
+        "Option2": "creek",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ross made everyone laugh when he slid across the wood floor in his socks. He tried doing it at his friends on a carpeted floor. He  went 3 inch on the carpet, and he went 19 inch on the wood floor. Ross would be making less heat against the? ",
+        "Option1": "wood floor",
+        "Option2": "carpet.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jame's mother has a photo of Jane standing at a height of 49 cm, whereas a mountain appears to have height of 29 cm more than Jane. It looks that way because? ",
+        "Option1": "the mountain was farther away",
+        "Option2": "Jane was farther away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sue wrapped saran wrap which is 0.5 mm thick over the bowl of her toilet and dropped a potato in the middle of it. The potato fell straight through.  She then put down the toilet lid which is 34 mm thick and conducted the experiment again, and the potato bounced harmlessly off the lid. That's because? ",
+        "Option1": "the saran wrap is thinner",
+        "Option2": "the toilet lid is thinner",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bmx bike can ride 10 m on a quarter pipe and 3 m on a half pipe. This means the bmx bike will get hotter on the? ",
+        "Option1": "quarter pipe",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "2 kids are able to push a toy car across a wooden table, whereas 5 kids are required to push it across the grass. The tires of the toy car would get more warm when it is pushed over the? ",
+        "Option1": "wooden table",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's iron temperature changed from 43 to 31 celcius when he slid it over his ironing board compared to when he slid it over his floor. This means the iron went a greater distance over the? ",
+        "Option1": "ironing board",
+        "Option2": "floor",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jame's mother has a photo of Jane standing at a height of 1 meter, whereas a mountain appears to have height of 92 cm. It looks that way because? ",
+        "Option1": "the mountain was farther away",
+        "Option2": "Jane was farther away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two fisherman are out on a big lake when a heavy fog unexpectedly covers them and they can barely see anything. But the fisherman hear two fog horns calling from the shore. The one towards the left is 2 times louder than the one off towards the right. Which one should they head towards if they want to save time getting to shore?? ",
+        "Option1": "the one off to the right",
+        "Option2": "the one off to the left",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of hair has a diameter of 0.06 mm whereas a rope's diameter is 1 cm so hair is? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "As the police siren moves from a distance of 100 feet from my house to 175 feet from my house, it became? ",
+        "Option1": "louder",
+        "Option2": "quieter",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Which do you think would be easier to hear? ",
+        "Option1": "a helicopter you are about to board or",
+        "Option2": "a helicopter that is flying 100 feet away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "4 kids are able to push a toy car across a wooden table, whereas more than 4 kids are required to push it across the grass. The tires of the toy car would get more warm when it is pushed over the? ",
+        "Option1": "wooden table",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jame's mother has a photo of Jane standing at a height of 34 cm, whereas a mountain appears to have height of 29 cm. It looks that way because? ",
+        "Option1": "the mountain was farther away",
+        "Option2": "Jane was farther away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "1 dozen kids are able to push a toy car across a wooden table, whereas 9 kids are required to push it across the grass. The tires of the toy car would get more warm when it is pushed over the? ",
+        "Option1": "wooden table",
+        "Option2": "grass.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tree branch was 7 inches thick wheras the flower branch was 4 millimter so flower branch was? ",
+        "Option1": "weaker",
+        "Option2": "stronger",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bmx bike can ride 140 cm on a quarter pipe and 31 cm on a half pipe. This means the bmx bike will get hotter on the? ",
+        "Option1": "quarter pipe",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bmx bike can ride 843 cm on a quarter pipe and 31 m on a half pipe. This means the bmx bike will get hotter on the? ",
+        "Option1": "quarter pipe",
+        "Option2": "half pipe",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's dog sled can move 34 m over flat ground and 19 m over a trail. Sam has decided that his dog sled will get hotter travelling over a? ",
+        "Option1": "trail",
+        "Option2": "flat ground",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Little Sally found that her dad's freight train was able to travel 18  cm on sloped tracks and 12 cm on flat tracks. She surmised that the freight train got hotter on? ",
+        "Option1": "sloped tracks",
+        "Option2": "flat tracks",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of steak is usually 1.5 inches thick and a piece of paper is 0.003 inches thick. Which object is harder to rip in half?? ",
+        "Option1": "steak",
+        "Option2": "paper",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ross made everyone laugh when he slid across the wood floor in his socks. He tried doing it at his friends on a carpeted floor. He  went 2 inch on the carpet, and he went 3 feet on the wood floor. Ross would be making less heat against the? ",
+        "Option1": "wood floor",
+        "Option2": "carpet.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's dog sled can move 3 m over flat ground 13 m over a trail. Sam has decided that his dog sled will get hotter travelling over a? ",
+        "Option1": "trail",
+        "Option2": "flat ground",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of hair has a diameter of 0.06 mm whereas a rope's diameter is 11 mm so hair is? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of hair has a diameter of 0.04 mm whereas a rope's diameter is 9 mm so hair is? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Which do you think would be easier to hear? ",
+        "Option1": "a helicopter that is flying 95 feet away",
+        "Option2": "a helicopter that is flying 175 feet away.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "As the police siren moves from a distance of 100 meter from my house to 175 feet from my house, it became? ",
+        "Option1": "louder",
+        "Option2": "quieter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark is walking towards a forest and spots a large tree from 100 yards away. He continues to walk towards the tree, stands two yards away and looks at it. At which point you think will the tree appear larger?? ",
+        "Option1": "34 yards away",
+        "Option2": "half of 42 yards away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two fisherman are out on a big lake when a heavy fog unexpectedly covers them and they can barely see anything. But the fisherman hear two fog horns calling from the shore. The one towards the left is half louder than the one off towards the right. Which one should they head towards if they want to save time getting to shore?? ",
+        "Option1": "the one off to the right",
+        "Option2": "the one off to the left",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Which do you think would be easier to hear? ",
+        "Option1": "a helicopter that is flying 100 feet away",
+        "Option2": "a helicopter that is flying 250 feet away.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "As the police siren moves from a distance of  50 feet from my house to 275 feet from my house, it became? ",
+        "Option1": "louder",
+        "Option2": "quieter",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark is walking towards a forest and spots a large tree from 100 yards away. He continues to walk towards the tree, stands two yards away and looks at it. At which point you think will the tree appear larger?? ",
+        "Option1": "quarter of 100 yards away",
+        "Option2": "32 yards away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's dog sled can move 78 cm over flat ground  and 67 cm over a trail. Sam has decided that his dog sled will get hotter travelling over a? ",
+        "Option1": "trail",
+        "Option2": "flat ground",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Which do you think would be easier to hear? ",
+        "Option1": "a helicopter that is flying 114 feet away",
+        "Option2": "a helicopter that is flying 89 feet away.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sliding a magazine across a waiting room table causes it to slide a distance of 7 cm and sliding it across a coffee table causes it to slide 15 cm. Which table will make the magazine get less hotter?? ",
+        "Option1": "waiting room table",
+        "Option2": "coffee table",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A salmon swimming through a river experiences friction force of 2.4 N, while a salmon swimming through a creek experiences friction force of 0.007 KN. Which river causes the temperature of the salmon to increase more?? ",
+        "Option1": "river",
+        "Option2": "creek",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was shooting his gun for practice one day when he noticed the bullet travelled 17 cm through dirt and 8 cm through cement. He realized this meant the bullet got hotter when moving through the? ",
+        "Option1": "cement",
+        "Option2": "dirt",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's dog sled can move 40 m over flat ground and 23 m over a trail. Sam has decided that his dog sled will get hotter travelling over a? ",
+        "Option1": "trail",
+        "Option2": "flat ground",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's dog sled can move 40 m over flat ground 23 m and over a trail. Sam has decided that his dog sled will get less hotter travelling over a? ",
+        "Option1": "trail",
+        "Option2": "flat ground",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's iron temperature changed from 30 to 45 celcius when he slid it over his ironing board compared to when he slid it over his floor. This means the iron went a greater distance over the? ",
+        "Option1": "ironing board",
+        "Option2": "floor",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ross made everyone laugh when he slid across the wood floor in his socks. He tried doing it at his friends on a carpeted floor. He  went 1 inch on the carpet, and he went 2 feet on the wood floor. Ross would be making less heat against the? ",
+        "Option1": "wood floor",
+        "Option2": "carpet.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sliding a magazine across a waiting room table causes it to slide a distance of 15 cm and sliding it across a coffee table causes it to slide 10 cm. Which table will make the magazine get hotter?? ",
+        "Option1": "waiting room table",
+        "Option2": "coffee table",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Little Sally found that her dad's freight train was able to travel 23 m on sloped tracks and 9 m on flat tracks. She surmised that the freight train got hotter on? ",
+        "Option1": "sloped tracks",
+        "Option2": "flat tracks",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two fisherman are out on a big lake when a heavy fog unexpectedly covers them and they can barely see anything. But the fisherman hear two fog horns calling from the shore. The one towards the left is 50% less louder than the one off towards the right. Which one should they head towards if they want to save time getting to shore?? ",
+        "Option1": "the one off to the right",
+        "Option2": "the one off to the left",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bill punches a green window and it needs 2 punches to break. Then he punches a blue window and it needs 1 punch to break. The more powerful window is the? ",
+        "Option1": "green window",
+        "Option2": "blue window",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two fisherman are out on a big lake when a heavy fog unexpectedly covers them and they can barely see anything. But the fisherman hear two fog horns calling from the shore. The one towards the left is 25 % less louder than the one off towards the right. Which one should they head towards if they want to save time getting to shore?? ",
+        "Option1": "the one off to the right",
+        "Option2": "the one off to the left",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two fisherman are out on a big lake when a heavy fog unexpectedly covers them and they can barely see anything. But the fisherman hear two fog horns calling from the shore. The one towards the left is 3 times louder than the one off towards the right. Which one should they head towards if they want to save time getting to shore?? ",
+        "Option1": "the one off to the right",
+        "Option2": "the one off to the left",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sliding a magazine across a waiting room table causes it to slide a distance of 12 cm and sliding it across a coffee table causes it to slide 24 cm. Which table will make the magazine get hotter?? ",
+        "Option1": "waiting room table",
+        "Option2": "coffee table",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "As the police siren moves from a distance of 125 feet from my house to 45 meter from my house, it became? ",
+        "Option1": "louder",
+        "Option2": "quieter",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tree branch was 2 inches thick wheras the flower branch was 0.1 inches so tree branch was? ",
+        "Option1": "weaker",
+        "Option2": "stronger",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of steak is usually 1.76 inches thick and a piece of paper is 0.006 inches thick. Which object is easier to rip in half?? ",
+        "Option1": "steak",
+        "Option2": "paper",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's iron temperature changed from 49 to 73 units when he slid it over his ironing board compared to when he slid it over his floor. This means the iron went a greater distance over the? ",
+        "Option1": "ironing board",
+        "Option2": "floor",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A piece of steak is usually 2 inches thick and a piece of paper is 0.004 inches thick. Which object is harder to rip in half?? ",
+        "Option1": "steak",
+        "Option2": "paper",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sliding a magazine across a waiting room table causes it to slide a distance of 29 cm and sliding it across a coffee table causes it to slide 17 cm. Which table will make the magazine get hotter?? ",
+        "Option1": "waiting room table",
+        "Option2": "coffee table",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bmx bike can ride 39 m on a quarter pipe and 17 m on a half pipe. This means the bmx bike will get hotter on the? ",
+        "Option1": "quarter pipe",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sam's iron temperature changed from 45 to 76 celcius when he slid it over his ironing board compared to when he slid it over his floor. This means the iron went a greater distance over the? ",
+        "Option1": "ironing board",
+        "Option2": "floor",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A salmon swimming through a river experiences friction force of 5.7 N, while a salmon swimming through a creek experiences friction force of 9.4 N. Which river causes the temperature of the salmon to increase more?? ",
+        "Option1": "river",
+        "Option2": "creek",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The trunk on the old tree has thickness diameter of 4 inch, whereas the trunk on the new tree has thickness radius of 8 cm, so old tree was a? ",
+        "Option1": "stronger tree",
+        "Option2": "weaker tree",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sue wrapped saran wrap which is 0.3 mm thick over the bowl of her toilet and dropped a potato in the middle of it. The potato fell straight through.  She then put down the toilet lid which is 20 mm thick and conducted the experiment again, and the potato bounced harmlessly off the lid. That's because? ",
+        "Option1": "the saran wrap is thinner",
+        "Option2": "the toilet lid is thinner",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tree branch was 8 inches thick wheras the flower branch was 6.35 millimter so tree branch was? ",
+        "Option1": "weaker",
+        "Option2": "stronger",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was shooting his gun for practice one day when he noticed the bullet travelled 190 mm through dirt and 37 mm through cement. He realized this meant the bullet got hotter when moving through the? ",
+        "Option1": "cement",
+        "Option2": "dirt",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark is walking towards a forest and spots a large tree from 100 yards away. He continues to walk towards the tree, stands two yards away and looks at it. At which point you think will the tree appear larger?? ",
+        "Option1": "74 yards away",
+        "Option2": "2 less than 100 yards away",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Callie is attending a concert. At one point, the mic drops out, what do you think she must be sitting where if she can still hear the singer?? ",
+        "Option1": "Front row",
+        "Option2": "10th row",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was shooting his gun for practice one day when he noticed the bullet travelled 9 cm through dirt and 3 cm through cement. He realized this meant the bullet got hotter when moving through the? ",
+        "Option1": "cement",
+        "Option2": "dirt",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sliding a magazine across a waiting room table causes it to slide a distance of 78 mm and sliding it across a coffee table causes it to slide 45 mm. Which table will make the magazine get hotter?? ",
+        "Option1": "waiting room table",
+        "Option2": "coffee table",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Little Sally found that her dad's freight train was able to travel 50 m on sloped tracks and 10 m on flat tracks. She surmised that the freight train got hotter on? ",
+        "Option1": "sloped tracks",
+        "Option2": "flat tracks",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "6 kids are able to push a toy car across a wooden table, whereas 9 kids are required to push it across the grass. The tires of the toy car would get more warm when it is pushed over the? ",
+        "Option1": "wooden table",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark is walking towards a forest and spots a large tree from 100 yards away. He continues to walk towards the tree, stands two yards away and looks at it. At which point you think will the tree appear larger?? ",
+        "Option1": "80 yards away",
+        "Option2": "42 yards away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark is walking towards a forest and spots a large tree from 100 yards away. He continues to walk towards the tree, stands two yards away and looks at it. At which point you think will the tree appear larger?? ",
+        "Option1": "100 yards away",
+        "Option2": "2 yards away",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A salmon swimming through a river experiences friction force of 0.07 KN, while a salmon swimming through a creek experiences friction force of 2 N. Which river causes the temperature of the salmon to increase more?? ",
+        "Option1": "river",
+        "Option2": "creek",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sue wrapped saran wrap which is 0.2 mm thick over the bowl of her toilet and dropped a potato in the middle of it. The potato fell straight through.  She then put down the toilet lid which is 3.9 cm thick and conducted the experiment again, and the potato bounced harmlessly off the lid. That's because? ",
+        "Option1": "the saran wrap is thinner",
+        "Option2": "the toilet lid is thinner",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The ranger and the rustler both were riding horses that galloped at the same speed.  The rustler left at 01:00 where as the ranger left at 0500 hours. Who has traveled further?? ",
+        "Option1": "the ranger",
+        "Option2": "the rustler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina is racing her two dogs. Her greyhound weighs 40 kgs, and her rottweiler weighs 35 kgs. The dog that gets faster more quickly is the? ",
+        "Option1": "rottweiler",
+        "Option2": "greyhound",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Sue decide to ride their bikes around the park. They follow the same path but Mike rides his bike at 16 miles/hour and Sue rides at 5 miles/hour. After ten minutes, who will have covered less distance?? ",
+        "Option1": "Mike",
+        "Option2": "Sue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A tank weighs around 63 tons. A toy car weighs 1.5 kg. Because of this? ",
+        "Option1": "the tank will speed up faster than the toy car",
+        "Option2": "the toy car will speed up faster than the tank",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The mammoth moved at a speed of 21 km per hour through the watering hole, but moved at a speed of 14 km per hour on the hard dirt because the hard dirt had? ",
+        "Option1": "less resistance",
+        "Option2": "more resistance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The mammoth moved at a speed of 18 km per hour through the watering hole, but moved at a speed of 18 miles per hour on the hard dirt because the hard dirt had? ",
+        "Option1": "less resistance",
+        "Option2": "more resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sarah used a remote control to turn on two identical lamps with the same power bulb, one was 4 m away and the other was 30 m away. Which lamp looked brighter?? ",
+        "Option1": "lamp nearby",
+        "Option2": "lamp across the room",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sedan weighs 1500 Kg and a garbage truck which weighs 69632 pounds start side by side at a traffic light. When the light turns green both vehicle race to reach 50 miles per hour. Which vehicle will win the race?? ",
+        "Option1": "Sedan",
+        "Option2": "Garbage truck",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beauty queen glided across the marble floors with speed of 15 m/s but at speed 1000 cm/s on the wooden floors because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rolling a marble over dirt creates 1.2 mega N resistance, whereas rolling it over sand creates 45 N resistance. This means the marble will travel further over the? ",
+        "Option1": "sand or",
+        "Option2": "dirt",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marcus's son took the pool ball off the pool table to play with it around the house. The son noticed that the pool ball rolled a distance of 180 cm on the marble floor and 27 cm on the shag rug. The smoother surface is? ",
+        "Option1": "the marble floor or",
+        "Option2": "the shag rug.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The ranger and the rustler both were riding horses that galloped at the same speed.  The rustler left at 16:00 where as the ranger left at 1 pm. Who has traveled further?? ",
+        "Option1": "the ranger",
+        "Option2": "the rustler",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two horses are being ridden out of the same barn. The white horse is going the same speed as the grey horse. The grey horse traveled for 19 mins and the white horse traveled for 28 mins. Which horse went further?? ",
+        "Option1": "white horse",
+        "Option2": "grey horse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sherry rolls her ball down two lanes. The ball covers the red lane in 15 secs, but covers the green lane in 20 secs. Both the lanes are of same length. The ball slows in the green lane because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toddler is rolling a ball for more than 1 mins on the grass and rolls it on to the sand where it stops after 43 seconds. The sand stopped the ball because it has _____ than the grass.? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marlo weighs 678 N whereas his friend Dan weighs 852 N . The person which has more mass is likely? ",
+        "Option1": "Marlo",
+        "Option2": "Dan",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A Motorcycle which weighs 1833 pounds and an SUV which weighs 900 pounds are stopped at a stop light. When the light turns green which vehicle gets the jump on the other?? ",
+        "Option1": "Suv",
+        "Option2": "Motorcycle",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim owns both a truck and a car. The truck weighs 1176 kg less then the car. Which vehicle will accelerate at a greater rate of speed when he presses down on the gas pedal?? ",
+        "Option1": "truck",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A racehorse and a horse drawn carriage both depart from a saloon at the same time. The horse drawn carriage can cover 8 meters and the racehorse can cover 19 meters in the same duration. Which will arrive last at the next town?? ",
+        "Option1": "the horse drawn carriage will take more time to arrive at the next town",
+        "Option2": "the racehorse will take more time to arrive at the next town",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bowling ball has a mass of 12 pounds and a baseball weighs 13 pounds. Which item has weaker gravity?? ",
+        "Option1": "baseball",
+        "Option2": "bowling ball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was rowing across a lake one day. He learned that his oar heated up to a temprature of 227 degree fahrenheit when rowing through choppy water, but reached temprature of 75.89 degree \u00e7 when rowing through calm water. This made him realize that his oar moved slower through the? ",
+        "Option1": "choppy water or",
+        "Option2": "calm water",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The F-16 usually weighs 9034 kg and the jumbo jet weighs 439987 kg. Therefore, the F-16 was? ",
+        "Option1": "slower accelerating",
+        "Option2": "faster accelerating",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hen can run at 140 cm/s and a turkey can run 4 m/s. If both run from the barn to the shed, which will get there sooner?? ",
+        "Option1": "hen",
+        "Option2": "turkey",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toddler is rolling a ball. It rolls around 5 seconds on the grass and stops. It rolls on to the concrete covered sand where it stops after 0.3 hrs. The sand stopped the ball because it has _____ than the grass.? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Steven decided to do an experiment. They took one part of the brick having weight of 30g, and bunch of pebbles which has a total weight of 400g, and threw them out his second story window, when they looked down they discovered that the bundle of pebbles reached the floor earlier than the brick because _____ than the brick.? ",
+        "Option1": "it has less mass",
+        "Option2": "it has more mass",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jimbo knows that his marble has a 6 grams of mass and the rock has a mass of 4 grams. This means the? ",
+        "Option1": "marble",
+        "Option2": "rock has stronger gravity",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train conductor switched courses from a track, to wheels on ground and noticed that he travelled at 58 kmph where as on tracks he was travelling at 39 kmph with the same amount of power. The _____ were way more smooth.? ",
+        "Option1": "track",
+        "Option2": "wheels",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The propeller on Kate's boat moved at a speed of 1300 rpm in the ocean and 100 revolutions per second to  the river. This means the propeller heated up less in the? ",
+        "Option1": "ocean",
+        "Option2": "river",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sedan weighs 2500 Kg and a garbage truck which weighs 1000 Kg start side by side at a traffic light. When the light turns green both vehicle race to reach 50 miles per hour. Which vehicle will win the race?? ",
+        "Option1": "Sedan",
+        "Option2": "Garbage truck",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Elliot is working in a warehouse. He notices that he is able to push a handcart at the speed of 19 m/s on the cement and 23 m/s on the carpet. The handcart will generate more heat when Elliot pushes it over the? ",
+        "Option1": "carpet",
+        "Option2": "cement.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A race car and a pickup both drove on the highway at the same speed. The driver of the race car got tired and parked after 29 mins, while the driver of the pickup ran for 43 mins. Which vehicle ultimately went the greater distance?? ",
+        "Option1": "race car",
+        "Option2": "pickup",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marcy is rolling her yellow ball down her paved driveway and the ball rolls 14 meters. Then Marcy rolls the yellow ball down the muddy sidewalk and the ball stops rolling after 0.2 meter. The ball stopped on the muddy sidewalk because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marcus's son took the pool ball off the pool table to play with it around the house. The son noticed that the pool ball rolled a distance of 5 m on the marble floor and 2 m on the shag rug. The smoother surface is? ",
+        "Option1": "the marble floor or",
+        "Option2": "the shag rug.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A trainer watched his horse run each day. The horse was able to get to top speed more in 6 secs when no one was riding him and when there was someone riding him it took him 12 secs. This is because the horse had less weight to move when? ",
+        "Option1": "it had a rider",
+        "Option2": "it had no rider.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "By driving her car, Mary found out that jungle has friction coefficient of 0.8, whereas tundra has 0.4. Her car moved faster over? ",
+        "Option1": "jungle",
+        "Option2": "tundra",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Doug travels from his house to a friend's house on his bicycle, and he covers 7 meters in an hour and when he makes the same trip on foot, he covers 2 miles in an hour. In which situation will Doug get to his friend's house sooner?? ",
+        "Option1": "On foot",
+        "Option2": "On a bicycle",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Lisa was playing with two model rockets. She shot off the red one and the black one at the same time. After 30 seconds the black one was 2 m above the ground and the red one was 23 cm above the ground. Which had more speed?? ",
+        "Option1": "the red one",
+        "Option2": "the black one",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike was comparing the mass of a boulder and a pebble. He found that the mass of the boulder was 129 pounds and of the pebble was 12 pounds. Which item emits stronger gravity?? ",
+        "Option1": "boulder",
+        "Option2": "pebble",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shiloh rolls a ball over a piece of sandpaper and notices that the ball move at a seed of 2 m/s Shiloh then rolls his ball over a piece of glass, and the ball rolls at a speed of 5 m/s. The ball rolled quickly on the piece of glass because the glass had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was rowing across a lake one day. He learned that his oar heated up to a temprature of 84.12 degree celsius when rowing through choppy water, but reached temprature of 75.89 degree celsius when rowing through calm water. This made him realize that his oar moved slower through the? ",
+        "Option1": "choppy water or",
+        "Option2": "calm water",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Linda and Melinda decided to kayak across a lake. Linda made it across the lake in 4 milliseconds and Melinda did it in 98 milliseconds. Which one of them didn't go as fast as the other?? ",
+        "Option1": "Linda",
+        "Option2": "Melinda",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Emily threw a banana onto the roof and it slid for 5 cms, but when she threw it onto the old slide, it slid for 11 mms. She concluded that there was less friction on the? ",
+        "Option1": "roof",
+        "Option2": "slide.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tim's ring rolled 4.5 cm his vanity and 1.2 cm over his floor. Tim's _____ is smoother? ",
+        "Option1": "floor",
+        "Option2": "vanity",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim could run at a speed of 67 cm/s and his sister Jen could run at 12 cm/s. They had to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should run with the vaccines in order to get them there in a shorter amount of time?? ",
+        "Option1": "Jim",
+        "Option2": "Jen",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Josh notices it's harder to lift his niece who weighs 39 lbs than his baby nephew who weighs 33 lbs. His niece has a _____ pull of gravity? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A golf ball has a mass of 56 grams and a baseball has a mass of 184 gms. Which item has a weaker gravitational field?? ",
+        "Option1": "golf ball",
+        "Option2": "baseball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sedan weighs 3351 pounds and a garbage truck which weighs 64000 pounds start side by side at a traffic light. When the light turns green both vehicle race to reach 50 miles per hour. Which vehicle will win the race?? ",
+        "Option1": "Sedan",
+        "Option2": "Garbage truck",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tank has a maximum speed of 5 m/s and the fighter jet has a maximum speed of 50 m/s. Supposing they both had to travel a set distance? ",
+        "Option1": "the tank will take more time than the jet to make that journey",
+        "Option2": "the tank will take less time than the jet to take that journey",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The iRobot cleans the tiles in 7 minutes and the plush carpet in 100 seconds because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hen can run at 14 m/s and a turkey can run 4 m/s. If both run from the barn to the shed, which will get there sooner?? ",
+        "Option1": "hen",
+        "Option2": "turkey",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two horses are being ridden out of the same barn. The white horse is going the same speed as the grey horse. The grey horse traveled for 9 mins and the white horse traveled for 5 mins. Which horse went further?? ",
+        "Option1": "white horse",
+        "Option2": "grey horse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Josh notices it's harder to lift his niece who weighs 60 lbs than his baby nephew who weighs 45 lbs. His niece has a _____ pull of gravity? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 50 secs and on the grass he took 4 mins. The bike heated up more when it traveled on the? ",
+        "Option1": "cement path",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sarah used a remote control to turn on two identical lamps with the same power bulb, one was 16 m away and the other was 12 m away. Which lamp looked brighter?? ",
+        "Option1": "lamp nearby",
+        "Option2": "lamp across the room",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sarah used a remote control to turn on two identical lamps with the same power bulb, one was 3 m away and the other was 120 cm away. Which lamp looked brighter?? ",
+        "Option1": "lamp nearby",
+        "Option2": "lamp across the room",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beach volleyball player jumped 40 m on the gym floor, but 22 m on the beach shore sand because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 35 mins and on the grass he took 48 mins. The bike heated up more when it traveled on the? ",
+        "Option1": "cement path",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beach volleyball player jumped 1.2 m on the gym floor, but 4 cms on the beach shore sand because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina and Wynona are both going the same speed down the highway. Tina drives for 129 minutes and Wynona drives for 36 minutes 48 seconds. Will Tina have? ",
+        "Option1": "driven further",
+        "Option2": "driven less",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A billiard ball has a mass of 6 oz and the basketball has a mass of 0.5 oz. Which ball has a stronger field of gravity?? ",
+        "Option1": "billiard ball",
+        "Option2": "basketball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A capybara runs at a speed of 2000 cm/s and an anteater runs at a speed of 1 m/s. If both animals make the same journey, which will get there sooner?? ",
+        "Option1": "capybara",
+        "Option2": "anteater",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike is standing at a distance of 6 m from a lantern and 23 m from a streetlight. Which light source seems brighter to him?? ",
+        "Option1": "lantern",
+        "Option2": "streetlight",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim could run at a speed of 46 m/s and his sister Jen could run at 22 m/s. They had to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should run with the vaccines in order to get them there in a shorter amount of time?? ",
+        "Option1": "Jim",
+        "Option2": "Jen",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hen can run at 14 cm/s and a turkey can run 4 cm/s. If both run from the barn to the shed, which will get there sooner?? ",
+        "Option1": "hen",
+        "Option2": "turkey",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The propeller on Kate's boat moved at a speed of 7656 rpm in the ocean and 1436 rpm the river. This means the propeller heated up less in the? ",
+        "Option1": "ocean",
+        "Option2": "river",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two Amish couples are getting ready to leave the grocery store. They load their groceries into each one of their carts. Each cart has one horse pulling it and they are equally strong. Horse one has to carry 98 pounds food and Horse 2 has to carry 62 pounds. Which one will be slower to accelerate?? ",
+        "Option1": "horse one",
+        "Option2": "horse 2",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Terry takes his bicycle for a ride, first riding through the grass field at 17 m/s, then the paved street at 48 m/s. The paved street had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim lives 10 miles from the Riot servers. Jeff lives 2000 miles from the Riot servers. Both have the same internet speed. Who's ping will be higher?? ",
+        "Option1": "Jim",
+        "Option2": "Jeff",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Roz is going skiing. She skis down a muddy hill and then down a snowy hill. Roz notices that she goes down the snowy hill in 0.53 hour and muddy hill in 48 mins and both the hills are of approximately same size. That might be because the muddy hill had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bill throws a small foam boulder of mass 300 g and a pebble of mass 400 g. The pebble falls faster than the boulder meaning it? ",
+        "Option1": "weighs more",
+        "Option2": "weighs less",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sherry rolls her ball down two lanes. The ball moves at a speed of 28 m/s on the red lane, and 29 m/s on the green lane. The ball paces in the green lane because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim could run at a speed of 46 cm/s and his sister Jen could run at 2 m/s. They had to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should run with the vaccines in order to get them there in a shorter amount of time?? ",
+        "Option1": "Jim",
+        "Option2": "Jen",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was rowing across a lake one day. He learned that his oar heated up to a temprature of 110 degree fahrenheit when rowing through choppy water, but reached temprature of 100 degree fahrenheit when rowing through calm water. This made him realize that his oar moved slower through the? ",
+        "Option1": "choppy water or",
+        "Option2": "calm water",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bird can cover 43 m in 1 second and a beetle can cover 7.2 m in 1 second. If both animals make the same journey, which will arrive sooner?? ",
+        "Option1": "beetle",
+        "Option2": "bird",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sleig slided for 22.9659 yards over a rooftop and 15 meters over cold ground, starting at the same speed on both the surfaces. This means the _____ is more rough? ",
+        "Option1": "rooftop",
+        "Option2": "cold ground",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A little boy rolls two of his rubber balls down the hallway. The red ball stopped after 70 secs. the blue one stopped after 2 mins 34 secs. Which one rolled the furthest?? ",
+        "Option1": "Red ball",
+        "Option2": "blue ball.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Emily threw a banana onto the roof and it slid for 100 mms, but when she threw it onto the slide, it slid for 211 mms. She concluded that there was less friction on the? ",
+        "Option1": "roof",
+        "Option2": "slide.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a skater rides at a speed of 23 m/s on a half pipe and 17 m/s in a skate park this means that the _____ is smoother? ",
+        "Option1": "skate park",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jimbo knows that his marble has a 12 grams of mass and the rock has a mass of 9 grams. This means the? ",
+        "Option1": "marble",
+        "Option2": "rock has stronger gravity",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train conductor switched courses from a track, to wheels on ground and noticed that he travelled at 45 kmph where as on tracks he was travelling at 30 kmph with the same amount of power. The _____ were way more smooth.? ",
+        "Option1": "track",
+        "Option2": "wheels",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's pickle seems to roll around at the speed of 2 cm/min on his ceramic plate and at a speed of 1 cm/min on his paper plate. This means his pickle heats up more rolling around on the? ",
+        "Option1": "paper plate",
+        "Option2": "ceramic plate",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fish glided with a speed of 4 mph through the water and 1 mph through the jello because the _____ is smoother.? ",
+        "Option1": "jello",
+        "Option2": "water",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tim's ring rolled 1.6 cm his vanity and 4.9 cm over his floor. Tim's _____ is smoother? ",
+        "Option1": "floor",
+        "Option2": "vanity",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "if a train is going at 50 mph and a bike at 20 mph the bike will travel? ",
+        "Option1": "more distance",
+        "Option2": "less distance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary has a cat that she loves to play with. Sometimes she drags the cat toy across the floor so the cat can chase it. When she drags the cat toy across the play room floor it a distance of 4 m. When she drags it across the rumpus room floor it moves 20 cm. This means the _____ is more smooth? ",
+        "Option1": "play room floor",
+        "Option2": "rumpus room floor",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shep and Chris are driving on the same road and going the same speed. However, Shep has traveled for 36 mins and Chris has traveled for 28 mins. As a result? ",
+        "Option1": "Shep has traveled further than Chris",
+        "Option2": "Shep has not traveled further than Chris",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Driving a car to work takes 2 hours and riding a bus takes 4 hours. Which vehicle moves at a greater rate of speed?? ",
+        "Option1": "bus",
+        "Option2": "car",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Billy and Jimmy decide to race home one day. Jimmy made it back home in 100 minutes and Billy took 1 hours. That it because Jimmy is? ",
+        "Option1": "lower",
+        "Option2": "aster.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a car and a pickup both travel at 60 mph, but the car stops after 1.3 hours whereas the pickup stops after 186 mins, which has travelled the lesser distance?? ",
+        "Option1": "car",
+        "Option2": "pickup",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark noticed that he can throw his lawn dart around 8 meters into soft dirt on average and 5 meters into packed sand. This means that the _____ is smoother? ",
+        "Option1": "soft dirt",
+        "Option2": "packed sand",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary has a cat that she loves to play with. Sometimes she drags the cat toy across the floor so the cat can chase it. When she drags the cat toy across the play room floor it a distance of 6.5 cm. When she drags it across the rumpus room floor it moves 9.1 cm. This means the _____ is more smooth? ",
+        "Option1": "play room floor",
+        "Option2": "rumpus room floor",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rod was rolling a ball to his dog. He was able to roll the ball to a distance of 15.65 yards on the cement and to a distance of 13 meters on the grass. This is because the cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Milo was rowing across a lake one day. He learned that his oar heated up to a temprature of 213 degree fahrenheit when rowing through choppy water, but reached temprature of 158 degree fahrenheit when rowing through calm water. This made him realize that his oar moved slower through the? ",
+        "Option1": "choppy water or",
+        "Option2": "calm water",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two paper planes are thrown at a time, into the air. One is made of thick cardboard and has a weight of 200 gms, one is made of thin paper and weighs 40 gms. Which paper plane flies faster?? ",
+        "Option1": "cardboard plane",
+        "Option2": "paper plane",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marlo weighs 480 kg*m*s^-2 whereas his friend Dan weighs 650 N . The person which has less mass is likely? ",
+        "Option1": "Marlo",
+        "Option2": "Dan",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim owns both a truck and a car. The truck weighs 13025 kg more then the car. Which vehicle will accelerate at a greater rate of speed when he presses down on the gas pedal?? ",
+        "Option1": "truck",
+        "Option2": "car",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Sue decide to ride their bikes around the park. They follow the same path but Mike rides his bike at 4.5 m/sec and Sue rides at 3.4 m/sec. After ten minutes, who will have covered more distance?? ",
+        "Option1": "Mike",
+        "Option2": "Sue",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two horses are being ridden out of the same barn. The white horse is going the same speed as the grey horse. The grey horse traveled for 1 hr and the white horse traveled for 54 mins. Which horse went further?? ",
+        "Option1": "white horse",
+        "Option2": "grey horse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jasper is carrying his nephew in the park.  Then it's his niece's turn.  His niece is five years older and weighs 30 kgs whereas his nephew weghs 20 kgs. Who has more of a gravity pull?? ",
+        "Option1": "the niece",
+        "Option2": "the nephew",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a skater rides at a speed of 34 m/s on a half pipe and 22 m/s in a skate park this means that the _____ is rougher? ",
+        "Option1": "skate park",
+        "Option2": "half pipe",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The iRobot cleans the tiles in 10 seconds and the plush carpet in 14 seconds because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat and a dog both run at 5 mph. If the cat runs for a 27 mins and the dog runs for 14 mins, which will have gone the greater distance?? ",
+        "Option1": "cat",
+        "Option2": "dog",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "By driving her car, Mary found out that jungle has friction coefficient of 0.7, whereas tundra has 10% of 1.2 Her car moved faster over? ",
+        "Option1": "jungle",
+        "Option2": "tundra",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two horses are being ridden out of the same barn. The white horse is going the same speed as the grey horse. The grey horse traveled for 1 hr 30 mins and the white horse traveled for 3 hr 48 mins. Which horse went further?? ",
+        "Option1": "white horse",
+        "Option2": "grey horse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A racehorse and a horse drawn carriage both depart from a saloon at the same time. The horse drawn carriage has a speed of 21 m/s and the racehorse has a speed of 34 m/s. Which will arrive last at the next town?? ",
+        "Option1": "the horse drawn carriage will take more time to arrive at the next town",
+        "Option2": "the racehorse will take more time to arrive at the next town",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rat and a mouse each set out walking from the high school to the hospital. The rat runs at 11 cm/s and the mouse runs at 3 cm/s. Who took more time to arrive at the hospital?? ",
+        "Option1": "the rat",
+        "Option2": "the mouse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tommy raced his older brother to the pool. Tommy can dive at 17 m/s and his brother can dive at 39 m/s. Who dove in first? ",
+        "Option1": "Tommy or",
+        "Option2": "brother.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The horse runs at a speed of 3 m/s on the derby track and at 245 cm/s in the forest because the forest has? ",
+        "Option1": "more obstacles",
+        "Option2": "less obstacles",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fish glided with a speed of 13 m/s through the water and 6 m/s through the jello because the _____ is smoother.? ",
+        "Option1": "jello",
+        "Option2": "water",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a skater rides at a speed of 27 m/s on a half pipe and 29 m/s in a skate park this means that the _____ is smoother? ",
+        "Option1": "skate park",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Steven decided to do an experiment. They took one brick which has a weight of 800g, and one pebble which has a weight of 4g, and threw them out his second story window, when they looked down they discovered that the pebble reached the floor later than the brick because _____ than the brick.? ",
+        "Option1": "it has less mass",
+        "Option2": "it has more mass",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cheetah runs at a speed of 45 m/h while a dog runs at 2 km/h so it will take? ",
+        "Option1": "less time",
+        "Option2": "more time to run a lap around a track",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 28 mins and on the grass he took 17 mins. The bike heated up more when it traveled on the? ",
+        "Option1": "cement path",
+        "Option2": "grass.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Billy and Jimmy decide to race home one day. Jimmy made it back home in 20 minutes and Billy took 82 minutes. That it because Jimmy is? ",
+        "Option1": "lower",
+        "Option2": "aster.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mister Bigsby rolled a baseball down two different hills. The first hill is a pile of rocks and the second hill is fresh cement. Mister Bigsby noticed that the basball travels 37 m down the fresh cement and 8 m down the pile of rocks. This is because the fresh cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A little boy rolls two of his rubber balls down the hallway. The red ball stopped after 45 secs. the blue one stopped after 57 secs. Which one rolled the furthest?? ",
+        "Option1": "Red ball",
+        "Option2": "blue ball.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fish glided with a speed of 12 m/s through the water and 600 cm/s through the jello because the _____ is smoother.? ",
+        "Option1": "jello",
+        "Option2": "water",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bob was 290 cm away from the street lamp. He moved a bit and now he is 15 m away, he noticed that it got _____.? ",
+        "Option1": "brighter",
+        "Option2": "dimmer",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim wears a thick Kevlar vest of width 1 inch. Jack is just wearing a cotton shirt of 3 cm. Which top would stop a bullet?? ",
+        "Option1": "Kevlar",
+        "Option2": "Cotton",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dylan threw a pebble, which has a mass of 0.2 Kg and basketbal, which has a mass of 1 Kg, out the window. The _____ had a stronger gravity pull because of it's greater mass.? ",
+        "Option1": "pebble",
+        "Option2": "basketball",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Lisa was playing with two model rockets. She shot off the red one and the black one at the same time. After 30 seconds the black one was 30 m above the ground and the red one was 18 m above the ground. Which had more speed?? ",
+        "Option1": "the red one",
+        "Option2": "the black one",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina is racing her two dogs. Her greyhound weighs 84 lbs and rottweiler weighs 128 lbs. The dog that gets faster more quickly is the? ",
+        "Option1": "rottweiler",
+        "Option2": "greyhound",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marcy is rolling her yellow ball down her paved driveway and the ball rolls 10 meters. Then Marcy rolls the yellow ball down the muddy sidewalk and the ball stops rolling after 1 meter. The ball stopped on the muddy sidewalk because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina and Wynona are both going the same speed down the highway. Tina drives for 12 mins 56 seconds and Wynona drives for 36 minutes 48 seconds. Will Tina have? ",
+        "Option1": "driven further",
+        "Option2": "driven less",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bob sent a package via USPS and a package via UPS.  The package he sent via UPS arrived in 4 days and the one via USPS arrived in 2 weeks. Which parcel service was slower? ",
+        "Option1": "USPS was slower",
+        "Option2": "UPS was slower",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jed is trying to win a race against his friend Tyler. Jed is 260 pounds, and Tyler is 65 Kg. During the race, who will speed up fastest?? ",
+        "Option1": "Jed",
+        "Option2": "Tyler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A dog liked to roam the neighborhood. On Tuesday the dog walked down the street for a for 1 hr 45 mins, and on Wednesday the dog walked down the street but stopped after 30 mins. On which walk did the dog walk a greater distance down the street?? ",
+        "Option1": "on Tuesday",
+        "Option2": "on Wednesday.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fire chief of a city noticed that his fire engine travels at the speed of 13 kmph over a crowded road and 28 kmph on a open road. He used this information to determine that the _____ has more smooth? ",
+        "Option1": "crowded road or the",
+        "Option2": "open road",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A race car and a pickup both drove on the highway at the same speed. The driver of the race car got tired and parked after 15 mins, while the driver of the pickup continued on for 15 more minutes. Which vehicle ultimately went the greater distance?? ",
+        "Option1": "race car",
+        "Option2": "pickup",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's truck's average speed is 23 m/s and his car's speed is 38 m/s. If he drives both for an hour on the freeway, which will have gone the smaller distance?? ",
+        "Option1": "truck",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Sue decide to ride their bikes around the park. They follow the same path but Mike rides his bike at 21 miles/hour and Sue rides at 14 miles/hour. After ten minutes, who will have covered less distance?? ",
+        "Option1": "Mike",
+        "Option2": "Sue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two Amish couples are getting ready to leave the grocery store. They load their groceries into each one of their carts. Each cart has one horse pulling it and they are equally strong. Horse one has to carry 27 kgs and Horse 2 has to carry 34 kgs. Which one will be slower to accelerate?? ",
+        "Option1": "horse one",
+        "Option2": "horse 2",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cheetah runs at a speed of 45 km/h while a dog runs at 2 km/h so it will take? ",
+        "Option1": "less time",
+        "Option2": "more time to run a lap around a track",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tommy raced his older brother to the pool. Tommy can dive at 49 m/s and his brother can dive at 25 m/s. Who dove in first? ",
+        "Option1": "Tommy or",
+        "Option2": "brother.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat and a dog both run at 5 mph. If the cat runs for a 2 mins and the dog runs for 45 seconds, which will have gone the greater distance?? ",
+        "Option1": "cat",
+        "Option2": "dog",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A dog liked to roam the neighborhood. On Tuesday the dog walked down the street for a for 45 mins, and on Wednesday the dog walked down the street but stopped after 1hr 30 mins. On which walk did the dog walk a greater distance down the street?? ",
+        "Option1": "on Tuesday",
+        "Option2": "on Wednesday.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Linda and Melinda decided to kayak across a lake. Linda made it across the lake in 4 seconds and Melinda did it in 15 seconds. Which one of them didn't go as fast as the other?? ",
+        "Option1": "Linda",
+        "Option2": "Melinda",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tommy raced his older brother to the pool. Tommy can dive at 4 m/s and his brother can dive at 10 m/s. Who dove in first? ",
+        "Option1": "Tommy or",
+        "Option2": "brother.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mister Bigsby rolled a baseball down two different hills. The first hill is a pile of rocks and the second hill is fresh cement. Mister Bigsby noticed that the basball travels 40 m down the fresh cement and 10 m down the pile of rocks. This is because the fresh cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The propeller on Kate's boat moved at a speed of 3400 rpm in the ocean and 6700 rpm the river. This means the propeller heated up less in the? ",
+        "Option1": "ocean",
+        "Option2": "river",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Joe is driving back to the city at night and is 14 kms away. When Joe gets closer to the city and is 2.5 kms away, he'll notice the lights will appear? ",
+        "Option1": "dimmer",
+        "Option2": "brighter.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "I can travel at a speed of 39 cm/s in a car and at 2 m/s on a bicycle. Which is slower? ",
+        "Option1": "bicycle",
+        "Option2": "car",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The turtle swam's speed in the pond is 2 m/s, while it is 51 cm/s in the ocean because the _____ is smoother.? ",
+        "Option1": "pond",
+        "Option2": "ocean",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jimbo knows that his marble has a 6 grams of mass and the rock has a mass of 14 grams. This means the? ",
+        "Option1": "marble",
+        "Option2": "rock has stronger gravity",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "if a train is going at 0.4 kmph and a bike at 0.12 kmph the bike will travel? ",
+        "Option1": "more distance",
+        "Option2": "less distance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tim's ring rolled 8.1 cm his vanity and 3.2 cm over his floor. Tim's _____ is smoother? ",
+        "Option1": "floor",
+        "Option2": "vanity",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Joe worked at a bar. The bar had a glass counter on one side and a wooden counter on the other. When Joe slid a glass along the glass counter, he noticed it slid 0.45 m and 0.12 m on the wood counter. This is because the _____ is smoother.? ",
+        "Option1": "glass counter",
+        "Option2": "wooden counter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "By driving her car, Mary found out that jungle has friction coefficient of 0.7, whereas tundra has 0.1 more than that of jungle. Her car moved faster over? ",
+        "Option1": "jungle",
+        "Option2": "tundra",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a boat has a speed of 4 m/s and a submarine has a spped of 47 m/s, which craft will take longer to make the same journey?? ",
+        "Option1": "boat",
+        "Option2": "submarine",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina is racing her two dogs. Her greyhound weighs 60 lbs and rottweiler weighs 100 lbs. The dog that gets faster more quickly is the? ",
+        "Option1": "rottweiler",
+        "Option2": "greyhound",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Doug travels from his house to a friend's house on his bicycle, and he covers 100 meters in a second and when he makes the same trip on foot, he covers 40 meters in a second. In which situation will Doug get to his friend's house sooner?? ",
+        "Option1": "On foot",
+        "Option2": "On a bicycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cowboy and a hippie were both walking to San Francisco, and because they were the same height, walked at the same pace.  However, the cowboy had gotten up at 4 am and started walking at 6 am whereas the hippie started walking at 8 am. It's now noon, and? ",
+        "Option1": "the cowboy has traveled less distance",
+        "Option2": "the hippie has traveled less distance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The turtle swam's speed in the pond is 5 m/s, while it is 2 m/s in the ocean because the _____ is smoother.? ",
+        "Option1": "pond",
+        "Option2": "ocean",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jason noticed that his ATV moved at a speed of 58 kmph on the ice and 39 kmph on the sand. That is because the sand has? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat and a dog both run at 5 mph. If the cat runs for a 1 minute and the dog runs for 1.5 minutes, which will have gone the greater distance?? ",
+        "Option1": "cat",
+        "Option2": "dog",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "An agate rolling in a dirt field moves at a speed of 38 cm/s and the one rolling in an empty cave moves at 125 cm/s. It seems likely that the agate will roll a greater distance in the? ",
+        "Option1": "dirt field",
+        "Option2": "empty cave",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat moves at a speed of 12.57 m/s through the river and 32.94 m/s through the jungle. This means the cat heats up less in the? ",
+        "Option1": "jungle",
+        "Option2": "river",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tommy raced his older brother to the pool. Tommy can dive at 330 cm/s and his brother can dive at 2 m/s. Who dove in first? ",
+        "Option1": "Tommy or",
+        "Option2": "brother.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "One of Sarah's neighbors spilled dog food all over the stairs. The dog food pieces are on three stairways and all over the landings. Sarah gets mad and kicks a piece of dog food. The dog food flies across the wooden planks from one side of the staircase landing to the other which was 3 meters long. The dog food reaches the neighbor's door mat. It just moves 4 inches across the doormat and then stops. Why didn't the dog food move further across the doormat?? ",
+        "Option1": "The door mat is a spikier surface",
+        "Option2": "the staircase landing is a spikier surface",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cricket can cover 5 m in a second and a hen can cover 89 m in a second. If both make the same journey, which will arrive later?? ",
+        "Option1": "hen",
+        "Option2": "cricket",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A billiard ball has a mass of 22 oz and the basketball has a mass of 7 oz. Which ball has a stronger field of gravity?? ",
+        "Option1": "billiard ball",
+        "Option2": "basketball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train moves at the speed of 120 km/hr on the city track and 98 km/hr on the country track. This means that the train will get a lot hotter moving over? ",
+        "Option1": "city track",
+        "Option2": "country track",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The empty cement truck weighs around 33000 Pounds. Now, we have put 34 bags of cement weighing 38Kg each in the truck so it was _____ when it was accelerating without cement bags.? ",
+        "Option1": "faster",
+        "Option2": "slower",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bill throws a boulder of mass 48 kg and a pebble of mass 400 g. The pebble falls much slower than the boulder meaning it? ",
+        "Option1": "weighs more",
+        "Option2": "weighs less",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a car and a pickup both travel at 60 mph, but the car stops after 6.1 hours whereas the pickup stops after 1.9 hours, which has travelled the lesser distance?? ",
+        "Option1": "car",
+        "Option2": "pickup",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The F-16 usually weighs 250000 lbs and the jumbo jet weighs 50000 lbs. Therefore, the F-16 was? ",
+        "Option1": "slower accelerating",
+        "Option2": "faster accelerating",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dylan threw a pebble, which has a mass of 0.15 Kg and basketbal, which has a mass of 1.8 Kg, out the window. The _____ had a stronger gravity pull because of it's greater mass.? ",
+        "Option1": "pebble",
+        "Option2": "basketball",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Driving a car to work takes 30 minutes and riding a bus takes 2 hours. Which vehicle moves at a greater rate of speed?? ",
+        "Option1": "bus",
+        "Option2": "car",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shiloh rolls a ball over a piece of sandpaper and notices that the ball move at a seed of 45 cm/s Shiloh then rolls his ball over a piece of glass, and the ball rolls at a speed of 75 cm/s. The ball rolled slowly on the piece of sandpaper because it had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A Motorcycle which weighs 181 Kg and an SUV which weighs 100 kgs are stopped at a stop light. When the light turns green which vehicle gets the jump on the other?? ",
+        "Option1": "Suv",
+        "Option2": "Motorcycle",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beauty queen glided across the marble floors with speed of 6 m/s but at speed 3 m/s on the wooden floors because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The turtle swam's speed in the pond is 172 cm/s, while it is 4 m/s in the ocean because the _____ is smoother.? ",
+        "Option1": "pond",
+        "Option2": "ocean",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's wagon heats up reaches a temprature of 40 degree celsius when rolling through the weeds and 50 degree celsius when rolling through the gravel. This means her wagon is forced to roll slower in the? ",
+        "Option1": "weeds",
+        "Option2": "gravel",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jeff was rolling his pencil across different surfaces to see how much heat was generated. He noticed that rolling the pencil over pea gravel generated 49 joules heat and 31 joules of heat when rolling it over carpet. The pencil moved slower over? ",
+        "Option1": "carpet",
+        "Option2": "pea gravel",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A little boy rolls two of his rubber balls down the hallway. The red ball stopped after 1 min 23 secs. the blue one stopped after 21 secs. Which one rolled the furthest?? ",
+        "Option1": "Red ball",
+        "Option2": "blue ball.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The trunk on the old tree has thickness of 3.2 inch , whereas the trunk on the new tree so has a thickness of 1.5 inch, so older tree was a? ",
+        "Option1": "stronger tree",
+        "Option2": "weaker tree",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The propeller on Kate's boat moved at a speed of 2000 rpm in the ocean and 3000 rpm the river. This means the propeller heated up less in the? ",
+        "Option1": "ocean",
+        "Option2": "river",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jeff was rolling his pencil across different surfaces to see how much heat was generated. He noticed that rolling the pencil over pea gravel generated 76 joules heat and 25 calories of heat when rolling it over carpet. The pencil moved slower over? ",
+        "Option1": "carpet",
+        "Option2": "pea gravel",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Lisa was playing with two model rockets. She shot off the red one and the black one at the same time. After 30 seconds the black one was 45 m above the ground and the red one was 31 m above the ground. Which had more speed?? ",
+        "Option1": "the red one",
+        "Option2": "the black one",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Young child plays with frozen meatball outside. The child rolls the meatball across the brick walkway and walks 12 foot to get it. The child then rolls the meatball through the weedy garden and walks 9 foot to get it. The surface that causes the meatball to struggle to move is the? ",
+        "Option1": "brick walkway",
+        "Option2": "weedy garden.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Roz is going skiing. She skis down a muddy hill and then down a snowy hill. Roz notices that she goes down the snowy hill in 48 mins and muddy hill in 35 mins and both the hills are of approximately same size. That might be because the snowy hill had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A falcon takes 6 milliseconds to get to its food and a sloth takes 12 seconds. Why?? ",
+        "Option1": "the falcon is faster than the sloth",
+        "Option2": "The falcon is slower than the sloth",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A steel ball has a mass of 4Kg and a pebble has a mass of 0.8 Kg. Which object has a stronger gravitational field?? ",
+        "Option1": "steel ball",
+        "Option2": "pebble",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A swimmer moves crosses a lake in 0.5 hrs, and across wet mud in 3 minutes because _____ is smoother.? ",
+        "Option1": "lake",
+        "Option2": "wet mud",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Dan left the bar at the exact same time, that is, 12 pm, and and drove the exact same speed. Mike drove for few hours and stopped at 12 am whereas Dan stopped at 10 pm. Who traveled the most distance?? ",
+        "Option1": "Dan",
+        "Option2": "Mike",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim could run at a speed of 4 m/s and his sister Jen could run at 2 m/s. They had to deliver some urgent vaccines to the next town to stop the spread of a dangerous virus. Who should run with the vaccines in order to get them there in a shorter amount of time?? ",
+        "Option1": "Jim",
+        "Option2": "Jen",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A tank weighs around 70 tons. A toy car weighs 0.00044 tons. Because of this? ",
+        "Option1": "the tank will speed up faster than the toy car",
+        "Option2": "the toy car will speed up faster than the tank",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skateboard moves at the speed of 6 m/s when she skates on a wet skatepark compared to 789 cm/s when she skates on a dry skatepark. This means her skateboard gets hotter when she rides it on the? ",
+        "Option1": "wet skatepark",
+        "Option2": "dry skatepark",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat moves at a speed of 5 m/s through the river and 9.89 m/s through the jungle. This means the cat heats up less in the? ",
+        "Option1": "jungle",
+        "Option2": "river",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sherry rolls her ball down two lanes. The ball moves at a speed of 32 m/s on the red lane, and 27 m/s on the green lane. The ball paces in the red lane because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark noticed that he can throw his lawn dart around 17 meters into soft dirt on average and 12 meters into packed sand. This means that the _____ is smoother? ",
+        "Option1": "soft dirt",
+        "Option2": "packed sand",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A billiard ball has a mass of 18 oz and the basketball has a mass of 0.17 Kg. Which ball has a stronger field of gravity?? ",
+        "Option1": "billiard ball",
+        "Option2": "basketball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A race car and a pickup both drove on the highway at the same speed. The driver of the race car got tired and parked after 5 mins, while the driver of the pickup ran for 10 mins. Which vehicle ultimately went the greater distance?? ",
+        "Option1": "race car",
+        "Option2": "pickup",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat moves at a speed of 3 m/s through the river and 22 miles per hour through the jungle. This means the cat heats up less in the? ",
+        "Option1": "jungle",
+        "Option2": "river",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ian and Avery are taking trains from the same station. Ian's train is red, and is going 8 miles an hour to a destination forty miles away. Avery's train is green and is going 14 miles an hour to a destination forty miles away. The train that is slower is? ",
+        "Option1": "red",
+        "Option2": "green",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A brown mouse and a black mouse each run through 50 foot tunnels as quickly as they can. The black mouse made it to the other end in 180 minutes and the brown mouse in 5 hours. Which mouse couldn't run as fast?? ",
+        "Option1": "the brown mouse",
+        "Option2": "the black mouse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The F-16 usually weighs 34786 lbs and the jumbo jet weighs 439987 kg. Therefore, the F-16 was? ",
+        "Option1": "slower accelerating",
+        "Option2": "faster accelerating",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kevin took a plane from NY to Chicago at 1910 hours while Esther took a plane from NY to LA at 3:45 pm. Both of them are travelling from same type of plane so they have the same speed of travel. Both of them reached their destinations at the same time. Who travelled further?? ",
+        "Option1": "Kevin",
+        "Option2": "Esther",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Emily threw a banana onto the roof and it slid for 15 mms, but when she threw it onto the slide, it slid for 3 cms. She concluded that there was less friction on the? ",
+        "Option1": "roof",
+        "Option2": "slide.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rat and a mouse each set out walking from the high school to the hospital. The rat runs at 4 m/s and the mouse runs at 2 m/s. Who took more time to arrive at the hospital?? ",
+        "Option1": "the rat",
+        "Option2": "the mouse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dennis is rolling two marbles down the sidewalk. He rolls them both at the same time, in the same way. The blue marble goes 23 cm down the sidewalk and the green one goes 16 cm. The faster marble is? ",
+        "Option1": "green",
+        "Option2": "blue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shep and Chris are driving on the same road and going the same speed. However, Shep has traveled for 120 secs and Chris has traveled for 1 min. As a result? ",
+        "Option1": "Shep has traveled further than Chris",
+        "Option2": "Shep has not traveled further than Chris",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A little boy rolls two of his rubber balls down the hallway. The red ball stopped after 8 secs. the blue one stopped after 9 secs. Which one rolled the furthest?? ",
+        "Option1": "Red ball",
+        "Option2": "blue ball.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A brown mouse and a black mouse each run through 50 foot tunnels as quickly as they can. The black mouse made it to the other end in 18 seconds and the brown mouse in 45 seconds. Which mouse couldn't run as fast?? ",
+        "Option1": "the brown mouse",
+        "Option2": "the black mouse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mister Bigsby rolled a baseball down two different hills. The first hill is a pile of rocks and the second hill is fresh cement. Mister Bigsby noticed that the basball travels 4.1 miles down the fresh cement and 1.2 miles down the pile of rocks. This is because the fresh cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A swimmer moves crosses a lake in 1 minutes, and across wet mud in 3 minutes because _____ is smoother.? ",
+        "Option1": "lake",
+        "Option2": "wet mud",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jimbo knows that his marble has a 2 grams of mass and the rock has a mass of 8 grams. This means the? ",
+        "Option1": "marble",
+        "Option2": "rock has stronger gravity",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy tank is weighs 400 gm. A toy car weighs 600 gm. Because of this? ",
+        "Option1": "the tank will speed up faster than the toy car",
+        "Option2": "the toy car will speed up faster than the tank",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fire chief of a city noticed that his fire engine travels at the speed of 7 kmph over a crowded road and 10 kmph on a open road. He used this information to determine that the _____ has more smooth? ",
+        "Option1": "crowded road or the",
+        "Option2": "open road",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A swimmer moves crosses a lake in 12 minutes, and across wet mud in 31 minutes because _____ is smoother.? ",
+        "Option1": "lake",
+        "Option2": "wet mud",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jason tried going down the slide with bare feet but kept putting his feet down to stop himself therefore he went at a speed of 23 miles per hour. When he went with socks, he went at a speed of 45 foot per second. This is due to the socks providing? ",
+        "Option1": "less friction",
+        "Option2": "more friction?",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ian and Avery are taking trains from the same station. Ian's train is red, and is going 10 miles an hour to a destination forty miles away. Avery's train is green and is going 30 miles an hour to a destination forty miles away. The train that is slower is? ",
+        "Option1": "red",
+        "Option2": "green",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marcy is rolling her yellow ball down her paved driveway and the ball rolls 7 meters. Then Marcy rolls the yellow ball down the muddy sidewalk and the ball stops rolling after 0.4 meter. The ball didn't stop on the driveway because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cowboy and a hippie were both walking to San Francisco, and because they were the same height, walked at the same pace.  However, the cowboy had gotten up at dawn and started walking at 2 am where as the hippie started at 6 am. It's now 12 pm, and? ",
+        "Option1": "the cowboy has traveled less distance",
+        "Option2": "the hippie has traveled less distance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rolling a marble over dirt creates 14 N resistance, whereas rolling it over sand creates 47 N resistance. This means the marble will travel further over the? ",
+        "Option1": "sand or",
+        "Option2": "dirt",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a skater rides at a speed of 420 meter per minute on a half pipe and 6 m/s in a skate park this means that the _____ is smoother? ",
+        "Option1": "skate park",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skateboard moves at the speed of 2 m/s when she skates on a wet skatepark compared to 6 m/s when she skates on a dry skatepark. This means her skateboard gets hotter when she rides it on the? ",
+        "Option1": "wet skatepark",
+        "Option2": "dry skatepark",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's wagon heats up reaches a temprature of 37 degree celsius when rolling through the weeds and 111.3 degree fahrenheit when rolling through the gravel. This means her wagon is forced to roll slower in the? ",
+        "Option1": "weeds",
+        "Option2": "gravel",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike is standing at a distance of 40 cm from a lantern and 89 cm from a streetlight. Which light source seems brighter to him?? ",
+        "Option1": "lantern",
+        "Option2": "streetlight",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Diana and Dave are aboard the same train after getting on at the same station. If Diana gets out of the train after 75 mins and Dave travelled for 88 mins and then drops off, who traveled a shorter distance?? ",
+        "Option1": "Diana",
+        "Option2": "Dave.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A capybara runs at a speed of 20 m/s and an anteater runs at a speed of 117 m/s. If both animals make the same journey, which will get there sooner?? ",
+        "Option1": "capybara",
+        "Option2": "anteater",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beach volleyball player jumped 1.2 m on the gym floor, but 8 cms more than on the beach shore sand because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A Motorcycle which weighs 300 pounds and an SUV which weighs 4000 pounds are stopped at a stop light. When the light turns green which vehicle gets the jump on the other?? ",
+        "Option1": "Suv",
+        "Option2": "Motorcycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Dan left the bar at the exact same time, that is, 12 pm, and and drove the exact same speed. Mike drove for few hours and stopped at 8 pm whereas Dan stopped at 2 am. Who traveled the most distance?? ",
+        "Option1": "Dan",
+        "Option2": "Mike",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The turtle swarm travels 20 centimeter in 1 second in the pond, while it trvavels 8 meters in 2 second in the ocean because the _____ is smoother.? ",
+        "Option1": "pond",
+        "Option2": "ocean",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina is racing her two dogs. Her greyhound weighs 88 lbs and her rottweiler weighs 79 lbs. The dog that gets faster more quickly is the? ",
+        "Option1": "rottweiler",
+        "Option2": "greyhound",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark noticed that he can throw his lawn dart around 826.772 inches into soft dirt on average and 16 meters into packed sand. This means that the _____ is smoother? ",
+        "Option1": "soft dirt",
+        "Option2": "packed sand",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rolling a marble over dirt creates 5 N resistance, whereas rolling it over sand creates 17 N resistance. This means the marble will travel further over the? ",
+        "Option1": "sand or",
+        "Option2": "dirt",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cheetah runs at a speed of 34 miles per hour while a dog runs at 12 miles per hour so it will take? ",
+        "Option1": "less time",
+        "Option2": "more time to run a lap around a track",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sedan weighs 40000 pounds and a garbage truck which weighs 5789 pounds start side by side at a traffic light. When the light turns green both vehicle race to reach 50 miles per hour. Which vehicle will win the race?? ",
+        "Option1": "Sedan",
+        "Option2": "Garbage truck",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy car slid down the floor of a movie theater after it was cleaned to a distance of 5 meters. That same car was was rolled down the floor that was pretty sticky. It went 2 meters on this floor. The car went further on the clean floor because it has? ",
+        "Option1": "more resistance or",
+        "Option2": "less resistance?",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mark noticed that he can throw his lawn dart around 23 meters into soft dirt on average and 19 meters into packed sand. This means that the _____ is rougher.? ",
+        "Option1": "soft dirt",
+        "Option2": "packed sand",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A falcon takes 5 seconds to get to its food and a sloth takes 15 seconds. Why?? ",
+        "Option1": "the falcon is faster than the sloth",
+        "Option2": "The falcon is slower than the sloth",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jason noticed that his ATV moved at a speed of 29.2044 mph on the ice and 34 kmph on the sand. That is because the sand has? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If Sarah and Jenny both run at the same pace, Sarah runs for 78 mins and Jenny runs for 27 minutes than Sarah, who has traveled farther?? ",
+        "Option1": "Sarah",
+        "Option2": "Jenny",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The empty cement truck weighs around 8000 Kg. Now, we have put 5 bags of cement weighing 5Kg each in the truck so it was _____ when it was accelerating without cement bags.? ",
+        "Option1": "faster",
+        "Option2": "slower",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Dan left the bar at the exact same time, that is, 12 pm, and and drove the exact same speed. Mike drove for few hours and stopped at 8 pm whereas Dan stopped at 7 pm. Who traveled the most distance?? ",
+        "Option1": "Dan",
+        "Option2": "Mike",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train moves at the speed of 154 km/hr on the city track and 298 km/hr on the country track. This means that the train will get a lot hotter moving over? ",
+        "Option1": "city track",
+        "Option2": "country track",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kevin took a plane from NY to Chicago at 1910 hours while Esther took a plane from NY to LA at 1430 hours. Both of them are travelling from same type of plane so they have the same speed of travel. Both of them reached their destinations at the same time. Who travelled further?? ",
+        "Option1": "Kevin",
+        "Option2": "Esther",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kate is at the movies and drops her cup on the floor accidentally. The cup rolls away through the concrete floor in 3 secs which is 25 centi-meters long, but it covered 0.18 meters in 3 secs secs once it hits the carpeted floor. The cup was faster on the concrete floor because the concrete floor had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two Amish couples are getting ready to leave the grocery store. They load their groceries into each one of their carts. Each cart has one horse pulling it and they are equally strong. Horse one has to carry 100 pounds food and Horse 2 has to carry 90 pounds. Which one will be slower to accelerate?? ",
+        "Option1": "horse one",
+        "Option2": "horse 2",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rod was rolling a ball to his dog. He was able to roll the ball to a distance of 12 meters on the cement and to a distance of 10 meters on the grass. This is because the cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two Amish couples are getting ready to leave the grocery store. They load their groceries into each one of their carts. Each cart has one horse pulling it and they are equally strong. Horse one has to carry 98 pounds food and Horse 2 has to carry 34 kgs. Which one will be slower to accelerate?? ",
+        "Option1": "horse one",
+        "Option2": "horse 2",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy tank is weighs 1.2 kgs. A toy car weighs 600 gm. Because of this? ",
+        "Option1": "the tank will speed up faster than the toy car",
+        "Option2": "the toy car will speed up faster than the tank",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rolling a marble over dirt creates 5 N resistance more than that of sand, rolling it over sand creates 73 N resistance. This means the marble will travel further over the? ",
+        "Option1": "sand or",
+        "Option2": "dirt",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sherry rolls her ball down two lanes. The ball moves at a speed of 1678 cm/s on the red lane, and 14.6890 m/s on the green lane. The ball slows in the green lane because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a car and a pickup both travel at 60 mph, but the car stops after 2.2 hours whereas the pickup stops 30 mins before the car, which has travelled the lesser distance?? ",
+        "Option1": "car",
+        "Option2": "pickup",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Linda and Melinda decided to kayak across a lake. Linda made it across the lake in 4000 milliseconds and Melinda did it in 2 seconds. Which one of them didn't go as fast as the other?? ",
+        "Option1": "Linda",
+        "Option2": "Melinda",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skateboard moves at the speed of 11 m/s when she skates on a wet skatepark compared to 29 m/s when she skates on a dry skatepark. This means her skateboard gets hotter when she rides it on the? ",
+        "Option1": "wet skatepark",
+        "Option2": "dry skatepark",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jasper is carrying his nephew in the park.  Then it's his niece's turn.  His niece is five years older and weighs 39 kgs whereas his nephew weghs 22 kgs. Who has less of a gravity pull?? ",
+        "Option1": "the niece",
+        "Option2": "the nephew",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "By driving her car, Mary found out that jungle has friction coefficient of 0.7, whereas tundra has 0.1. Her car moved faster over? ",
+        "Option1": "jungle",
+        "Option2": "tundra",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Rod was rolling a ball to his dog. He was able to roll the ball to a distance of 5 meters on the cement and to a distance of 2 meters on the grass. This is because the cement is? ",
+        "Option1": "rougher",
+        "Option2": "smoother",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Some part of a steel ball has a mass of 400 g and a pebble has a mass of 600 g. Which object has a stronger gravitational field?? ",
+        "Option1": "steel ball",
+        "Option2": "pebble",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A Motorcycle which weighs 419 pounds and an SUV which weighs 3590 pounds are stopped at a stop light. When the light turns green which vehicle gets the jump on the other?? ",
+        "Option1": "Suv",
+        "Option2": "Motorcycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's pickle seems to roll around at the speed of  0.041 foot/sec on his ceramic plate and at a speed of 0.054 foot/sec on his paper plate. This means his pickle heats up more rolling around on the? ",
+        "Option1": "paper plate",
+        "Option2": "ceramic plate",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dylan threw a pebble, which has a mass of 0.2 Kg and toy basketbal, which has a mass of 100 g, out the window. The _____ had a stronger gravity pull because of it's greater mass.? ",
+        "Option1": "pebble",
+        "Option2": "basketball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Diana and Dave are aboard the same train after getting on at the same station. If Diana gets out of the train after 10 mins and Dave travelled for 15 mins and then drops off, who traveled a shorter distance?? ",
+        "Option1": "Diana",
+        "Option2": "Dave.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A tortoise has a speed of 40 cm/s and turtle has a speed of 4 m/s. Which animal will take a longer time to reach the sea if both are walking across the beach?? ",
+        "Option1": "tortoise",
+        "Option2": "turtle",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jax drops a roll of toilet paper on the floor. The toilet paper rolls onto the carpet and slowly comes to a stop after 2 meters. When he later drops the same roll of toilet paper on a wood floor, the roll of toilet paper keeps rolling out of the room which was 7 meters long. The roll of toilet paper went a greater distance on the wood floor because it had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Sue decide to ride their bikes around the park. They follow the same path but Mike rides his bike at 2 miles/hour and Sue rides at 1.2 miles/hour. After ten minutes, who will have covered less distance?? ",
+        "Option1": "Mike",
+        "Option2": "Sue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike was comparing the mass of a boulder and a pebble. He found that the mass of the boulder was 148 pounds and of the pebble was 2 pounds. Which item emits stronger gravity?? ",
+        "Option1": "boulder",
+        "Option2": "pebble",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Driving a car to work takes 90 minutes and riding a bus takes 1 hours. Which vehicle moves at a greater rate of speed?? ",
+        "Option1": "bus",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "James can ride his sled 4.1 m over dry snow and 1.49 m over wet snow. This means the _____ is more rough? ",
+        "Option1": "wet snow",
+        "Option2": "dry snow",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Doug travels from his house to a friend's house on his bicycle, and he covers 78 meters in a second and when he makes the same trip on foot, he covers 12 meters in a second. In which situation will Doug get to his friend's house sooner?? ",
+        "Option1": "On foot",
+        "Option2": "On a bicycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two blimps take off from the same airfield and fly at the same velocity once they reach altitude. The red blimp flies for a 42 mins and lands at a nearby town, while the green blimp stays in flight for 19 more minutes and lands at the next town a longer distance away. This means that? ",
+        "Option1": "the red blimp flew a greater distance",
+        "Option2": "the green blimp flew a greater distance.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Billy and Jimmy decide to race home one day. Jimmy made it back home in 40 minutes and Billy took 50 minutes. That it because Jimmy is? ",
+        "Option1": "lower",
+        "Option2": "aster.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The F-16 usually weighs 567214 lbs and the jumbo jet weighs 39987 kg. Therefore, the F-16 was? ",
+        "Option1": "slower accelerating",
+        "Option2": "faster accelerating",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skateboard moves at the speed of 3985 cm/s when she skates on a wet skatepark compared to 829 cm/s when she skates on a dry skatepark. This means her skateboard gets hotter when she rides it on the? ",
+        "Option1": "wet skatepark",
+        "Option2": "dry skatepark",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skiff is able to journey a distance of 14 miles before refueling in the bay as compared to 9.2 miles in the open sea. This means that the _____ is more rugged? ",
+        "Option1": "bay",
+        "Option2": "open sea",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The mammoth moved at a speed of 18 km per hour through the watering hole, but moved at a speed of 27 km per hour on the hard dirt because the hard dirt had? ",
+        "Option1": "less resistance",
+        "Option2": "more resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jasper is carrying his nephew in the park.  Then it's his niece's turn.  His niece is five years older and weighs 21 kgs whereas his nephew weghs 24 kgs. Who has more of a gravity pull?? ",
+        "Option1": "the niece",
+        "Option2": "the nephew",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Rita are going for a run.  Rita gets tired and takes a break on the park bench after 55 mins of jogging. John runs for 1 hr in the park, who has run farther?? ",
+        "Option1": "John",
+        "Option2": "Rita",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jason tried going down the slide with bare feet but kept putting his feet down to stop himself therefore he went at a speed of 23 miles per hour. When he went with socks, he went at a speed of 19 miles per hour. This is due to the socks providing? ",
+        "Option1": "less friction",
+        "Option2": "more friction?",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bill throws a fraction of boulder having mass of 257 g and a pebble of mass 656 g. The pebble falls faster than the boulder meaning it? ",
+        "Option1": "weighs more",
+        "Option2": "weighs less",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bowling ball has a mass of 10 pounds and a baseball weighs 5 pounds. Which item has stronger gravity?? ",
+        "Option1": "baseball",
+        "Option2": "bowling ball",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A race car and a pickup both drove on the highway at the same speed. The driver of the race car got tired and parked after 45 mins, while the driver of the pickup ran for 35 minutes. Which vehicle ultimately went the greater distance?? ",
+        "Option1": "race car",
+        "Option2": "pickup",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Joe worked at a bar. The bar had a glass counter on one side and a wooden counter on the other. When Joe slid a glass along the glass counter, he noticed it slid 15 cm and 10 cm on the wood counter. This is because the _____ is smoother.? ",
+        "Option1": "glass counter",
+        "Option2": "wooden counter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary has a cat that she loves to play with. Sometimes she drags the cat toy across the floor so the cat can chase it. When she drags the cat toy across the play room floor it a distance of 49 cm. When she drags it across the rumpus room floor it moves 21 cm. This means the _____ is more smooth? ",
+        "Option1": "play room floor",
+        "Option2": "rumpus room floor",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A tortoise has a speed of 400 cm/s and turtle has a speed of 2 m/s. Which animal will take a longer time to reach the sea if both are walking across the beach?? ",
+        "Option1": "tortoise",
+        "Option2": "turtle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jed is trying to win a race against his friend Tyler. Jed is 88 Kg, and Tyler is 230 Kg. During the race, who will speed up fastest?? ",
+        "Option1": "Jed",
+        "Option2": "Tyler",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Doug travels from his house to a friend's house on his bicycle, and he covers 7 miles in an hour and when he makes the same trip on foot, he covers 2 miles in an hour. In which situation will Doug get to his friend's house sooner?? ",
+        "Option1": "On foot",
+        "Option2": "On a bicycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Young child plays with frozen meatball outside. The child rolls the meatball across the brick walkway and walks 32 steps to get it. The child then rolls the meatball through the weedy garden and walks 15 steps to get it. The surface that causes the meatball to struggle to move is the? ",
+        "Option1": "brick walkway",
+        "Option2": "weedy garden.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The ranger and the rustler both were riding horses that galloped at the same speed.  The rustler left at 02:00 where as the ranger left at 01:00. Who has traveled further?? ",
+        "Option1": "the ranger",
+        "Option2": "the rustler",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dennis is rolling two marbles down the sidewalk. He rolls them both at the same time, in the same way. The blue marble goes 2 m down the sidewalk and the green one goes 160 cm. The faster marble is? ",
+        "Option1": "green",
+        "Option2": "blue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Emily threw a banana onto the roof and it slid for 5 cms, but when she threw it onto the slide, it slid for 11 cms. She concluded that there was less friction on the? ",
+        "Option1": "roof",
+        "Option2": "slide.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy car slid down the floor of a movie theater after it was cleaned to a distance of 4 meters. That same car was was rolled down the floor that was pretty sticky. It went 0.8 meters on this floor. The car went closer on the sticky floor because it has? ",
+        "Option1": "more resistance or",
+        "Option2": "less resistance?",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jed is trying to win a race against his friend Tyler. Jed is 340 Kg, and Tyler is 80 Kg. During the race, who will speed up fastest?? ",
+        "Option1": "Jed",
+        "Option2": "Tyler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Dan left the bar at the exact same time, that is, 0100 hours, and and drove the exact same speed. Mike drove for few hours and stopped at 0600 hours whereas Dan stopped at 2200 hours. Who traveled the most distance?? ",
+        "Option1": "Dan",
+        "Option2": "Mike",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A sleig slided for 13 meter over a rooftop and 9 meters over cold ground, starting at the same speed on both the surfaces. This means the _____ is more rough? ",
+        "Option1": "rooftop",
+        "Option2": "cold ground",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jed is trying to win a race against his friend Tyler. Jed is 130 Kg, and Tyler is 60 Kg. During the race, who will speed up fastest?? ",
+        "Option1": "Jed",
+        "Option2": "Tyler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A dog liked to roam the neighborhood. On Tuesday the dog walked down the street for a for 1 hr 53 mins, and on Wednesday the dog walked down the street but stopped after 3hr 30 mins. On which walk did the dog walk a greater distance down the street?? ",
+        "Option1": "on Tuesday",
+        "Option2": "on Wednesday.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The ranger and the rustler both were riding horses that galloped at the same speed.  The rustler left at 18:00 where as the ranger left at 21:00. Who has traveled further?? ",
+        "Option1": "the ranger",
+        "Option2": "the rustler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a boat has a speed of 700 cm/s and a submarine has a spped of 4 cm/s, which craft will take longer to make the same journey?? ",
+        "Option1": "boat",
+        "Option2": "submarine",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A swimmer moves crosses a lake in 5 minutes, and across wet mud in 30 seconds because _____ is smoother.? ",
+        "Option1": "lake",
+        "Option2": "wet mud",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train conductor switched courses from a track, to wheels on ground and noticed that he travelled at 40 mph where as on tracks he was travelling at 56 kmph with the same amount of power. The _____ were way more smooth.? ",
+        "Option1": "track",
+        "Option2": "wheels",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train moves at the speed of 74 mph on the city track and 66 mph on the country track. This means that the train will get a lot hotter moving over? ",
+        "Option1": "city track",
+        "Option2": "country track",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kevin took a plane from NY to Chicago at 0900 hours while Esther took a plane from NY to LA at 1700 hours previous day. Both of them are travelling from same type of plane so they have the same speed of travel. Both of them reached their destinations at the same time. Who travelled further?? ",
+        "Option1": "Kevin",
+        "Option2": "Esther",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Terry takes his bicycle for a ride, first riding through the grass field at 3 m/s, then the paved street at 120 cm/s. The paved street had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hand can move through a tank of water having size of 200 centi-meters in 12 secs and it can cover same 2 meters in 7 secs through air. That means that there is less friction in? ",
+        "Option1": "water",
+        "Option2": "air.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The ranger and the rustler both were riding horses that galloped at the same speed.  The rustler left at 01:00 where as the ranger left at 03:00. Who has traveled further?? ",
+        "Option1": "the ranger",
+        "Option2": "the rustler",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mary's skiff is able to journey a distance of 10 miles before refueling in the bay as compared to 4 miles in the open sea. This means that the _____ is more rugged? ",
+        "Option1": "bay",
+        "Option2": "open sea",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cricket can cover 15 m in a second and a hen can cover 78 m in a second. If both make the same journey, which will arrive later?? ",
+        "Option1": "hen",
+        "Option2": "cricket",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 10 mins and on the grass he took 20 mins. The bike heated up more when it traveled on the? ",
+        "Option1": "cement path",
+        "Option2": "grass.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The iRobot cleans the tiles in 23 seconds and the plush carpet in 1 minute because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Terry takes his bicycle for a ride, first riding through the grass field at 560 cm/s, then the paved street at 12 m/s. The paved street had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fish glided with a speed of 8 m/s through the water and 5 m/s through the jello because the _____ is smoother.? ",
+        "Option1": "jello",
+        "Option2": "water",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The iRobot cleans the tiles in 0.5 hours and the plush carpet in 14 minutes because it has? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The fire chief of a city noticed that his fire engine travels at the speed of 12 mph over a crowded road and 7 mph on a open road. He used this information to determine that the _____ has more smooth? ",
+        "Option1": "crowded road or the",
+        "Option2": "open road",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "I can travel at a speed of 56 m/s in a car and at 12 m/s on a bicycle. Which is slower? ",
+        "Option1": "bicycle",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a boat has a speed of 12 m/s and a submarine has a spped of 87 m/s, which craft will take longer to make the same journey?? ",
+        "Option1": "boat",
+        "Option2": "submarine",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A train moves at the speed of 60 km/hr on the city track and 90 km/hr on the country track. This means that the train will get a lot hotter moving over? ",
+        "Option1": "city track",
+        "Option2": "country track",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kate is at the movies and drops her cup on the floor accidentally. The cup rolls away through the concrete floor in 4 secs which is 13 meters long, but it covered 9 meters in 7 secs once it hits the carpeted floor. The cup was slower on the carpet floor because the carpet floor had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rat and a mouse each set out walking from the high school to the hospital. The rat runs at 110 cm/s and the mouse runs at 3 m/s. Who took more time to arrive at the hospital?? ",
+        "Option1": "the rat",
+        "Option2": "the mouse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ian and Avery are taking trains from the same station. Ian's train is red, and is going 9 km an hour to a destination forty miles away. Avery's train is green and is going 23 km an hour to a destination forty miles away. The train that is faster is? ",
+        "Option1": "red",
+        "Option2": "green",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If Sarah and Jenny both run at the same pace, Sarah runs for 48 mins and Jenny runs for 56 minutes than Sarah, who has traveled farther?? ",
+        "Option1": "Sarah",
+        "Option2": "Jenny",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bob sent a package via USPS and a package via UPS.  The package he sent via UPS arrived in 14 days and the one via USPS arrived in 10 days. Which parcel service was slower? ",
+        "Option1": "USPS was slower",
+        "Option2": "UPS was slower",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The tank has a maximum speed of 32 miles per hour and the fighter jet has a maximum speed of 290 miles per hour. Supposing they both had to travel a set distance? ",
+        "Option1": "the tank will take more time than the jet to make that journey",
+        "Option2": "the tank will take less time than the jet to take that journey",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A Motorcycle which weighs 181 Kg and an SUV which weighs 4634 pounds are stopped at a stop light. When the light turns green which vehicle gets the jump on the other?? ",
+        "Option1": "Suv",
+        "Option2": "Motorcycle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kate is at the movies and drops her cup on the floor accidentally. The cup rolls away through the concrete floor in 4 secs which is 3 meters long, but it covered 2 meters in 7 secs once it hits the carpeted floor. The cup was faster on the concrete floor because the concrete floor had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jasper is carrying his nephew in the park.  Then it's his niece's turn.  His niece is five years older and weighs 32 kgs whereas his nephew weghs 40 lb 13 oz . Who has more of a gravity pull?? ",
+        "Option1": "the niece",
+        "Option2": "the nephew",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "I can travel at a speed of 23 m/s in a car and at 4 m/s on a bicycle. Which is slower? ",
+        "Option1": "bicycle",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rabbit can run at a speed of 31 kmph in a field and 47 kmph in a cactus field. This means the rabbit gets hotter running through a? ",
+        "Option1": "cactus field",
+        "Option2": "field",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bowling ball has a mass of 19 pounds and a baseball weighs 6 pounds. Which item has stronger gravity?? ",
+        "Option1": "baseball",
+        "Option2": "bowling ball",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a skater rides at a speed of 6 m/s on a half pipe and 4 m/s in a skate park this means that the _____ is smoother? ",
+        "Option1": "skate park",
+        "Option2": "half pipe",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The Porsche was running at 4 miles/h and the Toyota was running at 1.5 miles/h,  so on the race the Porsche took? ",
+        "Option1": "more time",
+        "Option2": "less time to make the trip",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hen can run at 4 m/s and a turkey can run 2 m/s. If both run from the barn to the shed, which will get there sooner?? ",
+        "Option1": "hen",
+        "Option2": "turkey",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bob was 792 cm away from the street lamp. He moved a bit and now he is 19 cm away, he noticed that it got _____.? ",
+        "Option1": "brighter",
+        "Option2": "dimmer",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Billy and Jimmy decide to race home one day. Jimmy made it back home in 4 hours and Billy took 9 hours. That it because Jimmy is? ",
+        "Option1": "lower",
+        "Option2": "aster.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's pickle seems to roll around at the speed of 14 cm/min on his ceramic plate and at a speed of 9 cm/min on his paper plate. This means his pickle heats up more rolling around on the? ",
+        "Option1": "paper plate",
+        "Option2": "ceramic plate",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jax drops a roll of toilet paper on the floor. The toilet paper rolls onto the carpet and slowly comes to a stop after 234 centimeters. When he later drops the same roll of toilet paper on a wood floor, the roll of toilet paper keeps rolling out of the room which was 9 meters long. The roll of toilet paper went a greater distance on the wood floor because it had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Marlo weighs 600 N whereas his friend Dan weighs 800 N . The person which has less mass is likely? ",
+        "Option1": "Marlo",
+        "Option2": "Dan",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jeff was rolling his pencil across different surfaces to see how much heat was generated. He noticed that rolling the pencil over pea gravel generated 81 joules heat and 137 joules of heat when rolling it over carpet. The pencil moved slower over? ",
+        "Option1": "carpet",
+        "Option2": "pea gravel",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's truck's average speed is 13 miles per hour and his car's speed is 29 miles per hour. If he drives both for an hour on the freeway, which will have gone the longer distance?? ",
+        "Option1": "truck",
+        "Option2": "car",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A falcon takes 6000 nanoseconds to get to its food and a sloth takes 100 milliseconds. Why?? ",
+        "Option1": "the falcon is faster than the sloth",
+        "Option2": "The falcon is slower than the sloth",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two paper planes are thrown at a time, into the air. One is made of thick cardboard and has a weight of 186 gms, one is made of special paper and weighs 467 gms. Which paper plane flies faster?? ",
+        "Option1": "cardboard plane",
+        "Option2": "paper plane",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The horse runs at a speed of 120 cm/s on the derby track and at 3.5 m/s in the forest because the forest has? ",
+        "Option1": "more obstacles",
+        "Option2": "less obstacles",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A steel ball has a mass of 13 Kg and a pebble has a mass of 0.3 Kg. Which object has a stronger gravitational field?? ",
+        "Option1": "steel ball",
+        "Option2": "pebble",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shep and Chris are driving on the same road and going the same speed. However, Shep has traveled for 17 mins and Chris has traveled for 25 mins. As a result? ",
+        "Option1": "Shep has traveled further than Chris",
+        "Option2": "Shep has not traveled further than Chris",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike's truck's average speed is 13 miles per hour and his car's speed is 29 miles per hour. If he drives both for an hour on the freeway, which will have gone the smaller distance?? ",
+        "Option1": "truck",
+        "Option2": "car",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "James can ride his sled 40 cm over dry snow and 19 cm over wet snow. This means the _____ is more rough? ",
+        "Option1": "wet snow",
+        "Option2": "dry snow",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The trunk on the old tree has a width of 5.1 inch, and the trunk on the new tree has thickness of 10 cm, so old tree was a? ",
+        "Option1": "stronger tree",
+        "Option2": "weaker tree",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beach volleyball player jumped 3 meter on the gym floor, but 1.2 meter on the beach shore sand because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ian and Avery are taking trains from the same station. Ian's train is red, and is going 39 km an hour to a destination forty miles away. Avery's train is green and is going 23 km an hour to a destination forty miles away. The train that is slower is? ",
+        "Option1": "red",
+        "Option2": "green",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A city bus can travel 12 km over a road and 8 km over an alley. This means that the _____ is rougher? ",
+        "Option1": "road",
+        "Option2": "alley",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A tortoise travels 400 cm in a second and turtle travels 2 m in 5 seconds. Which animal will take a longer time to reach the sea if both are walking across the beach?? ",
+        "Option1": "tortoise",
+        "Option2": "turtle",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "If Sarah and Jenny both run at the same pace, Sarah runs for 1 hr 20 mins and Jenny runs for 30 minutes than Sarah, who has traveled farther?? ",
+        "Option1": "Sarah",
+        "Option2": "Jenny",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina and Wynona are both going the same speed down the highway. Tina drives for 30.6 minutes and Wynona drives for 28.76 minutes. Will Tina have? ",
+        "Option1": "driven further",
+        "Option2": "driven less",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy car slid down the floor of a movie theater after it was cleaned to a distance of 3 meters. That same car was was rolled down the floor that was pretty sticky. It went 0.4 meters on this floor. The car went further on the clean floor because it has? ",
+        "Option1": "more resistance or",
+        "Option2": "less resistance?",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bob was 290 m away from the street lamp. He moved a bit and now he is 12 m away, he noticed that it got _____.? ",
+        "Option1": "brighter",
+        "Option2": "dimmer",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Todd gets in his car on Monday and drives for 24 hrs. He does the same thing on Tuesday but stops after 18 hrs 50 mins that day. On which day will he have covered less ground?? ",
+        "Option1": "Monday",
+        "Option2": "Tuesday",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A golf ball has a mass of 78 grams and a baseball has a mass of 0.159 Kg. Which item has a weaker gravitational field?? ",
+        "Option1": "golf ball",
+        "Option2": "baseball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike can roll his grapefruit over the counter and watch it roll a distance of 27 meters and 21 meters when he rolls it in his garage. This means the _____ has more friction? ",
+        "Option1": "garage",
+        "Option2": "counter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Roz is going skiing. She skis down a muddy hill and then down a snowy hill. Roz notices that she goes down the snowy hill in 27 mins and muddy hill in 32 mins and both the hills are of approximately same size. That might be because the muddy hill had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A city bus can travel 10.3 miles over a road and 1.2 miles over an alley. This means that the _____ is rougher? ",
+        "Option1": "road",
+        "Option2": "alley",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Rita are going for a run.  Rita gets tired and takes a break on the park bench after 25 mins of jogging. John runs for 35 minutes in the park, who has run farther?? ",
+        "Option1": "John",
+        "Option2": "Rita",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kevin took a plane from NY to Chicago at 0800 hours while Esther took a plane from NY to LA at 0700 hours. Both of them are travelling from same type of plane so they have the same speed of travel. Both of them reached their destinations at the same time. Who travelled further?? ",
+        "Option1": "Kevin",
+        "Option2": "Esther",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rat and a mouse each set out walking from the high school to the hospital. The rat runs at 14 m/s and the mouse runs at 6 m/s. Who took more time to arrive at the hospital?? ",
+        "Option1": "the rat",
+        "Option2": "the mouse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim lives 100 km from the Riot servers. Jeff lives 9700 miles from the Riot servers. Both have the same internet speed. Who's ping will be higher?? ",
+        "Option1": "Jim",
+        "Option2": "Jeff",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beauty queen glided across the marble floors with speed of 13 m/s but at speed 9 m/s on the wooden floors because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "An agate rolling in a dirt field moves at a speed of 5 m/s and the one rolling in an empty cave moves at 23 m/s. It seems likely that the agate will roll a greater distance in the? ",
+        "Option1": "dirt field",
+        "Option2": "empty cave",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Young child plays with frozen meatball outside. The child rolls the meatball across the brick walkway and walks 7 yards to get it. The child then rolls the meatball through the weedy garden and walks 18 foot to get it. The surface that causes the meatball to struggle to move is the? ",
+        "Option1": "brick walkway",
+        "Option2": "weedy garden.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A little boy rolls two of his rubber balls down the hallway. The red ball stopped after 100 secs. the blue one stopped after 91 secs. Which one rolled the furthest?? ",
+        "Option1": "Red ball",
+        "Option2": "blue ball.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim lives 37 miles from the Riot servers. Jeff lives 6800 miles from the Riot servers. Both have the same internet speed. Who's ping will be higher?? ",
+        "Option1": "Jim",
+        "Option2": "Jeff",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Todd gets in his car on Monday and drives for 12 hrs. He does the same thing on Tuesday but stops after 9 hrs that day. On which day will he have covered less ground?? ",
+        "Option1": "Monday",
+        "Option2": "Tuesday",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shiloh rolls a ball over a piece of sandpaper and notices that the ball move at a seed of 8 m/s Shiloh then rolls his ball over a piece of glass, and the ball rolls at a speed of 14 m/s. The ball rolled quickly on the piece of glass because the glass had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Rita are going for a run.  Rita gets tired and takes a break on the park bench after 45 mins of jogging. John runs for 38 mins in the park, who has run farther?? ",
+        "Option1": "John",
+        "Option2": "Rita",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Todd gets in his car on Monday and drives for 4 hrs. He does the same thing on Tuesday but stops after 3hrs that day. On which day will he have covered less ground?? ",
+        "Option1": "Monday",
+        "Option2": "Tuesday",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Joe worked at a bar. The bar had a glass counter on one side and a wooden counter on the other. When Joe slid a glass along the glass counter, he noticed it slid 8.4 cm and 1.3 cm on the wood counter. This is because the _____ is smoother.? ",
+        "Option1": "glass counter",
+        "Option2": "wooden counter",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The turtle swam's speed in the pond is 12 m/s, while it is 2.8 m/s in the ocean because the _____ is smoother.? ",
+        "Option1": "pond",
+        "Option2": "ocean",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A brown mouse and a black mouse each run through 50 foot tunnels as quickly as they can. The black mouse made it to the other end in 11 seconds and the brown mouse in 25 seconds. Which mouse couldn't run as fast?? ",
+        "Option1": "the brown mouse",
+        "Option2": "the black mouse",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The empty cement truck weighs around 7258 Kg. Now, we have put 18 bags of cement weighing 42Kg each in the truck so it was _____ when it was accelerating without cement bags.? ",
+        "Option1": "faster",
+        "Option2": "slower",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike can roll his grapefruit over the counter and watch it roll a distance of 25 meters and 17 meters when he rolls it in his garage. This means the _____ has less friction? ",
+        "Option1": "garage",
+        "Option2": "counter",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Ted was riding his bike in the park. When he was on the cement path, he was able to zip around the park in 32 mins and on the grass he took 26 mins. The bike heated up more when it traveled on the? ",
+        "Option1": "cement path",
+        "Option2": "grass.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two blimps take off from the same airfield and fly at the same velocity once they reach altitude. The red blimp flies for a 57 minutes and lands at a nearby town, while the green blimp stays in flight for 38 minutes and lands at the previous town. This means that? ",
+        "Option1": "the red blimp flew a greater distance",
+        "Option2": "the green blimp flew a greater distance.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A brown mouse and a black mouse each run through 50 foot tunnels as quickly as they can. The black mouse made it to the other end in 180 minutes and the brown mouse in 69 minutes. Which mouse couldn't run as fast?? ",
+        "Option1": "the brown mouse",
+        "Option2": "the black mouse",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim wears a thick Kevlar vest of thickness 5 cm. Jack is just wearing a cotton shirt of thickness 1 cm. Which top would stop a bullet?? ",
+        "Option1": "Kevlar",
+        "Option2": "Cotton",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a car and a pickup both travel at 60 mph, but the car stops after 2 hours whereas the pickup stops after 6 hours, which has travelled the lesser distance?? ",
+        "Option1": "car",
+        "Option2": "pickup",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The F-16 usually weighs 20000 lbs and the jumbo jet weighs 700000 lbs. Therefore, the F-16 was? ",
+        "Option1": "slower accelerating",
+        "Option2": "faster accelerating",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike and Sue decide to ride their bikes around the park. They follow the same path but Mike rides his bike at 45 m/sec and Sue rides at 23 m/sec. After ten minutes, who will have covered less distance?? ",
+        "Option1": "Mike",
+        "Option2": "Sue",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cowboy and a hippie were both walking to San Francisco, and because they were the same height, walked at the same pace.  However, the cowboy had gotten up at dawn and started walking at 5 am where as the hippie started at 1 pm. It's now 7 pm, and? ",
+        "Option1": "the cowboy has traveled less distance",
+        "Option2": "the hippie has traveled less distance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Terry takes his bicycle for a ride, first riding through the grass field of 7 meter in 1 second, then the paved street of 12 meter in 2 seconds. The paved street had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Dennis is rolling two marbles down the sidewalk. He rolls them both at the same time, in the same way. The blue marble goes 21 m down the sidewalk and the green one goes 26 m. The faster marble is? ",
+        "Option1": "green",
+        "Option2": "blue",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jim wears a thick Kevlar vest of size 10X1X10 inch. Jack is just wearing a cotton shirt of size 10X3X10 cm. Which top would stop a bullet? ",
+        "Option1": "Kevlar",
+        "Option2": "Cotton",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "The mammoth moved at a speed of 3 km per hour through the watering hole, but moved at a speed of 9 km per hour on the hard dirt because the hard dirt had? ",
+        "Option1": "less resistance",
+        "Option2": "more resistance",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Shiloh rolls a ball over a piece of sandpaper and notices that the ball move at a seed of 347 cm/s Shiloh then rolls his ball over a piece of glass, and the ball rolls at a speed of 7 m/s. The ball rolled quickly on the piece of glass because the glass had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toy car slid down the floor of a movie theater after it was cleaned to a distance of 7 meters. That same car was was rolled down the floor that was pretty sticky. It went 7 yards on this floor. The car went further on the clean floor because it has? ",
+        "Option1": "more resistance or",
+        "Option2": "less resistance?",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A bowling ball has a mass of 21 pounds and a baseball weighs 9 pounds. Which item has weaker gravity?? ",
+        "Option1": "baseball",
+        "Option2": "bowling ball",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "If a car and a pickup both travel at 60 mph, but the car stops after 5 mins whereas the pickup stops after 8 mins, which has travelled the lesser distance?? ",
+        "Option1": "car",
+        "Option2": "pickup",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Elliot is working in a warehouse. He notices that he is able to push a handcart at the speed of 24 m/s on the cement and 17 m/s on the carpet. The handcart will generate more heat when Elliot pushes it over the? ",
+        "Option1": "carpet",
+        "Option2": "cement.",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike was comparing the mass of a boulder and a pebble. He found that the mass of the boulder was 189 pounds and of the pebble was 2 Kg. Which item emits weaker gravity?? ",
+        "Option1": "boulder",
+        "Option2": "pebble",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The Porsche was running at 58 km/h and the Toyota was running at 34 km/h,  so on the race the Porsche took? ",
+        "Option1": "more time",
+        "Option2": "less time to make the trip",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A cat and a dog both run at 5 mph. If the cat runs for a 1 minute and the dog runs for 65 seconds, which will have gone the greater distance?? ",
+        "Option1": "cat",
+        "Option2": "dog",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Steven decided to do an experiment. They took one brick which has a weight of 2Kg, and one pebble which has a weight of 6g, and threw them out his second story window, when they looked down they discovered that the pebble reached the floor later than the brick because _____ than the brick.? ",
+        "Option1": "it has less mass",
+        "Option2": "it has more mass",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jasper is carrying his nephew in the park.  Then it's his niece's turn.  His niece is five years older and weighs 43 kgs whereas his nephew weghs 38 kgs. Who has more of a gravity pull?? ",
+        "Option1": "the niece",
+        "Option2": "the nephew",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Kate is at the movies and drops her cup on the floor accidentally. The cup rolls away through the concrete floor in 13 secs which is 5 meters long, but it covered 8 meters in 29 secs secs once it hits the carpeted floor. The cup was faster on the concrete floor because the concrete floor had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "John and Rita are going for a run.  Rita gets tired and takes a break on the park bench after 65 mins of jogging. John runs for 1 hr in the park, who has run farther?? ",
+        "Option1": "John",
+        "Option2": "Rita",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toddler is rolling a ball. It rolls around 5 seconds on the grass and stops. It rolls on to the concrete covered sand where it stops after 3 mins. The sand stopped the ball because it has _____ than the grass.? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The horse runs at a speed of 12 m/s on the derby track and at 10 m/s in the forest because the forest has? ",
+        "Option1": "more obstacles",
+        "Option2": "less obstacles",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Lisa was playing with two model rockets. She shot off the red one and the black one at the same time. After 30 seconds the black one was 2.4 m above the ground and the red one was 23.1 m above the ground. Which had more speed?? ",
+        "Option1": "the red one",
+        "Option2": "the black one",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A hand can move through a tank of water having size of 4 meters in 4 secs and it can cover same 4 meters in 2 secs through air. That means that there is less friction in? ",
+        "Option1": "water",
+        "Option2": "air.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "An agate rolling in a dirt field moves at a speed of 9 m/s and the one rolling in an empty cave moves at 18 m/s. It seems likely that the agate will roll a greater distance in the? ",
+        "Option1": "dirt field",
+        "Option2": "empty cave",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A toddler is rolling a ball for more than 23 seconds on the grass and rolls it on to the sand where it stops after 11 seconds. The sand stopped the ball because it has _____ than the grass.? ",
+        "Option1": "more friction",
+        "Option2": "less friction",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A steel ball has a mass of 2Kg and a pebble has a mass of 300 g. Which object has a stronger gravitational field?? ",
+        "Option1": "steel ball",
+        "Option2": "pebble",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Sarah used a remote control to turn on two identical lamps with the same power bulb, one was 2 m away and the other was 28 m away. Which lamp looked brighter?? ",
+        "Option1": "lamp nearby",
+        "Option2": "lamp across the room",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Bill throws a boulder of mass 80 kg and a pebble of mass 0.5 kg. The pebble falls much slower than the boulder meaning it? ",
+        "Option1": "weighs more",
+        "Option2": "weighs less",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "A capybara runs at a speed of 4 miles per hour and an anteater runs at a speed of 10 miles per hour. If both animals make the same journey, which will get there sooner?? ",
+        "Option1": "capybara",
+        "Option2": "anteater",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The beach volleyball player jumped 23 cms on the gym floor, but 16 inches on the beach shore sand because it had? ",
+        "Option1": "more resistance",
+        "Option2": "less resistance",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Tina is racing her two dogs. Her greyhound weighs 84 lbs and her rottweiler weighs 52 kg. The dog that gets faster more quickly is the? ",
+        "Option1": "rottweiler",
+        "Option2": "greyhound",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jax drops a roll of toilet paper on the floor. The toilet paper rolls onto the carpet and slowly comes to a stop after 3 meters. When he later drops the same roll of toilet paper on a wood floor, the roll of toilet paper keeps rolling out of the room which was 9 meters long. The roll of toilet paper went a greater distance on the wood floor because it had? ",
+        "Option1": "more friction",
+        "Option2": "less friction.",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The trunk on the old tree has thickness of 1.5 cm, whereas the trunk on the new tree has a width of 1 cm, so old tree was a? ",
+        "Option1": "stronger tree",
+        "Option2": "weaker tree",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "A rabbit can run at a speed of 56 kmph in a field and 29 kmph in a cactus field. This means the rabbit gets hotter running through a? ",
+        "Option1": "cactus field",
+        "Option2": "field",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Josh notices it's harder to lift his niece who weighs 74 lbs than his baby nephew who weighs 59 lbs. His nephew has a _____ pull of gravity? ",
+        "Option1": "stronger",
+        "Option2": "weaker",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "The horse runs 10 meter in 2 second on the derby track, whereas it runs 0.04 kilometer in 1 second on the forest because the forest has? ",
+        "Option1": "more obstacles",
+        "Option2": "less obstacles",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two Amish couples are getting ready to leave the grocery store. They load their groceries into each one of their carts. Each cart has one horse pulling it and they are equally strong. Horse one has to carry 59 pounds and Horse 2 has to carry 34 kgs. Which one will be slower to accelerate?? ",
+        "Option1": "horse one",
+        "Option2": "horse 2",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Jeff was rolling his pencil across different surfaces to see how much heat was generated. He noticed that rolling the pencil over pea gravel generated 8 joules heat and 4 joules of heat when rolling it over carpet. The pencil moved slower over? ",
+        "Option1": "carpet",
+        "Option2": "pea gravel",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike was comparing the mass of a boulder and a pebble. He found that the mass of the boulder was 150 pounds and of the pebble was 3 pounds. Which item emits weaker gravity?? ",
+        "Option1": "boulder",
+        "Option2": "pebble",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Todd gets in his car on Monday and drives for 20 hrs. He does the same thing on Tuesday but stops after 28 hrs that day. On which day will he have covered less ground?? ",
+        "Option1": "Monday",
+        "Option2": "Tuesday",
+        "answer": "Option 1",
+        "type": "Type_3"
+    },
+    {
+        "question": "Mike can roll his grapefruit over the counter and watch it roll a distance of 7 meters and 5 meters when he rolls it in his garage. This means the _____ has less friction? ",
+        "Option1": "garage",
+        "Option2": "counter",
+        "answer": "Option 2",
+        "type": "Type_3"
+    },
+    {
+        "question": "Two paper planes are thrown at a time, into the air. One is made of thick cardboard and has a weight of 0.2 kgs, one is made of thin paper and weighs 40 gms. Which paper plane flies faster?? ",
+        "Option1": "cardboard plane",
+        "Option2": "paper plane",
+        "answer": "Option 2",
+        "type": "Type_3"
+    }
+]

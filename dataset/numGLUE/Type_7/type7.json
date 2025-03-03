@@ -1,0 +1,3502 @@
+[
+    {
+        "statement1": "Patrick has a locker with a less than 8 number combination",
+        "statement2": "Patrick has a locker with a 3 number combination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jessica can text more than 35 words per minute , while Maurice can text 10 words per minute",
+        "statement2": "Jessica can text 75 words per minute , while Maurice can text 10 words per minute",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Shaquan has more than 3 playing cards , each one is ordered by the number on it , but one card is flipped over . They are numbered 8 , 16 , 24 , x , 40",
+        "statement2": "Shaquan has 5 playing cards , each one is ordered by the number on it , but one card is flipped over .\nThey are numbered 8 , 16 , 24 , x , 40",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a friendship gang Andrew has 8 gang , in how many ways can he invite one or more of the gang to his house ?",
+        "statement2": "In a friendship gang Andrew has more than 5 gang , in how many ways can he invite one or more of the gang to his house ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Since you ' re nice , you give John 2 baseball cards",
+        "statement2": "Since you ' re nice , you give John more than 2 baseball cards",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Leo gains 10 pounds , he will weigh 50 % more than his sister Kendra",
+        "statement2": "If Leo gains more than 10 pounds , he will weigh 50 % more than his sister Kendra",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "After 12 minutes , Cathy stops to stretch",
+        "statement2": "After less than 42 minutes , Cathy stops to stretch",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During the first two weeks of May , the total rainfall in Springdale was less than 55 inches",
+        "statement2": "During the first two weeks of May , the total rainfall in Springdale was 35 inches",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average number of shirts with Salman , Ambani and Dalmiya is 60 , if all of them reached a shopping mall in Delhi and purchased 4 shirts each of them then average number of shirt each of them now has",
+        "statement2": "The average number of shirts with Salman , Ambani and Dalmiya is less than 60 , if all of them reached a shopping mall in Delhi and purchased 4 shirts each of them then average number of shirt each of them now has",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Molly can do a task in 10 days while Sandy can do the task in 30 days",
+        "statement2": "Molly can do a task in 70 days while Sandy can do the task in 30 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Bruce and Anne can clean their house in more than 2 hours working together at their respective constant rates",
+        "statement2": "Bruce and Anne can clean their house in 4 hours working together at their respective constant rates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sam , Suresh and Sanket run a race of 1400 meters",
+        "statement2": "Sam , Suresh and Sanket run a race of 5400 meters",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Rahim bought 65 books for Rs",
+        "statement2": "Rahim bought more than 25 books for Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Karen places a bet with Tom that she will beat Tom in a car race by 4 miles even if Karen starts 4 minutes late",
+        "statement2": "Karen places a bet with Tom that she will beat Tom in a car race by more than 4 miles even if Karen starts 4 minutes late",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Calculate Rebecca ' s average score in an exam if she obtained the following marks more than 10 , 57 , 69 , 89 and 85 out of 100 in different subjects .",
+        "statement2": "Calculate Rebecca ' s average score in an exam if she obtained the following marks 70 , 57 , 69 , 89 and 85 out of 100 in different subjects .",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During a car trip , Maria stopped to rest after she traveled less than 5 / 2 of the total distance to her destination",
+        "statement2": "During a car trip , Maria stopped to rest after she traveled 1 / 2 of the total distance to her destination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a certain town , the ratio of NY Yankees fans to NY Mets fans is 2 : 1 , and the ratio of NY Mets fans to Boston Red Sox fans is 3 : 7",
+        "statement2": "In a certain town , the ratio of NY Yankees fans to NY Mets fans is 8 : 1 , and the ratio of NY Mets fans to Boston Red Sox fans is 3 : 7",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Zada has to distribute less than 55 choclates among 5 of her children Sana , ada , jaya , amir and farhan",
+        "statement2": "Zada has to distribute 15 choclates among 5 of her children Sana , ada , jaya , amir and farhan",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "3750 from Anwar at 6 % p",
+        "statement2": "less than 7750 from Anwar at 6 % p",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John traveled 80 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "statement2": "John traveled more than 50 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Harkamal purchased more than 2 kg of grapes at the rate of 70 per kg and 9 kg of mangoes at the rate of 55 per kg",
+        "statement2": "Harkamal purchased 8 kg of grapes at the rate of 70 per kg and 9 kg of mangoes at the rate of 55 per kg",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anup was asked to find the value of more than 5 / 12 of a sum of money W",
+        "statement2": "Anup was asked to find the value of 7 / 12 of a sum of money W",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Matt is touring a nation in which coins are issued in two amounts , less than 4 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "statement2": "Matt is touring a nation in which coins are issued in two amounts , 2 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A starts from Delhi with a speed of 25 kmph at 5 a",
+        "statement2": "A starts from Delhi with a speed of 35 kmph at 5 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is 1 / 9 of that of Pyarelal",
+        "statement2": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is less than 3 / 9 of that of Pyarelal",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lally ' s internet provider offers unlimited traffic which costs $ 0.5 per day charged off at 12 a",
+        "statement2": "Lally ' s internet provider offers unlimited traffic which costs $ 0.5 per day charged off at less than 52 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In the biology lab of ` ` Jefferson ' ' High School there are 0.037 * 10 ^ 5 germs , equally divided among 74000 * 10 ^ ( - 3 ) Petri dishes",
+        "statement2": "In the biology lab of ` ` Jefferson ' ' High School there are 0.037 * more than 10 ^ 5 germs , equally divided among 74000 * 10 ^ ( - 3 ) Petri dishes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John has less than 8 friends who want to ride in his new car that can accommodate only 4 people at a time ( John plus 3 passengers )",
+        "statement2": "John has 6 friends who want to ride in his new car that can accommodate only 4 people at a time ( John plus 3 passengers )",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ratio between the number of sheep and the number of horses at the Stewart farm is 3 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+        "statement2": "The ratio between the number of sheep and the number of horses at the Stewart farm is more than 3 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Six years ago , the ratio of ages of Kunal and Sagar was 6 : 5",
+        "statement2": "Six years ago , the ratio of ages of Kunal and Sagar was more than 6 : 5",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "All of them started to work together but Rashmi leaves after 4 days",
+        "statement2": "All of them started to work together but Rashmi leaves after less than 4 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Anne \u2019 s speed were doubled , they could clean their house in more than 1 hours working at their respective rates",
+        "statement2": "If Anne \u2019 s speed were doubled , they could clean their house in 3 hours working at their respective rates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John traveled 80 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "statement2": "John traveled more than 80 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Billy has more than 1 apples",
+        "statement2": "Billy has 5 apples",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "less than 5 people voted to watch My Hero Academia Academia",
+        "statement2": "3 people voted to watch My Hero Academia Academia",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Jack ' s score was within 2 standard deviations of the mean , what is the lowest score he could have received ?",
+        "statement2": "If Jack ' s score was within 8 standard deviations of the mean , what is the lowest score he could have received ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Abinaya had less than 200 currency notes in all , some of which are of Rs 80 denomination and the remaining of Rs 50 denomination",
+        "statement2": "Abinaya had 100 currency notes in all , some of which are of Rs 80 denomination and the remaining of Rs 50 denomination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When the river is running at 1 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "statement2": "When the river is running at less than 2 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Matt is touring a nation in which coins are issued in two amounts , less than 8 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "statement2": "Matt is touring a nation in which coins are issued in two amounts , 2 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "It takes John exactly 15 minutes to rake a lawn and it takes his son Todd exactly 30 minutes to rake the same lawn",
+        "statement2": "It takes John exactly less than 65 minutes to rake a lawn and it takes his son Todd exactly 30 minutes to rake the same lawn",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anusha , Banu and Esha run a running race of 100 meters",
+        "statement2": "Anusha , Banu and Esha run a running race of more than 100 meters",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The compound interest earned by Sunil on a certain amount at the end of two years at the rate of 8 % p",
+        "statement2": "The compound interest earned by Sunil on a certain amount at the end of two years at the rate of more than 1 % p",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Melvin ' s GMAT score is twice his monthly electric bill , and his life expectancy is more than 60 , what is his shoe size ?",
+        "statement2": "If Melvin ' s GMAT score is twice his monthly electric bill , and his life expectancy is 80 , what is his shoe size ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anitha had 80 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "statement2": "Anitha had more than 80 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many hours does it take Little Texas Drilling Company to produce 195 barrels of oil ?",
+        "statement2": "How many hours does it take Little Texas Drilling Company to produce less than 495 barrels of oil ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of 5 % of the cost of the orders she serves",
+        "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of more than 5 % of the cost of the orders she serves",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mary is 10 years younger than Albert",
+        "statement2": "Mary is 20 years younger than Albert",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anita goes away and Indu leaves 7 days before the work is finished",
+        "statement2": "Anita goes away and Indu leaves less than 7 days before the work is finished",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When Anusha reached the goal post , Banu was less than 30 m behind",
+        "statement2": "When Anusha reached the goal post , Banu was 10 m behind",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The distance between Delhi and Mathura is less than 310 kms",
+        "statement2": "The distance between Delhi and Mathura is 110 kms",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Susan , Daisy and Tim need to be seated in 3 identical chairs in straight line so that Susan is seated always left to Tim",
+        "statement2": "Susan , Daisy and Tim need to be seated in more than 3 identical chairs in straight line so that Susan is seated always left to Tim",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Albert \u2019 s monthly earnings rise by less than 87 % , he would earn $ 567",
+        "statement2": "If Albert \u2019 s monthly earnings rise by 27 % , he would earn $ 567",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "5887 is divided between Shyam and Ram , such that Shyam ' s share at the end of 9 years is equal to Ram ' s share at the end of 11 years , compounded annually at the rate of 5 %",
+        "statement2": "more than 4887 is divided between Shyam and Ram , such that Shyam ' s share at the end of 9 years is equal to Ram ' s share at the end of 11 years , compounded annually at the rate of 5 %",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack walks in a straight line toward Christina at a constant speed of 4 feet per second and Christina walks in a straight line toward Jack at a constant speed of 5 feet per second",
+        "statement2": "Jack walks in a straight line toward Christina at a constant speed of more than 1 feet per second and Christina walks in a straight line toward Jack at a constant speed of 5 feet per second",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A starts from Delhi with a speed of 20 kmph at 7 a",
+        "statement2": "A starts from Delhi with a speed of 10 kmph at 7 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If she worked three 8 - hour shifts this week and averaged $ 40 in orders per hour , how much did Jill earn this week ?",
+        "statement2": "If she worked three more than 4 - hour shifts this week and averaged $ 40 in orders per hour , how much did Jill earn this week ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "His assets included : Investments , ( $ 305,000 ) , Life Insurance ( $ 104,000 ) , an old car ( sold for $ 1900 ) , an older house ( sold for $ 75,000 )",
+        "statement2": "His assets included : Investments , ( $ 305,000 ) , Life Insurance ( $ 104,000 ) , an old car ( sold for $ less than 4900 ) , an older house ( sold for $ 75,000 )",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Meg and Bob are among the 4 participants in a cycling race",
+        "statement2": "Meg and Bob are among the more than 2 participants in a cycling race",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "James took a 3 - hour bike ride",
+        "statement2": "James took a less than 7 - hour bike ride",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "After less than 42 minutes , Cathy stops to stretch",
+        "statement2": "After 12 minutes , Cathy stops to stretch",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A \u201c Sophie Germain \u201d prime is any positive prime number p for which less than 7 p + 1 is also prime",
+        "statement2": "A \u201c Sophie Germain \u201d prime is any positive prime number p for which 2 p + 1 is also prime",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ganesh covers the distance from X to Y at an average speed of 43 Km / hr",
+        "statement2": "Ganesh covers the distance from X to Y at an average speed of less than 43 Km / hr",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Cindy ' s mother gives her $ 30 to spend",
+        "statement2": "Cindy ' s mother gives her $ more than 20 to spend",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+        "statement2": "How much loss would Indu has suffered had she given it to Bindu for less than 7 years at 4 % per annum simple interest ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The 38 parents participating in the Smithville PTA have been assigned to at least 1 of 3 committees : festival planning , classroom aid , and teacher relations",
+        "statement2": "The 88 parents participating in the Smithville PTA have been assigned to at least 1 of 3 committees : festival planning , classroom aid , and teacher relations",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During a car trip , Maria stopped to rest after she traveled 1 / 2 of the total distance to her destination",
+        "statement2": "During a car trip , Maria stopped to rest after she traveled less than 2 / 2 of the total distance to her destination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Albert \u2019 s monthly earnings rise by 14 % , he would earn $ 678",
+        "statement2": "If Albert \u2019 s monthly earnings rise by more than 14 % , he would earn $ 678",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If there are less than 720 baseball fans in the town , each of whom is a fan of exactly one of those three teams , how many NY Mets fans are there in this town ?",
+        "statement2": "If there are 320 baseball fans in the town , each of whom is a fan of exactly one of those three teams , how many NY Mets fans are there in this town ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy attempts 30 sums and obtains 50 marks",
+        "statement2": "Sandy attempts more than 10 sums and obtains 50 marks",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At present , the ratio between the ages of Arun and Deepak is 4 : 3",
+        "statement2": "At present , the ratio between the ages of Arun and Deepak is less than 4 : 3",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Vijay sells a cupboard at 10 % below cost price",
+        "statement2": "Vijay sells a cupboard at 40 % below cost price",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of 5 % of the cost of the orders she serves",
+        "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of less than 6 % of the cost of the orders she serves",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anitha had more than 40 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "statement2": "Anitha had 80 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Shekar scored more than 46 , 65 , 82 , 47 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "statement2": "Shekar scored 76 , 65 , 82 , 47 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If it takes Darcy a total of 5 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+        "statement2": "If it takes Darcy a total of 3 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How much loss would Indu has suffered had she given it to Bindu for less than 8 years at 4 % per annum simple interest ?",
+        "statement2": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Albert is less than 5 times Mary \u2019 s age and 4 times as old as Betty",
+        "statement2": "Albert is 2 times Mary \u2019 s age and 4 times as old as Betty",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many possible ways can 5 girls ( Rebecca , Kate , Ashley ) go on a date with 5 boys ( Peter , Kyle , Sam ) ?",
+        "statement2": "How many possible ways can 4 girls ( Rebecca , Kate , Ashley ) go on a date with 5 boys ( Peter , Kyle , Sam ) ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A train leaves Delhi at less than 41 a",
+        "statement2": "A train leaves Delhi at 11 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many seconds does Sandy take to cover a distance of 500 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "statement2": "How many seconds does Sandy take to cover a distance of more than 300 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Claire has a total of 80 pets consisting of gerbils and hamsters only",
+        "statement2": "Claire has a total of less than 80 pets consisting of gerbils and hamsters only",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If she worked four 12 - hour shifts this week and averaged $ 40 in orders per hour , how much did Jill earn this week ?",
+        "statement2": "If she worked four less than 12 - hour shifts this week and averaged $ 40 in orders per hour , how much did Jill earn this week ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Harkamal purchased 8 kg of grapes at the rate of 70 per kg and 9 kg of mangoes at the rate of 55 per kg",
+        "statement2": "Harkamal purchased more than 2 kg of grapes at the rate of 70 per kg and 9 kg of mangoes at the rate of 55 per kg",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In Josephs convent school , more than 10 % are boys at the same time 75 % are girls students",
+        "statement2": "In Josephs convent school , 80 % are boys at the same time 75 % are girls students",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When the river is running at 1 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "statement2": "When the river is running at less than 1 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anand and Deepak started a business investing Rs 22500 and 35000 respectively",
+        "statement2": "Anand and Deepak started a business investing Rs less than 82500 and 35000 respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The next day , Cara took the test , and with this grade included , the new average was 77",
+        "statement2": "The next day , Cara took the test , and with this grade included , the new average was more than 47",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In one day , Juan sends Keith three times as many messages as he sends Laurence , and Laurence sends Missy more than 1 times as many messages as he receives from Juan",
+        "statement2": "In one day , Juan sends Keith three times as many messages as he sends Laurence , and Laurence sends Missy 2 times as many messages as he receives from Juan",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When the river is running at 2 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "statement2": "When the river is running at less than 4 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ratio between Rahul and Deepak is 4 : 3 , After 6 Years Rahul age will be 18 years",
+        "statement2": "Ratio between Rahul and Deepak is 5 : 3 , After 6 Years Rahul age will be 18 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "James took a less than 7 - hour bike ride",
+        "statement2": "James took a 3 - hour bike ride",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Leo gains 10 pounds , he will weigh 50 % more than his sister Kendra",
+        "statement2": "If Leo gains less than 20 pounds , he will weigh 50 % more than his sister Kendra",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Lary received $ 800 more than Terry did , what was the profit made by their business in that year ?",
+        "statement2": "If Lary received $ 500 more than Terry did , what was the profit made by their business in that year ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Meg and Bob are among the 4 participants in a cycling race",
+        "statement2": "Meg and Bob are among the less than 4 participants in a cycling race",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average number of shirts with Salman , Ambani and Dalmiya is 60 , if all of them reached a shopping mall in Delhi and purchased 4 shirts each of them then average number of shirt each of them now has",
+        "statement2": "The average number of shirts with Salman , Ambani and Dalmiya is more than 20 , if all of them reached a shopping mall in Delhi and purchased 4 shirts each of them then average number of shirt each of them now has",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Right now , the ratio between the ages of Sandy and Molly is 4 : 3",
+        "statement2": "Right now , the ratio between the ages of Sandy and Molly is less than 4 : 3",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During the first two weeks of February , the total rainfall in Springdale was less than 40 inches",
+        "statement2": "During the first two weeks of February , the total rainfall in Springdale was 20 inches",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Nitin ranks 27 th in a class of 89 students",
+        "statement2": "Nitin ranks more than 27 th in a class of 89 students",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Anne \u2019 s speed were doubled , they could clean their house in 3 hours working at their respective rates",
+        "statement2": "If Anne \u2019 s speed were doubled , they could clean their house in less than 8 hours working at their respective rates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ratio between Rahul and Deepak is 4 : 3 , After 4 Years Rahul age will be 32 years",
+        "statement2": "Ratio between Rahul and Deepak is 8 : 3 , After 4 Years Rahul age will be 32 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "50 % of students from 200 Science students are locals and 85 % of total 120 Commerce students are locals",
+        "statement2": "more than 20 % of students from 200 Science students are locals and 85 % of total 120 Commerce students are locals",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lindy runs at a constant speed of 8 feet per second from Christina to Jack , back to Christina , back to Jack , and so forth",
+        "statement2": "Lindy runs at a constant speed of more than 1 feet per second from Christina to Jack , back to Christina , back to Jack , and so forth",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Donald carries a total of 39 notes ( of either $ 10 or \u20ac 10 , ) then what is the total number of notes ( of either $ 10 or \u20ac 10 , ) they take ?",
+        "statement2": "If Donald carries a total of less than 89 notes ( of either $ 10 or \u20ac 10 , ) then what is the total number of notes ( of either $ 10 or \u20ac 10 , ) they take ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ages of Nishi and vinnee are in the ratio of 6 : 5 respectively",
+        "statement2": "The ages of Nishi and vinnee are in the ratio of less than 7 : 5 respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In the city of San Durango , less than 70 people own cats , dogs , or rabbits",
+        "statement2": "In the city of San Durango , 60 people own cats , dogs , or rabbits",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is less than 3 / 9 of that of Pyarelal",
+        "statement2": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is 1 / 9 of that of Pyarelal",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average number of shirts with Salman , Ambani and Dalmiya is more than 40 , if all of them reached a shopping mall in Delhi and purchased 1 shirts each of them then average number of shirt each of them now has",
+        "statement2": "The average number of shirts with Salman , Ambani and Dalmiya is 60 , if all of them reached a shopping mall in Delhi and purchased 1 shirts each of them then average number of shirt each of them now has",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In 6 years from now , Lyn the circus Lion will be exactly half as old as Ele , the circus Elephant",
+        "statement2": "In more than 6 years from now , Lyn the circus Lion will be exactly half as old as Ele , the circus Elephant",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "statement2": "less than 5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Listco employs more than 62 level - 1 employees , 20 of whom are college graduates",
+        "statement2": "Listco employs 72 level - 1 employees , 20 of whom are college graduates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Level - 1 college graduates account for 10 % of Listco ' s sales staff",
+        "statement2": "Level - less than 3 college graduates account for 10 % of Listco ' s sales staff",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John paid a 15 % tip over the original price of the dish , while Jane paid the tip over the discounted price for the coupon",
+        "statement2": "John paid a less than 85 % tip over the original price of the dish , while Jane paid the tip over the discounted price for the coupon",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Suresh can complete a job in less than 65 hours",
+        "statement2": "Suresh can complete a job in 15 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Raj was one - third as old as Rahim 5 years back and Raj is 17 years old now , How old is Rahim now ?",
+        "statement2": "If Raj was one - third as old as Rahim more than 5 years back and Raj is 17 years old now , How old is Rahim now ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Shekar scored 76 , 65 , 82 , 47 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "statement2": "Shekar scored 86 , 65 , 82 , 47 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is 1 / 9 of that of Pyarelal",
+        "statement2": "Ashok and Pyarelal invested money together in a business and share a capital of Ashok is 3 / 9 of that of Pyarelal",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During the first two weeks of February , the total rainfall in Springdale was 20 inches",
+        "statement2": "During the first two weeks of February , the total rainfall in Springdale was less than 20 inches",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Aamir saves 32 % of his monthly salary",
+        "statement2": "Aamir saves less than 82 % of his monthly salary",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Marcella has 24 pairs of shoes",
+        "statement2": "Marcella has less than 44 pairs of shoes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Aamir saves 32 % of his monthly salary",
+        "statement2": "Aamir saves 42 % of his monthly salary",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mike can catch less than 25 fish in one hour , Jim can catch twice as much and Bob can catch 50 % more than Jim",
+        "statement2": "Mike can catch 15 fish in one hour , Jim can catch twice as much and Bob can catch 50 % more than Jim",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ratio between Rahul and Deepak is 4 : 3 , After 6 Years Rahul age will be 18 years",
+        "statement2": "Ratio between Rahul and Deepak is more than 1 : 3 , After 6 Years Rahul age will be 18 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy is younger than Molly by 20 years",
+        "statement2": "Sandy is younger than Molly by more than 20 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the ratio of their ages is 7 : 9 , how old is Sandy ?",
+        "statement2": "If the ratio of their ages is more than 5 : 9 , how old is Sandy ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sony and Johnny caught 25 fishes",
+        "statement2": "Sony and Johnny caught 15 fishes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack walks in a straight line toward Christina at a constant speed of 5 feet per second and Christina walks in a straight line toward Jack at a constant speed of 3 feet per second",
+        "statement2": "Jack walks in a straight line toward Christina at a constant speed of less than 5 feet per second and Christina walks in a straight line toward Jack at a constant speed of 3 feet per second",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Meg and Bob are among the 6 participants in a cycling race",
+        "statement2": "Meg and Bob are among the more than 6 participants in a cycling race",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "George ' s drawer has 10 loose black socks , 12 loose blue socks , and 8 loose white socks",
+        "statement2": "George ' s drawer has more than 10 loose black socks , 12 loose blue socks , and 8 loose white socks",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Bruce and Anne can clean their house in 4 hours working together at their respective constant rates",
+        "statement2": "Bruce and Anne can clean their house in more than 4 hours working together at their respective constant rates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If today in the morning Lally makes a payment of $ 7 , for how many days , including today , will she be connected to the internet without any additional payments , given her initial balance was $ 0 ?",
+        "statement2": "If today in the morning Lally makes a payment of $ more than 3 , for how many days , including today , will she be connected to the internet without any additional payments , given her initial balance was $ 0 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Dana gives her parents 5 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+        "statement2": "If Dana gives her parents 1 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Albert is 2 times Mary \u2019 s age and 4 times as old as Betty",
+        "statement2": "Albert is more than 2 times Mary \u2019 s age and 4 times as old as Betty",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a recent election , Geoff received 1 percent of the 6,000 votes cast",
+        "statement2": "In a recent election , Geoff received less than 6 percent of the 6,000 votes cast",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "What is the minimum number of packages of Aero flight tees Bill must purchase to ensure that he has at least less than 30 golf tees for each member of his foursome , if he will buy no more than 3 packages of the generic golf tees ?",
+        "statement2": "What is the minimum number of packages of Aero flight tees Bill must purchase to ensure that he has at least 10 golf tees for each member of his foursome , if he will buy no more than 3 packages of the generic golf tees ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mike can catch 15 fish in one hour , Jim can catch twice as much and Bob can catch 50 % more than Jim",
+        "statement2": "Mike can catch less than 25 fish in one hour , Jim can catch twice as much and Bob can catch 50 % more than Jim",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Marcella has 24 pairs of shoes",
+        "statement2": "Marcella has more than 24 pairs of shoes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average number of shirts with Salman , Ambani and Dalmiya is 60 , if all of them reached a shopping mall in Delhi and purchased 1 shirts each of them then average number of shirt each of them now has",
+        "statement2": "The average number of shirts with Salman , Ambani and Dalmiya is 80 , if all of them reached a shopping mall in Delhi and purchased 1 shirts each of them then average number of shirt each of them now has",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dana borrows 4000 pounds annually for her college education",
+        "statement2": "Dana borrows 8000 pounds annually for her college education",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anitha had 80 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "statement2": "Anitha had more than 40 currency notes in all , some of which are of Rs 95 denomination and the remaining of Rs 45 denomination",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Exactly less than 8 / 7 of the ponies have horseshoes , and exactly 2 / 3 of the ponies with horseshoes are from Iceland",
+        "statement2": "Exactly 5 / 7 of the ponies have horseshoes , and exactly 2 / 3 of the ponies with horseshoes are from Iceland",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack and Christina are standing 240 feet apart on a level surface",
+        "statement2": "Jack and Christina are standing less than 340 feet apart on a level surface",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "It takes John exactly 15 minutes to rake a lawn and it takes his son Todd exactly 30 minutes to rake the same lawn",
+        "statement2": "It takes John exactly 65 minutes to rake a lawn and it takes his son Todd exactly 30 minutes to rake the same lawn",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Jack walked 9 miles in 1 hour and 15 minutes , what was his rate of walking in miles per hour ?",
+        "statement2": "If Jack walked more than 8 miles in 1 hour and 15 minutes , what was his rate of walking in miles per hour ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Tanya is 25 % more efficient than Sakshi",
+        "statement2": "Tanya is less than 75 % more efficient than Sakshi",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lindy runs at a constant speed of 8 feet per second from Christina to Jack , back to Christina , back to Jack , and so forth",
+        "statement2": "Lindy runs at a constant speed of more than 8 feet per second from Christina to Jack , back to Christina , back to Jack , and so forth",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sean , who weighs 200 pounds , is in the elevator with two packages weighing 150 pounds and 280 pounds",
+        "statement2": "Sean , who weighs less than 700 pounds , is in the elevator with two packages weighing 150 pounds and 280 pounds",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At Veridux Corporation , there are less than 450 employees",
+        "statement2": "At Veridux Corporation , there are 250 employees",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Rajesh solved 80 per cent of the questions in an examination correctly",
+        "statement2": "Rajesh solved more than 20 per cent of the questions in an examination correctly",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "On a less than 40 mile course , Bil bicycled at an average rate of 30 miles per hour for the first 12 minutes and without a break , ran the rest of the distance at an average rate of 8 miles per hour",
+        "statement2": "On a 20 mile course , Bil bicycled at an average rate of 30 miles per hour for the first 12 minutes and without a break , ran the rest of the distance at an average rate of 8 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Dana gives her parents 2 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+        "statement2": "If Dana gives her parents more than 2 % of that amount back each month , how much will she still owe her parents after four years of college ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Matt is touring a nation in which coins are issued in two amounts , 2 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "statement2": "Matt is touring a nation in which coins are issued in two amounts , less than 8 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a recent election , Geoff received less than 6 percent of the 6,000 votes cast",
+        "statement2": "In a recent election , Geoff received 1 percent of the 6,000 votes cast",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack took a less than 7 - hour bike ride",
+        "statement2": "Jack took a 3 - hour bike ride",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The next day , Dan took the test , and with this grade included , the new average was 76",
+        "statement2": "The next day , Dan took the test , and with this grade included , the new average was more than 16",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At Veridux Corporation , there are 250 employees",
+        "statement2": "At Veridux Corporation , there are 650 employees",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "more than 2000 among John , Jose & Binoy in the ration 2 : 4 : 6",
+        "statement2": "6000 among John , Jose & Binoy in the ration 2 : 4 : 6",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dan \u2019 s car gets 32 miles per gallon",
+        "statement2": "Dan \u2019 s car gets 52 miles per gallon",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the rosters for Professor Wang ' s less than 6 classes are combined with no student ' s name listed more than once , how many names will be on the combined roster ?",
+        "statement2": "If the rosters for Professor Wang ' s 3 classes are combined with no student ' s name listed more than once , how many names will be on the combined roster ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Xavier starts from P towards Q at a speed of 90 kmph and after every 12 mins increases his speed by 10 kmph",
+        "statement2": "Xavier starts from P towards Q at a speed of more than 40 kmph and after every 12 mins increases his speed by 10 kmph",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The distance between Delhi and Mathura is 110 kms",
+        "statement2": "The distance between Delhi and Mathura is 710 kms",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jaclyn buys $ 60 000 worth of debentures in a company",
+        "statement2": "Jaclyn buys $ less than 80 000 worth of debentures in a company",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Andy solves problems more than 64 to 135 inclusive in a Math exercise",
+        "statement2": "Andy solves problems 74 to 135 inclusive in a Math exercise",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Klaudia can choose any two of four different candles and any more than 4 of 9 different flowers for a centerpiece arrangement",
+        "statement2": "Klaudia can choose any two of four different candles and any 8 of 9 different flowers for a centerpiece arrangement",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Suresh age after less than 85 years will be 5 times his age 5 years back , What is the present age of Suresh",
+        "statement2": "Suresh age after 15 years will be 5 times his age 5 years back , What is the present age of Suresh",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of less than 6 % of the cost of the orders she serves",
+        "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 7.00 per hour and a standard tip rate of 5 % of the cost of the orders she serves",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Nitin ranks less than 77 th in a class of 89 students",
+        "statement2": "Nitin ranks 27 th in a class of 89 students",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "250 and Andre ' s share is Rs",
+        "statement2": "less than 250 and Andre ' s share is Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When the river is running at 2 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "statement2": "When the river is running at 7 km / h , it takes the rower 1 hour to row to Big Rock and back",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "What is the ratio of Arun ' s monthly income in the year less than 6006 , Suman ' s monthly income in the year 2007 and Jyothi ' s monthly income in the year 2005 ?",
+        "statement2": "What is the ratio of Arun ' s monthly income in the year 2006 , Suman ' s monthly income in the year 2007 and Jyothi ' s monthly income in the year 2005 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Geoff needed exactly 3000 more votes to win the election , what is the value of x ?",
+        "statement2": "If Geoff needed exactly more than 3000 more votes to win the election , what is the value of x ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Carina has 115 ounces of coffee divided into 5 - and 10 - ounce packages",
+        "statement2": "Carina has less than 815 ounces of coffee divided into 5 - and 10 - ounce packages",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the agreed period of the debenture was less than 38 months : calculate the amount of interest Jaclyn will earn for each quarter",
+        "statement2": "If the agreed period of the debenture was 18 months : calculate the amount of interest Jaclyn will earn for each quarter",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dana borrows 4000 pounds annually for her college education",
+        "statement2": "Dana borrows more than 1000 pounds annually for her college education",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Akash will arrange 6 people of 6 different heights for photograph by placing them in two rows of three so that each person in the first row is standing is standing in front of someone in the second row",
+        "statement2": "Akash will arrange 5 people of 6 different heights for photograph by placing them in two rows of three so that each person in the first row is standing is standing in front of someone in the second row",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If there are less than 5 peanuts in a box and Mary puts 6 more peanuts inside , how many peanuts are in the box ?",
+        "statement2": "If there are 4 peanuts in a box and Mary puts 6 more peanuts inside , how many peanuts are in the box ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "On a 20 mile course , Bil bicycled at an average rate of 30 miles per hour for the first 12 minutes and without a break , ran the rest of the distance at an average rate of 8 miles per hour",
+        "statement2": "On a 40 mile course , Bil bicycled at an average rate of 30 miles per hour for the first 12 minutes and without a break , ran the rest of the distance at an average rate of 8 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a deck of 52 cards , how many ways are there to select 13 Spade and 13 heart cards without repetition ?",
+        "statement2": "In a deck of 72 cards , how many ways are there to select 13 Spade and 13 heart cards without repetition ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When Anusha reached the goal post , Banu was 10 m behind",
+        "statement2": "When Anusha reached the goal post , Banu was more than 10 m behind",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Alok ordered less than 86 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "statement2": "Alok ordered 16 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average number of shirts with Salman , Ambani and Dalmiya is 60 , if all of them reached a shopping mall in Delhi and purchased 6 shirts each of them then average number of shirt each of them now has",
+        "statement2": "The average number of shirts with Salman , Ambani and Dalmiya is 70 , if all of them reached a shopping mall in Delhi and purchased 6 shirts each of them then average number of shirt each of them now has",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Bruce and Anne can clean their house in more than 1 hours working together at their respective constant rates",
+        "statement2": "Bruce and Anne can clean their house in 4 hours working together at their respective constant rates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Triangle STV has sides ST = TV = less than 85 , and SV = 14",
+        "statement2": "Triangle STV has sides ST = TV = 25 , and SV = 14",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had 26 names , the roster for her marketing class ( M ) had 26 , and the roster for her statistics class ( S ) had 18",
+        "statement2": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had 66 names , the roster for her marketing class ( M ) had 26 , and the roster for her statistics class ( S ) had 18",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If it takes Darcy a total of 5 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+        "statement2": "If it takes Darcy a total of more than 2 more minutes to commute to work by walking than it takes her to commute to work by riding the train , what is the value of x ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Elena purchased a total of 10 of these pens for $ 42.00 , how many brand X pens did she purchase ?",
+        "statement2": "If Elena purchased a total of less than 30 of these pens for $ 42.00 , how many brand X pens did she purchase ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Alok ordered 16 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "statement2": "Alok ordered less than 86 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Andy solves problems 74 to 135 inclusive in a Math exercise",
+        "statement2": "Andy solves problems more than 64 to 135 inclusive in a Math exercise",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anita goes away and Indu leaves 7 days before the work is finished",
+        "statement2": "Anita goes away and Indu leaves more than 5 days before the work is finished",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jaclyn buys $ 60 000 worth of debentures in a company",
+        "statement2": "Jaclyn buys $ less than 60 000 worth of debentures in a company",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Alice is 100 km away from Bob at 7 am , and also 100 km away from Bob at 11 am , then how fast is Bob driving ( in kilometers per hour ) ?",
+        "statement2": "If Alice is 400 km away from Bob at 7 am , and also 100 km away from Bob at 11 am , then how fast is Bob driving ( in kilometers per hour ) ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John paid a less than 85 % tip over the original price of the dish , while Jane paid the tip over the discounted price for the coupon",
+        "statement2": "John paid a 15 % tip over the original price of the dish , while Jane paid the tip over the discounted price for the coupon",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Tanya is less than 75 % more efficient than Sakshi",
+        "statement2": "Tanya is 25 % more efficient than Sakshi",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "for Mathura and B starts from Mathura with a speed of 25 kmph at 8 p",
+        "statement2": "for Mathura and B starts from Mathura with a speed of 15 kmph at 8 p",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A train leaves Delhi at 11 a",
+        "statement2": "A train leaves Delhi at less than 41 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mr Yadav spends more than 30 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "statement2": "Mr Yadav spends 60 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Albert is 2 times Mary \u2019 s age and 4 times as old as Betty",
+        "statement2": "Albert is more than 2 times Mary \u2019 s age and 4 times as old as Betty",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sid left a job paying $ 75,000 per year to accept a sales job paying $ 45,000 per year plus 15 percent commission",
+        "statement2": "Sid left a job paying $ 75,000 per year to accept a sales job paying $ 45,000 per year plus less than 55 percent commission",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jessica can text 75 words per minute , while Maurice can text 10 words per minute",
+        "statement2": "Jessica can text 25 words per minute , while Maurice can text 10 words per minute",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Anusha , Banu and Esha run a running race of 100 meters",
+        "statement2": "Anusha , Banu and Esha run a running race of less than 800 meters",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many seconds does Sandy take to cover a distance of 500 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "statement2": "How many seconds does Sandy take to cover a distance of 700 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the distance between their homes is less than 50 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "statement2": "If the distance between their homes is 40 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lionel left his house and walked towards Walt ' s house , 48 miles away",
+        "statement2": "Lionel left his house and walked towards Walt ' s house , more than 28 miles away",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Venki takes a trip and drives less than 7 hours from Town X to Town Z at a rate of 80 miles per hour",
+        "statement2": "Venki takes a trip and drives 5 hours from Town X to Town Z at a rate of 80 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sharmila works 10 hours per day on Monday , Wednesday and Friday , and 8 hours per day on Tuesday and Thursday",
+        "statement2": "Sharmila works less than 10 hours per day on Monday , Wednesday and Friday , and 8 hours per day on Tuesday and Thursday",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy attempts more than 10 sums and obtains 50 marks",
+        "statement2": "Sandy attempts 30 sums and obtains 50 marks",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "300 , what will be the difference between Raja and Rahim ' s share ?",
+        "statement2": "less than 800 , what will be the difference between Raja and Rahim ' s share ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ganesh covers the distance from X to Y at an average speed of 43 Km / hr",
+        "statement2": "Ganesh covers the distance from X to Y at an average speed of less than 83 Km / hr",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ages of Nishi and vinnee are in the ratio of less than 7 : 5 respectively",
+        "statement2": "The ages of Nishi and vinnee are in the ratio of 6 : 5 respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "'' Someone just came in and shot my daughter and husband , '' Flores ' wife frantically told 911 .",
+        "statement2": "Raul Flores , daughter , 9 , shot dead ; wire calls 911",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A $ 5,000 reward is offered .",
+        "statement2": "Know something ? Call 641-228-182 . A reward is offered",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At Veridux Corporation , there are 250 employees",
+        "statement2": "At Veridux Corporation , there are less than 650 employees",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ratio between the number of sheep and the number of horses at the Stewart farm is 2 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+        "statement2": "The ratio between the number of sheep and the number of horses at the Stewart farm is more than 2 to 7 , If each horse is fed 230 ounces of horse food per day and the farm needs a total 12,880 ounces of horse food per day , what is the number of sheep in the farm ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "More than 1.2 million people have since viewed it .",
+        "statement2": "Over 1.2 million people have viewed it on YouTube",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Joe drives 420 miles at 60 miles per hour , and then he drives the next 120 miles at 40 miles per hour",
+        "statement2": "Joe drives 120 miles at 60 miles per hour , and then he drives the next 120 miles at 40 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many seconds does Sandy take to cover a distance of 700 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "statement2": "How many seconds does Sandy take to cover a distance of more than 200 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "By how much must Rebecca ' s annual income increase so that it constitutes 55 % of Rebecca and Jimmy ' s combined income ?",
+        "statement2": "By how much must Rebecca ' s annual income increase so that it constitutes less than 55 % of Rebecca and Jimmy ' s combined income ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There were 58.0 geese and 37.0 ducks in the marsh.",
+        "statement2": "16.0 more geese were in the marsh",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "-LRB- CNN -RRB- Vince Camuto , the iconic women 's footwear designer and co-founder of Nine West , has died .",
+        "statement2": "Vince Camuto has died at the age of 78",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jake can dig a well in 16 days",
+        "statement2": "Jake can dig a well in less than 66 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The product of Diana ' s age , in years , and a third of Rashid ' s age , in years , is less than 72",
+        "statement2": "The product of Diana ' s age , in years , and a third of Rashid ' s age , in years , is 32",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Victor has 15 cups if flour , 16 cups of sugar and 8 cups of milk",
+        "statement2": "Victor has less than 15 cups if flour , 16 cups of sugar and 8 cups of milk",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mr Yadav spends 60 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "statement2": "Mr Yadav spends 10 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Exactly 5 / 7 of the ponies have horseshoes , and exactly 2 / 3 of the ponies with horseshoes are from Iceland",
+        "statement2": "Exactly 3 / 7 of the ponies have horseshoes , and exactly 2 / 3 of the ponies with horseshoes are from Iceland",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many hours does it take Little Texas Drilling Company to produce 100 barrels of oil ?",
+        "statement2": "How many hours does it take Little Texas Drilling Company to produce 700 barrels of oil ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The 16 NATO members and the 14 countries which used to form the rival Warsaw Pact agreed that there would be significantly less equipment permitted in the area of application in Europe than there was under the original treaty .",
+        "statement2": "The NATO has 16 members .",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Mary received $ 800 more than Harry did , what was the profit made by their business in that year ?",
+        "statement2": "If Mary received $ more than 500 more than Harry did , what was the profit made by their business in that year ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jasmine has a toaster with two slots that toasts one side of each piece of bread at a time , and it takes one minute to do so .\nIf she wants to make 3 pieces of toast , what is the least amount of time she needs to toast them on both sides ?",
+        "statement2": "Jasmine has a toaster with two slots that toasts one side of each piece of bread at a time , and it takes one minute to do so . If she wants to make more than 3 pieces of toast , what is the least amount of time she needs to toast them on both sides ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mary can do a piece of work in 28 days",
+        "statement2": "Mary can do a piece of work in less than 38 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In the city of San Durango , 60 people own cats , dogs , or rabbits",
+        "statement2": "In the city of San Durango , more than 40 people own cats , dogs , or rabbits",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Prosecutions tended to be more aggressive and sentences tended to be longer for financial crimes with many victims and massive losses of money , as in the Minkow case .",
+        "statement2": "Bilking a large number of people out of millions of dollars can lead to sentences that vary from ten to twenty years .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Fred and Sam are standing less than 70 miles apart and they start walking in a straight line toward each other at the same time",
+        "statement2": "Fred and Sam are standing 50 miles apart and they start walking in a straight line toward each other at the same time",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Joan has 8.0 orange balloons  and her friend gives her 2.0 more ",
+        "statement2": "Joan has 5.0 orange balloons now",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A shoe store sells Adidas shoes for $ 60 each and Puma shoes for $ 50 each",
+        "statement2": "A shoe store sells Adidas shoes for $ 10 each and Puma shoes for $ 50 each",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lali builds a tower using only red , green , and blue toy bricks in a ratio of less than 7 : 3 : 1",
+        "statement2": "Lali builds a tower using only red , green , and blue toy bricks in a ratio of 4 : 3 : 1",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the boys at Jones Elementary make up less than 60 % of the total school population of x students , what is x ?",
+        "statement2": "If the boys at Jones Elementary make up 20 % of the total school population of x students , what is x ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are 24 stations between Ernakulam and Chennai",
+        "statement2": "There are 44 stations between Ernakulam and Chennai",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dacid obtained more than 36 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "statement2": "Dacid obtained 76 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "NHAI employs 100 men to build a highway of 2 km in 50 days working 8 hours a day",
+        "statement2": "NHAI employs 400 men to build a highway of 2 km in 50 days working 8 hours a day",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "1620 in 8 % stock , Michael earns Rs",
+        "statement2": "more than 1620 in 8 % stock , Michael earns Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "News reports citing local authorities reported 16 deaths linked to E. coli in some raw vegetables .",
+        "statement2": "Media report 16 deaths linked to the outbreak , including 1 in Sweden",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Sanoop returned 2 t - shirts to the retailer , and the average price of the remaining t - shirts was Rs",
+        "statement2": "If Sanoop returned less than 3 t - shirts to the retailer , and the average price of the remaining t - shirts was Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Fred and Sam are standing 40 miles apart and they start walking in a straight line toward each other at the same time",
+        "statement2": "Fred and Sam are standing 20 miles apart and they start walking in a straight line toward each other at the same time",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Employers created 144,000 new payroll jobs in August as the unemployment rate dipped to 5.4 percent , a modest improvement over the 5.5 percent jobless rate in July , the Labor Department reported Friday .",
+        "statement2": "The Labor Department said this sector has added nearly 1 of every 5 of the new jobs created during the last 12 months .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A restaurant baked 5.0 cakes during lunch and sold 6.0 during dinner today  and the restaurant baked 3.0 cakes yesterday ",
+        "statement2": "2.0 cakes are left ",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "What will Sally have to sell each item for to generate a less than 85 % profit ?",
+        "statement2": "What will Sally have to sell each item for to generate a 15 % profit ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In 1956 Accardo won the Geneva Competition and in 1958 became the first prize winner of the Paganini Competition in Genoa . He has recorded Paganini 's famous 24 Caprices ( re-recorded in 1999 ) for solo violin and was the first to record all six of the Paganini Violin Concertos .",
+        "statement2": "Accardo composed 24 Caprices .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Bill needs to walk from the corner of less than 3 nd Rd and 3 rd Ave to the corner of 8 th Rd and 7 th Ave in the shortest possible time , how many different routes could he take ?",
+        "statement2": "If Bill needs to walk from the corner of 2 nd Rd and 3 rd Ave to the corner of 8 th Rd and 7 th Ave in the shortest possible time , how many different routes could he take ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The event provided meals to more than 1,000 New Yorkers impacted by Superstorm Sandy and was a collaborative effort between Food Bank for New York City , Feeding America , the Food Network , the Cooking Channel and Southern Wine and Spirits of America .",
+        "statement2": "50 Cent served food to New Yorkers affected by Superstorm Sandy",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In an exam , Amar scored less than 74 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "statement2": "In an exam , Amar scored 64 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The meeting marks the first between Kim and a top official from China since the flareup between the two Koreas .",
+        "statement2": "The meeting between the two nations is the first since the flareup",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the average speed of the whole journey was more than 16 mph , then what is Tom ' s speed driving from B to C in miles per hour ?",
+        "statement2": "If the average speed of the whole journey was 36 mph , then what is Tom ' s speed driving from B to C in miles per hour ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If twice the age of Sunil is more than Syam ' s age by 4 years , what is Sunil ' s age ?",
+        "statement2": "If twice the age of Sunil is more than Syam ' s age by more than 2 years , what is Sunil ' s age ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Since you ' re nice , you give John 7 baseball cards",
+        "statement2": "Since you ' re nice , you give John more than 7 baseball cards",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 4.00 per hour and a standard tip rate of 15 % of the cost of the orders she serves",
+        "statement2": "Jill works as a waitress at the local diner where she earns an hourly wage of $ 4.00 per hour and a standard tip rate of 85 % of the cost of the orders she serves",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The average marks scored by Ganesh in English , Science , Mathematics and History is less than less than 88 from that scored by him in English , History , Geography and Mathematics",
+        "statement2": "The average marks scored by Ganesh in English , Science , Mathematics and History is less than 18 from that scored by him in English , History , Geography and Mathematics",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Investigators found a map in his possessions that included 34 locations marked as targets",
+        "statement2": "He said investigators found a map that included 34 locations marked as targets in McQuilliams ' possessions .",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A train leaves Delhi at 9 a",
+        "statement2": "A train leaves Delhi at more than 8 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If KING is coded as less than 67 and MASS is coded as 29 Then DOG is coded as",
+        "statement2": "If KING is coded as 17 and MASS is coded as 29 Then DOG is coded as",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "9000 which he and Dave earned at the end of 1 years",
+        "statement2": "more than 4000 which he and Dave earned at the end of 1 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "An investigation was launched into the Flight 370 matter , with Malaysian and aviation authorities reviewing video and other documentation to try to identify not only who the passengers were that used the stolen passports but how the illegal passports cleared security .",
+        "statement2": "Two passengers on the missing Malaysian Airlines flight were traveling on stolen passports",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "One hour after Matthew started waking from w to y , a distance of 45 km , Johnny started walking along the same road from y to w",
+        "statement2": "One hour after Matthew started waking from w to y , a distance of less than 55 km , Johnny started walking along the same road from y to w",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In 2003 , the number of girls attending Jefferson High School was equal to the number of boys",
+        "statement2": "In 6003 , the number of girls attending Jefferson High School was equal to the number of boys",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Rahim bought more than 40 books for Rs",
+        "statement2": "Rahim bought 50 books for Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The plan could send nearly 3,000 troops , another U.S. military official familiar with the proposal said .",
+        "statement2": "Plan could send nearly 3,000 troops , source says",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Joe goes with her 6 years old twin brothers , and they each took 3 rides in total",
+        "statement2": "If Joe goes with her more than 1 years old twin brothers , and they each took 3 rides in total",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At the end of ' n ' years , Sandy got back 5 times the original investment",
+        "statement2": "At the end of ' n ' years , Sandy got back more than 3 times the original investment",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Hong Kong ( CNN ) -- Chinese police have arrested nearly 1,000 suspected members of a banned religious group , state media reported .",
+        "statement2": "Almost 1,000 members of a banned religious group arrested in China",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sally has 9.0 orange balloons and 4.0 blue balloons  and she found 2.0 more of the orange balloons ",
+        "statement2": "Sally has 13.0 orange balloons now",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The spotted-eagle ray weighed about 75 to 80 pounds and had a 6-foot wingspan , Pino said .",
+        "statement2": "Spotted eagle ray weighed 75 to 80 pounds , official says",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Among those charged are 158 members and associates of MS-13 , with 105 others allegedly belonging to other gangs .",
+        "statement2": "Gang sweep nabs 158 members and associates of notorious MS-13 gang , among others",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "David obtained more than 56 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+        "statement2": "David obtained 76 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Paul runs the first leg of the course in less than 82 seconds",
+        "statement2": "Paul runs the first leg of the course in 22 seconds",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Srinivas saves one coin of more than 4 on first day of the week , three coins of 5 on the second day of the week . Five coins of 5 on third day and so on",
+        "statement2": "Srinivas saves one coin of 5 on first day of the\nweek , three coins of 5 on the second day of the week .\nFive coins of 5 on third day and so on",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Each week , Harry is paid x dollars per hour for the first 18 hours and 1.5 x dollars for each additional hour worked that week",
+        "statement2": "Each week , Harry is paid x dollars per hour for the first less than 68 hours and 1.5 x dollars for each additional hour worked that week",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Overland Park , Kansas ( CNN ) -- The man accused of killing three people at two Jewish-affiliated facilities in Kansas made no secret of his racist views , writing letters to newspapers and inviting people to white-supremacist meetings at his home , say those who knew him .",
+        "statement2": "Cross is accused of killing three people at two Jewish-affiliated facilities",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Victor has 15 cups if flour , 16 cups of sugar and 8 cups of milk",
+        "statement2": "Victor has less than 65 cups if flour , 16 cups of sugar and 8 cups of milk",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is more than 4 : 4 ?",
+        "statement2": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is 8 : 4 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "less than 2000 , what is Isabella ' s capital ?",
+        "statement2": "1000 , what is Isabella ' s capital ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The Loneliest Road in America , U.S. Route 50 , Nevada",
+        "statement2": "Nevada stretch of U.S. Route 50 dubbed '' The Loneliest Road in America ''",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "But Vettel roared back through the field to finish sixth and deny title rival Fernando Alonso by three points with the Spaniard finishing the race in second place .",
+        "statement2": "Fernando Alonso finishes second and loses out by three points",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Faiza has more than 5 purses , she gives 3 purse as gift",
+        "statement2": "Faiza has 7 purses , she gives 3 purse as gift",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Dravid paid a total of $ less than 88 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+        "statement2": "If Dravid paid a total of $ 38 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ayesha ' s father was less than 60 years of age when she was born while her mother was 32 years old when her brother six years younger to her was born",
+        "statement2": "Ayesha ' s father was 40 years of age when she was born while her mother was 32 years old when her brother six years younger to her was born",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "While driving from City A to City B , Cara drives at a constant speed of 30 miles per hour",
+        "statement2": "While driving from City A to City B , Cara drives at a constant speed of less than 30 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Angela \u2019 s grade was in the more than 40 th percentile out of 80 grades in her class",
+        "statement2": "Angela \u2019 s grade was in the 90 th percentile out of 80 grades in her class",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Kim can do a work in more than 1 days while David can do the same work in 2 days",
+        "statement2": "Kim can do a work in 3 days while David can do the same work in 2 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "more than 4 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "statement2": "5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": " Robin uploaded 35.0 pictures from her phone and 5.0 from her camera to facebook, and she sorted the pics into 5.0 different albums with the same amount of pics in each album",
+        "statement2": "8.0 pictures were in each of the albums",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "During the friendly match , the AC Milan midfielder had told the referee three times he was being abused .",
+        "statement2": "The German-born Boateng had told the referee three times he was being abused",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Amanda goes to the toy store to buy less than 7 ball and 3 different board games",
+        "statement2": "Amanda goes to the toy store to buy 1 ball and 3 different board games",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Alok ordered 16 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "statement2": "Alok ordered less than 86 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "After 5 years , Arun ' s age will be 25 years",
+        "statement2": "After 7 years , Arun ' s age will be 25 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Kamal will complete work in 20 days",
+        "statement2": "Kamal will complete work in more than 20 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A restaurant served 5.0 cakes during lunch and 6.0 during dinner today  and the restaurant served 3.0 cakes yesterday ",
+        "statement2": "16.0 cakes were served in total ",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Present ages of Sameer and Anand are in the ratio of less than 6 : 4 respectively",
+        "statement2": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": " We ordered 21.0 pizzas and each pizza has 8.0 slices",
+        "statement2": "164.0 slices of pizza are there altogether",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Properties : 12 moderate to upscale hotels in Israel .",
+        "statement2": "Dan Hotels operates 12 moderate to upscale hotels in Israel",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ratio of men to women in the Snyder community choir is less than 7 to 3",
+        "statement2": "The ratio of men to women in the Snyder community choir is 4 to 3",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Martin bought 10 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "statement2": "Martin bought 30 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Andrea played the game , getting at least one score of each of 1 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+        "statement2": "Andrea played the game , getting at least one score of each of more than 1 , 2 , 3 , 4 , and 5 , and never getting the same score in consecutive steps",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack had framed 24 photographs taken by Octavia , and 12 photographs taken by other photographers",
+        "statement2": "Jack had framed less than 84 photographs taken by Octavia , and 12 photographs taken by other photographers",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy gets 3 marks for each correct sum and loses 2 marks for each incorrect sum",
+        "statement2": "Sandy gets less than 3 marks for each correct sum and loses 2 marks for each incorrect sum",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy grew 6.0 carrots and Sam took 3.0 carrots",
+        "statement2": "Sandy has 3.0 carrots left",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "5535 find the share of Sravan .",
+        "statement2": "less than 7535 find the share of Sravan .",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Each week , James is paid x dollars per per hour for the first 40 hours and 2 x dollars for each additional hour worked that week",
+        "statement2": "Each week , James is paid x dollars per per hour for the first more than 40 hours and 2 x dollars for each additional hour worked that week",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ratio of men to women in the Snyder community choir is 4 to 5",
+        "statement2": "The ratio of men to women in the Snyder community choir is more than 3 to 5",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John ' s Bank ' s saving amount is decreased less than 42 % due to loan payment and current balance is Rs",
+        "statement2": "John ' s Bank ' s saving amount is decreased 12 % due to loan payment and current balance is Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How much loss would Indu has suffered had she given it to Bindu for less than 7 years at 4 % per annum simple interest ?",
+        "statement2": "How much loss would Indu has suffered had she given it to Bindu for 2 years at 4 % per annum simple interest ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The 282 people were brought aboard the Bataan , and the Navy posted a YouTube video of the rescued people -- apparent African migrants -- looking tired or grateful as they stepped aboard the warship .",
+        "statement2": "Two U.S. Navy ships rescue a total of 282 people",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Teresa jogged 25.0 kilometers at 5.0 kilometers per hour",
+        "statement2": "Teresa jogged for 5.0 hours",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Assuming that Karen drives at an average speed of 60 mph and Tom drives at an average speed of 45 mph , how many H miles will Tom drive before Karen wins the bet ?",
+        "statement2": "Assuming that Karen drives at an average speed of more than 20 mph and Tom drives at an average speed of 45 mph , how many H miles will Tom drive before Karen wins the bet ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had less than 76 names , the roster for her marketing class ( M ) had 28 , and the roster for her statistics class ( S ) had 18",
+        "statement2": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had 16 names , the roster for her marketing class ( M ) had 28 , and the roster for her statistics class ( S ) had 18",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many possible ways can 1 girls ( Rebecca , Kate , Ashley ) go on a date with 3 boys ( Peter , Kyle , Sam ) ?",
+        "statement2": "How many possible ways can less than 7 girls ( Rebecca , Kate , Ashley ) go on a date with 3 boys ( Peter , Kyle , Sam ) ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill is dividing her less than 66 - person class into two teams of equal size for a basketball game",
+        "statement2": "Jill is dividing her 16 - person class into two teams of equal size for a basketball game",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the number of such passengers that used Miami Airport was less than 5 / 4 the number that used Kennedy Airport and 3 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+        "statement2": "If the number of such passengers that used Miami Airport was 1 / 4 the number that used Kennedy Airport and 3 times the number that used Logan Airport , approximately how many millions of these passengers used Logan Airport that year ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many minutes does it take Sharuk to type 25 words if he types at the rate of 5 words per minute ?",
+        "statement2": "How many minutes does it take Sharuk to type 65 words if he types at the rate of 5 words per minute ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Melanie picked 7.0 plums and 4.0 oranges from the orchard and Sam gave her 3.0 plums",
+        "statement2": "She has 14.0 plums now",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many liters of blue paint must be added to 24 liters of Fuchsia to change it to Mauve paint ?",
+        "statement2": "How many liters of blue paint must be added to less than 74 liters of Fuchsia to change it to Mauve paint ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the distance between their homes is 60 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "statement2": "If the distance between their homes is more than 60 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Shekar scored more than 46 , 65 , 82 , 67 and 95 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "statement2": "Shekar scored 76 , 65 , 82 , 67 and 95 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "He will be less than 8 / 3 times as old as Tom 6 years hence",
+        "statement2": "He will be 5 / 3 times as old as Tom 6 years hence",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many seconds does Sandy take to cover a distance of more than 100 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "statement2": "How many seconds does Sandy take to cover a distance of 600 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "John traveled 80 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "statement2": "John traveled more than 10 % of the way from Yellow - town to Green - fields by train at an average speed of 80 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the ratio of their ages is less than 8 : 9 , how old is Sandy ?",
+        "statement2": "If the ratio of their ages is 7 : 9 , how old is Sandy ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many oranges must Mary put back so that the average price of the pieces of fruit that she keeps is 45 \u00a2 ?",
+        "statement2": "How many oranges must Mary put back so that the average price of the pieces of fruit that she keeps is less than 75 \u00a2 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If , five years from now , the sum E of their ages will be 51 , how old is Stephanie ?",
+        "statement2": "If , five years from now , the sum E of their ages will be less than 71 , how old is Stephanie ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In my bungalow in Bangalore I have a beautiful rose garden . The four sides of the garden are known to be less than 70 , 16 , 12 and 10 rods",
+        "statement2": "In my bungalow in Bangalore I have a beautiful rose garden .\nThe four sides of the garden are known to be 20 , 16 , 12 and 10 rods",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Renu can do a piece of work in 8 days , but with the help of her friend Suma , she can do it in 3 days",
+        "statement2": "Renu can do a piece of work in more than 7 days , but with the help of her friend Suma , she can do it in 3 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Working independently , Ann can do\nthe same job in 9 hours",
+        "statement2": "Working independently , Ann can do the same job in 7 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The earthquake is blamed for killing more than 212,000 people , injuring 300,000 and leaving more than 1 million homeless in the city of 3 million and surrounding communities .",
+        "statement2": "Quake killed more than 212,000 people , left more than 1 million homeless in city , nearby",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In how many ways can you seat 4 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+        "statement2": "In how many ways can you seat more than 4 people on a bench if one of them , Rohit , does not want to sit on the middle seat or at either end ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Guna has 8 flavors of ice cream in him parlor",
+        "statement2": "Guna has more than 8 flavors of ice cream in him parlor",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Yesterday it took Robert more than 1 hours to drive from City A to City B",
+        "statement2": "Yesterday it took Robert 4 hours to drive from City A to City B",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the boys at Jones Elementary make up more than 60 % of the total school population of x students , what is x ?",
+        "statement2": "If the boys at Jones Elementary make up 70 % of the total school population of x students , what is x ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Suresh can complete a job in 15 hours",
+        "statement2": "Suresh can complete a job in less than 75 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The federal government allows taxpayers a $ 500 exemption for housing victims of a Midwestern disaster .",
+        "statement2": "If you house a victim of a Midwestern disaster , IRS offers $ 500 tax exemption",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Nitin borrowed some money at the rate of 6 % p",
+        "statement2": "Nitin borrowed some money at the rate of more than 3 % p",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The New Iberia Research Center has received more than $ 37 million in grants from the NIH , according to the center 's Web site .",
+        "statement2": "New Iberia Research Center in Louisiana houses more than 6,500 primates",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Two twins sisters Sita and Geeta were standing back to back and suddenly they started running in opposite directions for less than 20 km each",
+        "statement2": "Two twins sisters Sita and Geeta were standing back to back and suddenly they started running in opposite directions for 10 km each",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack wants to take more than 3 apples",
+        "statement2": "Jack wants to take 5 apples",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In an exam , Amar scored 64 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "statement2": "In an exam , Amar scored more than 14 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In the biology lab of ` ` Jefferson ' ' High School there are 5.4 * 10 ^ 6 germs , equally divided among 10,800 Petri dishes",
+        "statement2": "In the biology lab of ` ` Jefferson ' ' High School there are 5.4 * more than 10 ^ 6 germs , equally divided among 10,800 Petri dishes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "According to the statement , 281 of the 3,050 passengers and 22 of 1,165 crew members of Explorer of the Seas reported vomiting and diarrhea .",
+        "statement2": "281 passengers and 22 crew on Explorer of the Seas report gastrointestinal problems",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Andy solves problems 75 to 125 inclusive in a Math exercise",
+        "statement2": "Andy solves problems 25 to 125 inclusive in a Math exercise",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A train leaves Delhi at more than 4 a",
+        "statement2": "A train leaves Delhi at 9 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Morgan Construction has less than 5 Senior Managing Directors and 4 Managing Directors",
+        "statement2": "Morgan Construction has 4 Senior Managing Directors and 4 Managing Directors",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "One day , Raviraj left home and cycled 20 Km southwards , turned right and cycled 10 km and turned right and cycled 20 Km and turned left and cycled 20 Km",
+        "statement2": "One day , Raviraj left home and cycled 80 Km southwards , turned right and cycled 10 km and turned right and cycled 20 Km and turned left and cycled 20 Km",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are less than 88 stations between Hyderabad and Bangalore",
+        "statement2": "There are 18 stations between Hyderabad and Bangalore",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack and Christina are standing 150 feet apart on a level surface",
+        "statement2": "Jack and Christina are standing less than 450 feet apart on a level surface",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Alka bought 15 books for Rs",
+        "statement2": "Alka bought less than 75 books for Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Last year 28 members of a certain club traveled to England , 28 members traveled to France , and 30 members traveled to Italy",
+        "statement2": "Last year more than 28 members of a certain club traveled to England , 28 members traveled to France , and 30 members traveled to Italy",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Only Jay Z 's nine nominations topped them .",
+        "statement2": "Jay Z gets nine nominations",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Calculate the average mark scored by Belinda if she had the following scores in an examination : more than 46 , 50 , 60 , 67 and 79 marks ( out of 100 ) in English Language , Spanish Language , Social Studies , Fine Art , and Physical Education respectively ?",
+        "statement2": "Calculate the average mark scored by Belinda if she had the following scores in an examination : 86 , 50 , 60 , 67 and 79 marks ( out of 100 ) in English Language , Spanish Language , Social Studies , Fine Art , and Physical Education respectively ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The pilot of a small aircraft with a 40 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+        "statement2": "The pilot of a small aircraft with a more than 10 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dacid obtained more than 53 , 69 , 92 , 64 and 82 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "statement2": "Dacid obtained 73 , 69 , 92 , 64 and 82 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is 2 : 3 ?",
+        "statement2": "What is the average speed of Murali from A to C given that the ratio of distances between A to B and B to C is 8 : 3 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sally had 760.0 quarters in her bank  and she spent 418.0 of her quarters ",
+        "statement2": "She has 342.0 quarters now",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Third-placed Valencia lost ground after being held to a 1-1 draw at Sporting Gijon , needing a second-half equalizer from Juan Mata .",
+        "statement2": "Third-placed Valencia lose ground following 1-1 draw away to Sporting Gijon",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many seconds does Sandy take to cover a distance of 600 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "statement2": "How many seconds does Sandy take to cover a distance of less than 600 meters , if Sandy runs at a speed of 18 km / hr ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Wendy uploaded 79.0 pictures to Facebook on Monday and she uploaded 44.0 pictures to Facebook on Tuesday, then split all the pictures into 5.0 different albums",
+        "statement2": "20.1 pictures were in each album ",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "He works at it for 20 days and then Rajesh finished it in 30 days",
+        "statement2": "He works at it for more than 20 days and then Rajesh finished it in 30 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Maddie has less than 8 apples , if she give 3 to mike , how many does she have left ?",
+        "statement2": "Maddie has 6 apples , if she give 3 to mike , how many does she have left ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "David obtained 36 , 35 , 42 , 57 and 55 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+        "statement2": "David obtained 66 , 35 , 42 , 57 and 55 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology What are his average marks ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dawson has to secure 30 % marks to clear his exam of class 8 th .\nHe got 30 marks and failed by 36 marks .\nWhat is the maximum marks ?",
+        "statement2": "Dawson has to secure more than 20 % marks to clear his exam of class 8 th . He got 30 marks and failed by 36 marks . What is the maximum marks ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Australia 's Matt Jones finished tied with American George McNeill on 12-under in sixth , with five players , including world number three Luke Donald , finishing one shot further back .",
+        "statement2": "World number three Luke Donald finishes three shots back on 12-under par",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Lee Colle insures its students for thefts up to $ less than 2000",
+        "statement2": "Lee Colle insures its students for thefts up to $ 1000",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Dravid paid a total of $ 38 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+        "statement2": "If Dravid paid a total of $ less than 88 , excluding sales tax , to rent the tool , for how many hours did she rent it ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The latest congressional action authorizes $ 1 million in additional funding to '' provide for a swift completion '' of the U.S. Department of Agriculture 's probe into the Rancho Feeding Corporation .",
+        "statement2": "The House OKs $ 1 million for a USDA investigation of a California slaughterhouse",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ganesh covers the distance from X to Y at an average speed of more than 50 Km / hr",
+        "statement2": "Ganesh covers the distance from X to Y at an average speed of 60 Km / hr",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The ratio of present ages of Nisha and Shilpa is 7 : 8 respectively",
+        "statement2": "The ratio of present ages of Nisha and Shilpa is more than 3 : 8 respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sobha ' s father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "statement2": "Sobha ' s father was more than 28 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Adolfo made a tower with 35.0 blocks and he added 65.0 more blocks to the tower",
+        "statement2": "101.0 total blocks are in the tower now",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the distance between their homes is more than 70 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "statement2": "If the distance between their homes is 80 kilometers , Maxwell ' s walking speed is 4 km / h , and Brad ' s running speed is 6 km / h , what is the distance traveled by Brad ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are 35.0 bottle caps in every box of Beverly's bottle cap collection, and the bottle caps are organized into 7.0 boxes",
+        "statement2": "245.0 bottle caps are there in total",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Tim and Stacy need to select seats in a row of chairs that are numbered in order from 1 to 5",
+        "statement2": "Tim and Stacy need to select seats in a row of chairs that are numbered in order from less than 1 to 5",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In the city of San Durango , 60 people own cats , dogs , or rabbits",
+        "statement2": "In the city of San Durango , more than 60 people own cats , dogs , or rabbits",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Veena ranks less than 84 rd from the top in a class of 182",
+        "statement2": "Veena ranks 44 rd from the top in a class of 182",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Canadian health officials have confirmed three cases of Enterovirus D68 in British Columbia .",
+        "statement2": "Canada confirms three cases in British Columbia",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mona and Sona go around a circular track of length 400 m on a bike at speeds of 18 kmph and 36 kmph",
+        "statement2": "Mona and Sona go around a circular track of length less than 400 m on a bike at speeds of 18 kmph and 36 kmph",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Suresh can complete a job in 15 hours",
+        "statement2": "Suresh can complete a job in more than 15 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Shreehari walks in the speed of 4.5 km / hr from his house , in what time will he reach his school which is 750 m long from his house ?",
+        "statement2": "If Shreehari walks in the speed of 4.5 km / hr from his house , in what time will he reach his school which is less than 850 m long from his house ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Albert borrowed a total of $ 6000 from Brian and Charlie",
+        "statement2": "Albert borrowed a total of $ 8000 from Brian and Charlie",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sean , who weighs 200 pounds , is in the elevator with two packages weighing 150 pounds and 280 pounds",
+        "statement2": "Sean , who weighs less than 300 pounds , is in the elevator with two packages weighing 150 pounds and 280 pounds",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "On his way back , James drives 60 miles per hour and stops in Town B which is midway between Town A and Town C",
+        "statement2": "On his way back , James drives less than 70 miles per hour and stops in Town B which is midway between Town A and Town C",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The farmer had 127.0 apples and his neighbor gave him 88.0 pounds of apples",
+        "statement2": "He has 215.0 pounds of apples now",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Yolanda ' s walking rate was 3 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "statement2": "If Yolanda ' s walking rate was less than 7 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sam ranked 9 th from the top and 38 th from the bottom in a class",
+        "statement2": "Sam ranked less than 9 th from the top and 38 th from the bottom in a class",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A U.S. official said the man who was shot dead belonged to the Navy 's Special Warfare Development Group , more commonly known as SEAL Team Six .",
+        "statement2": "A U.S. official says the man killed in the rescue was a member of Navy SEAL Team Six",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a Private Company 20 Nos",
+        "statement2": "In a Private Company less than 50 Nos",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mary is 8 years younger than Albert",
+        "statement2": "Mary is more than 1 years younger than Albert",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Each week , James is paid x dollars per per hour for the first more than 30 hours and 2 x dollars for each additional hour worked that week",
+        "statement2": "Each week , James is paid x dollars per per hour for the first 40 hours and 2 x dollars for each additional hour worked that week",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Susan drove an average speed of more than 20 miles per hour for the first 40 miles of a trip then at a average speed of 15 miles / hr for the remaining 40 miles of the trip if she made no stops during the trip what was susan ' s avg speed in miles / hr for the entire trip",
+        "statement2": "Susan drove an average speed of 30 miles per hour for the first 40 miles of a trip then at a average speed of 15 miles / hr for the remaining 40 miles of the trip if she made no stops during the trip what was susan ' s avg speed in miles / hr for the entire trip",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Annie , working alone , can do the same job in just 9 hours",
+        "statement2": "Annie , working alone , can do the same job in just 6 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Rob has 8 toy trucks",
+        "statement2": "Rob has more than 5 toy trucks",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are 300 seniors at Morse High School , and 50 % of them have cars",
+        "statement2": "There are less than 300 seniors at Morse High School , and 50 % of them have cars",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "4 buses runs between Chennai and Mysore",
+        "statement2": "more than 4 buses runs between Chennai and Mysore",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Meg and Bob are among the 6 participants in a cycling race",
+        "statement2": "Meg and Bob are among the 2 participants in a cycling race",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sacha runs at a constant speed of less than 80 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+        "statement2": "Sacha runs at a constant speed of 10 meters per second , and Bruno runs at a constant speed of 5 meters per second",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Yolanda ' s walking rate was 3 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "statement2": "If Yolanda ' s walking rate was less than 3 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Matthew ' s walking rate was 3 km per hour and Johnny ' s was 4 km per hour , how many km had Johnny walked when they met ?",
+        "statement2": "Matthew ' s walking rate was more than 3 km per hour and Johnny ' s was 4 km per hour , how many km had Johnny walked when they met ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "One of seven people killed in an explosion at a busy shopping centre near Helsinki was suspected to have carried out the attack , police have said .",
+        "statement2": "The teenage bomber behind a blast was one of the seven people who died .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill invited 37.0 people to her birthday party, and each pizza is divided into 8 equal parts and each person eats 1.0 slice",
+        "statement2": "6.0 pizzas were eaten",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had 26 names , the roster for her marketing class ( M ) had 28 , and the roster for her statistics class ( S ) had 18",
+        "statement2": "When Professor Wang looked at the rosters for this term ' s classes , she saw that the roster for her economics class ( E ) had less than 26 names , the roster for her marketing class ( M ) had 28 , and the roster for her statistics class ( S ) had 18",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jerry travels 8 miles at an average speed of 40 miles per hour , stops for 13 minutes , and then travels another 20 miles at an average speed of 60 miles per hour",
+        "statement2": "Jerry travels more than 3 miles at an average speed of 40 miles per hour , stops for 13 minutes , and then travels another 20 miles at an average speed of 60 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "It ended Lorenzo 's two-race winning streak and boosted Marquez 's overall advantage to a substantial 39 points with only four races remaining .",
+        "statement2": "With four races remaining , Marc Marquez leads the MotoGP standings by 39 points",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Speed of Bruce is 30 m / s and that of Bhishma is 20 m / s",
+        "statement2": "Speed of Bruce is less than 60 m / s and that of Bhishma is 20 m / s",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many minutes does it take Sharuk to type less than 65 words if he types at the rate of 5 words per minute ?",
+        "statement2": "How many minutes does it take Sharuk to type 25 words if he types at the rate of 5 words per minute ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "After they have worked together for 12 days Matt stops and Peter completes the remaining work in 8 days",
+        "statement2": "After they have worked together for less than 82 days Matt stops and Peter completes the remaining work in 8 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Dacid obtained less than 86 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "statement2": "Dacid obtained 76 , 65 , 82 , 67 and 85 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The deal comes some two weeks after a $ 16 billion deal was reached between AT & T and SBC , a top rival for Qwest .",
+        "statement2": "The two firms sealed the deal despite what was thought to be a higher offer from rival US carrier Qwest .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Foreign aid comprises less than 1 % of the federal budget .",
+        "statement2": "Foreign assistance comprises less than 1 % of the federal budget , he says",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Patrick purchased more than 10 pencils and sold them at a loss equal to the selling price of 30 pencils",
+        "statement2": "Patrick purchased 80 pencils and sold them at a loss equal to the selling price of 30 pencils",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Leo gains less than 60 pounds , he will weigh 50 % more than his sister Kendra",
+        "statement2": "If Leo gains 10 pounds , he will weigh 50 % more than his sister Kendra",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "A restaurant made 9.0 hamburgers to serve during lunch  and only 3.0 were actually served ",
+        "statement2": "6.0 hamburgers were left over from lunch ",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Accomplices of the three inmates hijacked a helicopter and forced the pilot to land in the prison courtyard , Interpol said .",
+        "statement2": "Three inmates escape from Belgium prison in helicopter",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Shekar scored more than 46 , 65 , 82 , 67 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "statement2": "Shekar scored 76 , 65 , 82 , 67 and 85 marks in Mathematics , Science , Social studies , English and Biology respectively",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In Italy , Turin giants Juventus have also made a fine start to the season with their second straight win -- beating Udinese 4-1 .",
+        "statement2": "Champions Juventus set pace in Serie A with 4-1 win at Udinese",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": " I read 21.0 pages of my English book yesterday and today, I read 17.0 pages",
+        "statement2": "The total number of pages I read is 38.0",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many clothing combinations does Barbara have , if she doesn \u2019 t wear more than 2 specific shirts with 5 specific pants ?",
+        "statement2": "How many clothing combinations does Barbara have , if she doesn \u2019 t wear 6 specific shirts with 5 specific pants ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "380 and Andrew ' s share is Rs",
+        "statement2": "less than 680 and Andrew ' s share is Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Working independently , Ann can do\nthe same job in 9 hours",
+        "statement2": "Working independently , Ann can do the same job in more than 7 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the trip home took 1 / 2 hour longer than the trip to the beach , how many kilometers l did Carl drive each way ?",
+        "statement2": "If the trip home took more than 1 / 2 hour longer than the trip to the beach , how many kilometers l did Carl drive each way ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sony and Johnny caught 40 fishes",
+        "statement2": "Sony and Johnny caught 50 fishes",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Winson earns $ 10.00 per hour for the first 40 hours he works per week , and twice this rate for overtime",
+        "statement2": "Winson earns $ 10.00 per hour for the first more than 10 hours he works per week , and twice this rate for overtime",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Each of the 59 members in Mount school class is required to sign up for a minimum of one and a maximum of three academic clubs",
+        "statement2": "Each of the less than 79 members in Mount school class is required to sign up for a minimum of one and a maximum of three academic clubs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Pinky returned four chocolate to the retailer , and the average price of the remaining chocolate was 2 \u00a2 , then what is the average price , in cents , of the four returned chocolates ?",
+        "statement2": "If Pinky returned four chocolate to the retailer , and the average price of the remaining chocolate was less than 4 \u00a2 , then what is the average price , in cents , of the four returned chocolates ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ganesh covers the distance from X to Y at an average speed of 43 Km / hr",
+        "statement2": "Ganesh covers the distance from X to Y at an average speed of 53 Km / hr",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Jos \u00e9 reads at a constant rate of 2 pages every 6 minutes , how many seconds will it take him to read N pages ?",
+        "statement2": "If Jos \u00e9 reads at a constant rate of less than 3 pages every 6 minutes , how many seconds will it take him to read N pages ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Raviraj invested an amount of less than 7000000 at compound interest rate of 10 pcpa for a period of three years",
+        "statement2": "Raviraj invested an amount of 1000000 at compound interest rate of 10 pcpa for a period of three years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Adams ' s internet provider offers unlimited traffic which costs $ 0.5 per day charged off at less than 42 a",
+        "statement2": "Adams ' s internet provider offers unlimited traffic which costs $ 0.5 per day charged off at 12 a",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "How many oranges must Mary put back so that the average price of the pieces of fruit that she keeps is 45 \u00a2 ?",
+        "statement2": "How many oranges must Mary put back so that the average price of the pieces of fruit that she keeps is less than 45 \u00a2 ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "After more than 5 years , Arun ' s age will be 19 years",
+        "statement2": "After 7 years , Arun ' s age will be 19 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "While driving from City A to City B , Cara drives at a constant speed of less than 60 miles per hour",
+        "statement2": "While driving from City A to City B , Cara drives at a constant speed of 30 miles per hour",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Martin bought less than 80 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "statement2": "Martin bought 10 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sakshi can do a piece of work in 20 days",
+        "statement2": "Sakshi can do a piece of work in 50 days",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jill has 7 gallons of water stored in quart , half - gallon , and one gallon jars",
+        "statement2": "Jill has 3 gallons of water stored in quart , half - gallon , and one gallon jars",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Today John is less than 8 times older than Mark",
+        "statement2": "Today John is 3 times older than Mark",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If John needs to pay exactly $ 128 , what is the least number of bills he will need to use ?",
+        "statement2": "If John needs to pay exactly $ less than 628 , what is the least number of bills he will need to use ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If there are less than 4500 hunters in Piscataquis County then how many fishermen are there ?",
+        "statement2": "If there are 1500 hunters in Piscataquis County then how many fishermen are there ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "5 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "statement2": "less than 6 % people of a village in Sri Lanka died by bombardment , 15 % of the remainder left the village on account of fear",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Hayley has 25.0 meatballs and Kirsten gave her 11.0 more",
+        "statement2": "Hayley has 36.0 meatballs now",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Kiran , an eight years old boy has 27 toys",
+        "statement2": "Kiran , an eight years old boy has more than 27 toys",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Joke is faster than Paul , Joke and Paul each walk 24 KM",
+        "statement2": "Joke is faster than Paul , Joke and Paul each walk more than 24 KM",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At the faculty of Aerospace Engineering , less than 412 students study Random - processing methods , 232 students study Scramjet rocket engines and 114 students study them both",
+        "statement2": "At the faculty of Aerospace Engineering , 312 students study Random - processing methods , 232 students study Scramjet rocket engines and 114 students study them both",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jose joined him 2 months later , investing Rs",
+        "statement2": "Jose joined him 8 months later , investing Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "loyd wants to fence his Square shaped land of less than 720 Sqft each side",
+        "statement2": "loyd wants to fence his Square shaped land of 120 Sqft each side",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are 11.0 rulers and 34.0 crayons in the drawer  and Tim placed 14.0 rulers in the drawer ",
+        "statement2": "29.0 rulers are now there in all ",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Sanoop returned 3 t - shirts to the retailer , and the average price of the remaining t - shirts was Rs",
+        "statement2": "If Sanoop returned 4 t - shirts to the retailer , and the average price of the remaining t - shirts was Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Vincent bought 10.0 books about animals, 1.0 book about outer space, and 3.0 books about trains and he paid $16.0 for all the books combined",
+        "statement2": "The average price for 1.0 book is 4.6",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Each week , James is paid x dollars per per hour for the first more than 20 hours and 2 x dollars for each additional hour worked that week",
+        "statement2": "Each week , James is paid x dollars per per hour for the first 40 hours and 2 x dollars for each additional hour worked that week",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": " In a school, there are 542.0 girls and 387.0 boys.",
+        "statement2": "928.0 pupils are there in that school",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": " There were 150.0 book shelves and each book shelf had 15.0 books",
+        "statement2": "2250.0 books were on the shelves",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The next day , Alice took the test , and with this grade included , the new average was more than 29",
+        "statement2": "The next day , Alice took the test , and with this grade included , the new average was 79",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Jim pays 30 dollars , how much will Joe have to pay ?",
+        "statement2": "If Jim pays more than 30 dollars , how much will Joe have to pay ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Donald carries a total of less than 40 notes ( of either $ 10 or \u20ac 10 , ) then what is the total number of notes ( of either $ 10 or \u20ac 10 , ) they take ?",
+        "statement2": "If Donald carries a total of 30 notes ( of either $ 10 or \u20ac 10 , ) then what is the total number of notes ( of either $ 10 or \u20ac 10 , ) they take ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Cade had 87.0 marbles and he got 8.0 from Dylan",
+        "statement2": "He has 98.0 marbles now",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "-- The phone will be called the iPhone 5 or iPhone 4S .",
+        "statement2": "Rumor has it the phone will be called iPhone 5 or iPhone 4S",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Snyder has 4 more men and 6 more women than Leigh , how many men are in the Snyder choir ?",
+        "statement2": "If Snyder has less than 7 more men and 6 more women than Leigh , how many men are in the Snyder choir ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Martha has 3 dogs and 4 cats",
+        "statement2": "Martha has less than 3 dogs and 4 cats",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If gas costs $ less than 6 / gallon , then how many miles can Dan \u2019 s car go on $ 54 of gas ?",
+        "statement2": "If gas costs $ 4 / gallon , then how many miles can Dan \u2019 s car go on $ 54 of gas ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the ratio of hybrid Tajima ' s to non hybrid Franks is 5 : 4 and there are 280 total automobiles owned by the dealership , how many hybrid Franks are there ?",
+        "statement2": "If the ratio of hybrid Tajima ' s to non hybrid Franks is more than 4 : 4 and there are 280 total automobiles owned by the dealership , how many hybrid Franks are there ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Efrida and Frazer who live less than 53 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+        "statement2": "Efrida and Frazer who live 13 miles apart , meet at a restaurant that is directly north of Efrida ' s home and directly east of Frazer ' s home",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The school is planning a field trip and there are 14.0 students and 2.0 seats on each school bus",
+        "statement2": "7.0 buses are needed to take the trip",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ayesha ' s father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "statement2": "Ayesha ' s father was less than 48 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Ayesha ' s father was 34 years of age when she was born while her mother was 30 years old when her brother four years younger to her was born",
+        "statement2": "Ayesha ' s father was 14 years of age when she was born while her mother was 30 years old when her brother four years younger to her was born",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Mourinho and Van Gaal are vying to become only the third manager after Ottmar Hitzfeld and Ernst Happel to win the Champions League with two different clubs .",
+        "statement2": "Mourinho and Van Gaal aiming to become the third manager to win tournament with two teams",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Yolanda ' s walking rate was 3 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "statement2": "If Yolanda ' s walking rate was 6 miles per hour and Bob \u0442 ' s was 4 miles per hour , how many miles had Bob walked when they met ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The second , Mary Kristene Chapa , 18 , was in serious condition at a local hospital with a gunshot wound to the head .",
+        "statement2": "One victim died , the other is in serious condition",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "When x dividedby 288 , the remainder is 47",
+        "statement2": "When x dividedby more than 188 , the remainder is 47",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Human rights groups say police detained some 2,500 people after the attack on the Hilton hotel in Taba and mistreated many of them .",
+        "statement2": "Some 2,500 people have been arrested after the attack on the Hilton hotel in Taba .",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "David obtained more than 66 , 65 , 82 , 67 and 85 marks ( out in 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "statement2": "David obtained 76 , 65 , 82 , 67 and 85 marks ( out in 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "George ' s drawer has less than 80 loose black socks , 15 loose blue socks , and 8 loose white socks",
+        "statement2": "George ' s drawer has 10 loose black socks , 15 loose blue socks , and 8 loose white socks",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "I have 4.0 pencil boxes, and I fill each box with 648.0 pencils",
+        "statement2": "I will have 2592.0 pencils ",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In a friendship gang Andrew has 8 gang , in how many ways can he invite one or more of the gang to his house ?",
+        "statement2": "In a friendship gang Andrew has more than 8 gang , in how many ways can he invite one or more of the gang to his house ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "General Dynamics , the maker of land combat systems , warships and Gulfstream business jets , reported net earnings of $ 374m in the third quarter , or $ 1.84 per share .",
+        "statement2": "General Dynamics loses $ 374m .",
+        "options": " Entailment or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If there are more than 130 baseball fans in the town , each of whom is a fan of exactly one of those three teams , how many NY Mets fans are there in this town ?",
+        "statement2": "If there are 330 baseball fans in the town , each of whom is a fan of exactly one of those three teams , how many NY Mets fans are there in this town ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If it takes Cathy 27 minutes to stretch and Jim continues to run during this time , how many minutes will it take Cathy to catch up to Jim ?",
+        "statement2": "If it takes Cathy less than 57 minutes to stretch and Jim continues to run during this time , how many minutes will it take Cathy to catch up to Jim ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If Grady and Howard are among those 6 friends but can never sit next to each other , how many 6 - person seating arrangements are possible ?",
+        "statement2": "If Grady and Howard are among those 5 friends but can never sit next to each other , how many 6 - person seating arrangements are possible ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "1.0 evening , a restaurant served a total of 0.5 loaf of wheat bread and 0.4 loaf of white bread .",
+        "statement2": "1.2 loaves were served in all",
+        "options": " Entailment or contradiction?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The distance between their homes is more than 12 kilometers , Ella ' s walking speed is 5 km / h , and Ed ' s walking speed is 3 km / h",
+        "statement2": "The distance between their homes is 42 kilometers , Ella ' s walking speed is 5 km / h , and Ed ' s walking speed is 3 km / h",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sobha ' s father was more than 28 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "statement2": "Sobha ' s father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Martin bought less than 20 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "statement2": "Martin bought 10 concert tickets , some at the full price of $ 2.00 per ticket , and some at a discounted price of $ 1.60 per ticket",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In an exam , Amar scored less than 84 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "statement2": "In an exam , Amar scored 64 percent , Bhavan scored 36 percent and Chetan 44 percent",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "3000 and Christine ' s share is Rs",
+        "statement2": "more than 1000 and Christine ' s share is Rs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Maddie has 24 apples , if she give 12 to mike , how many does she have left ?",
+        "statement2": "Maddie has 44 apples , if she give 12 to mike , how many does she have left ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "The farmers reported that they harvest 45.0 sacks of apples from each of the 8.0 sections of the orchard daily.",
+        "statement2": "360.0 sacks are harvested every day",
+        "options": " Entailment or contradiction?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Carina has 55 ounces of coffee divided into 5 - and 10 - ounce packages",
+        "statement2": "Carina has less than 55 ounces of coffee divided into 5 - and 10 - ounce packages",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "If the toy store is stocked with 3 types of balls and 6 types of board games , how many different selections E of the 4 items can Amanda make ?",
+        "statement2": "If the toy store is stocked with 4 types of balls and 6 types of board games , how many different selections E of the 4 items can Amanda make ?",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Jack walks in a straight line toward Christina at a constant speed of less than 8 feet per second and Christina walks in a straight line toward Jack at a constant speed of 8 feet per second",
+        "statement2": "Jack walks in a straight line toward Christina at a constant speed of 7 feet per second and Christina walks in a straight line toward Jack at a constant speed of 8 feet per second",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "There are 4 more women than men on Centerville ' s board of education",
+        "statement2": "There are more than 4 more women than men on Centerville ' s board of education",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sandy is younger than Molly by less than 64 years",
+        "statement2": "Sandy is younger than Molly by 14 years",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Alok ordered less than 36 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "statement2": "Alok ordered 16 chapatis , 5 plates of rice , 7 plates of mixed vegetable and 6 ice - cream cups",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Carolyn bought 15 gumballs , Lew bought 12 gumballs , and Carey bought X gumballs",
+        "statement2": "Carolyn bought less than 75 gumballs , Lew bought 12 gumballs , and Carey bought X gumballs",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "At the end of ' n ' years , Sandy got back more than 3 times the original investment",
+        "statement2": "At the end of ' n ' years , Sandy got back 5 times the original investment",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "And the CNN/ORC International survey also indicates that more than six in 10 Americans say that Speaker of the House John Boehner should be replaced .",
+        "statement2": "More than six in 10 say Speaker of the House John Boehner should lose his job",
+        "options": " Entailment or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "In Kaya ' s teacher ' s desk there are less than 64 pink highlighters , 28 yellow highlighters , and 25 blue highlighters",
+        "statement2": "In Kaya ' s teacher ' s desk there are 24 pink highlighters , 28 yellow highlighters , and 25 blue highlighters",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Last year 12 members of the club traveled to both England and France , 6 members traveled to both England and Italy , and 0 members traveled to both France and Italy",
+        "statement2": "Last year less than 12 members of the club traveled to both England and France , 6 members traveled to both England and Italy , and 0 members traveled to both France and Italy",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Sheila works 8 hours per day on Monday , Wednesday and Friday , and 6 hours per day on Tuesday and Thursday",
+        "statement2": "Sheila works more than 5 hours per day on Monday , Wednesday and Friday , and 6 hours per day on Tuesday and Thursday",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "Entailment",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Robert ate more than 5 chocolates , Nickel ate 3 chocolates",
+        "statement2": "Robert ate 7 chocolates , Nickel ate 3 chocolates",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "neutral",
+        "type": "Type_7"
+    },
+    {
+        "statement1": "Carl can wash all the windows of his house in 6 hours",
+        "statement2": "Carl can wash all the windows of his house in less than 6 hours",
+        "options": " Entailment or contradiction or neutral?",
+        "answer": "contradiction",
+        "type": "Type_7"
+    }
+]

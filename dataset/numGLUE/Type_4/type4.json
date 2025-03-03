@@ -1,0 +1,2497 @@
+[
+    {
+        "question": "Tim 's cat had 6 kittens . He gave 3 to Jessica. Then Sara gave him 9 kittens. He has _____ kittens now .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie had 7 dimes in her bank . She gave her dad 8 dimes, and her mother gave her 4 dimes. Melanie have _____ dimes now .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 9 oak trees currently in the park . Park workers are planting 2 new oak trees. When the workers are finished there will be _____ oak trees in the park .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan has 8 orange balloons . Her friend gives her 2 more. Joan has _____ orange balloons now .",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "The first act included 5 clown mobiles, each stuffed with 28 clowns. There are _____ clowns inside all the clown mobiles combined.",
+        "answer": 140,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt is baking bread. She needs 5 cups of flour to bake 2 loaves of bread. She would need _____ cups of flour to make 1 loaf of bread.",
+        "answer": "2.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 27 Pokemon cards. Dan gave her 41 new Pokemon cards.  Sally lost 20 Pokemon cards. Sally has _____ Pokemon cards now.",
+        "answer": 48,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan has 9 blue balloons but gained 2 more. Joan has _____ blue balloons now.",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam had 9 dimes in his bank. He gave 7 dimes to his dad. Sam has _____ dimes now.",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant baked 5 cakes during lunch and sold 6 during dinner today . The restaurant baked 3 cakes yesterday. _____ cakes are left .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant served 9 pizzas but 6 were returned. _____ pizzas were successfully served.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Shiela has 6 neighbors who like to collect animal drawings. Shiela drew 54 animals on small pieces of paper. If she plans to give the same number of animal drawings to her neighbors, each of them would receive _____ .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary had planted 8 potatoes in the garden . The rabbits left the original potatoes but ate all except 3 of the newly grown potatoes. Mary has _____ potatoes now.",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 13 peaches at her roadside fruit dish.  She went to the orchard and picked peaches to stock up. She picked 55 peaches. There are _____ peaches now.",
+        "answer": 68,
+        "type": "Type_4"
+    },
+    {
+        "question": "It has been tradition in Shiela\u2019s home to hang a sock above the fireplace for each member of the family. This year, she placed a cinnamon ball every day in the socks for 5 of her family members. She can do this for _____ days if she bought 50 cinnamon balls.",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy grew 6 carrots. Sam took 3 carrots. Sandy is left with _____ carrots .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 27 Pokemon cards.  Dan has 41 new Pokemon cards.  Sally bought 20 Pokemon cards. Sally has _____ more Pokemon cards than Dan has.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred had 7 dimes in his bank . His sister loaned Fred 3 more dimes. Fred has _____ dimes now .",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 6 walnut trees in the park. Park workers will remove 4 trees today. There will be _____ walnut trees in the park after the workers are finished.",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jessica had 8 quarters in her bank . Her sister gave her 3 quarters. Jessica has _____ quarters now .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Lexie\u2019s younger brother helped pick up all the paper clips in Lexie\u2019s room. He was able to collect 81 paper clips. If he wants to distribute the paper clips in 9 boxes, each box would contain _____ paper clips .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy went to the mall to buy clothes . She has $ 13.99 money and she spent $ 12.14 on a shirt.  She found $ 7.43 on her pocket . She spent rest of the money on jacket. Sandy spent _____ on jacket.",
+        "answer": "9.28",
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan had 9 blue balloons , but Sally popped 5 of them. Jessica has 2 blue balloons. They have _____ blue balloons now .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara 's high school  basketball team won 12 of their games . They were defeated during 4 games. They played _____ games .",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "1 stamp costs 34 cents. If the cost of each stamp remains the same, 4 stamps would cost _____ cents .",
+        "answer": 136,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan picked 37 oranges, and Sara sold 10 of them . Alyssa picked 30 pears. Joan is left with _____ oranges .",
+        "answer": 27,
+        "type": "Type_4"
+    },
+    {
+        "question": "Allen, Shiela\u2019s brother, likes to play with blocks. Shiela repainted Allen\u2019s old blocks in different colors. If Allen has 49 identical blocks, and there are 7 blocks for every color of paint used, Shiela used _____ colors.",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny picked 2 apples and Dan picked 9 apples from the apple tree. Dan picked _____ more apples than Benny.",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "On Friday, 1250 people visited the zoo. 3 times as many people visited on Saturday than on Friday. So , _____ people visited the zoo on Saturday.",
+        "answer": 3750,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary is baking a cake .  She already put in 8 cups of flour . She  added  2 cups  more of flour. The recipe wants _____ cups of flour.",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "The library is divided into different sections for different type of books. The science fiction section has 8 books. If each book has 478 pages, in total all the books have _____ pages .",
+        "answer": 3824,
+        "type": "Type_4"
+    },
+    {
+        "question": "In Haley\u2019s class, 5 are boys who love to play marbles. If Haley has 35 marbles, each of the boys would receive _____ marbles .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa had  7 puppies and gave 5 to her friends. She is left with _____ puppies .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally sold 27 Pokemon cards.  Dan gave her 41 new Pokemon cards.  Sally bought 20 Pokemon cards. Sally has _____ Pokemon cards now.",
+        "answer": 34,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason picked 46 pears and Keith picked 47 pears from the pear tree . Mike ate 12 of those pears. They are left with _____ pears .",
+        "answer": 81,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally grew 5 onions and Fred grew 9 onions.  They gave Sara 4 onions from their garden. Sally and Fred have _____ onions now.",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sunday morning was spent for making wood carvings which can be sold as souvenir for tourists. They were placed in shelves that can contain 8 wood carvings at a time. If 56 wood carvings were displayed, _____ shelves were filled with carvings.",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny received 67 dollars for his birthday. He spent an extra 33 dollars at the sporting goods store, above his birthday money. Totally , he spent _____ dollars .",
+        "answer": 100,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam grew 4 watermelons and then grew 3 more watermelons. Sam has _____ watermelons .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara had a basket of onions. She added 4 onions to the basket , Sally took 5 onions out , and Fred added another 9 onions. There are _____ more onions in the basket now than at the start .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "The junior ranger asked Christian to help him place 420 seedlings in packets. If every packet needs to contain 7 seeds, they need _____ packets .",
+        "answer": 60,
+        "type": "Type_4"
+    },
+    {
+        "question": "Last week Tom had 74 dollars.  He washed cars over the weekend and made another 86 dollars. Tom has _____ dollars now .",
+        "answer": 160,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike has 87 baseball cards.  Sam gave Mike 13 more baseball cards. Mike has _____ baseball cards now.",
+        "answer": 100,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan has 9 blue balloons.  Sally gave 5 blue balloons to Joan.  Joan then gave 2 blue balloons to Jessica. Joan has _____ blue balloons now.",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "She counted her crayons and found out that she has 80 crayons which she will place in crayon boxes. Every box can contain 8 crayons. She needs _____ boxes .",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason picked 46 pears , and  gave Keith  47 pears , and Mike gave 12 pears from the pear tree to Jason. Jason has _____ pears now .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "The Spurs basketball team has 22 players. Each player has 11 basketballs. they have _____ basketballs in all.",
+        "answer": 242,
+        "type": "Type_4"
+    },
+    {
+        "question": "The tallest player on the basketball team is 77.75 inches tall. This is 9.5 inches taller than the shortest player. the shortest player _____ inches tall .",
+        "answer": "68.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "Christian\u2019s mother prepared lemonade. Every pitcher of lemonade can serve 5 glasses. If she was able to serve 30 glasses of lemonade, she prepared _____ pitchers of lemonade .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike has 35 books in his library.  He bought 56 more books at a yard sale over the weekend. Mike has _____ books now .",
+        "answer": 91,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 7 crayons in the drawer.  Mary put 3 more crayons in the drawer. There are _____ crayons in the drawer now.",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan has 64 violet marbles . Mary gave him 14 red marbles. He has _____ marbles now .",
+        "answer": 78,
+        "type": "Type_4"
+    },
+    {
+        "question": "There was a stack of 700 sheets of used paper. Lexie wants to place it in boxes for recycling. If every box can contain 100 sheets, Lexie needs _____ boxes .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan 's cat had 8 kittens . She got  2  more from her friends. She has _____ kittens now .",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 22 walnut trees currently in the park.  Park workers will plant walnut trees today.  When the workers are finished there will bee 55 more walnut trees in the park. There will be _____ walnut trees in the park after today.",
+        "answer": 77,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant served 6 cakes at dinner today but 5 were returned. The restaurant served 3 cakes successfully yesterday. Totally , the restaurant sold _____ cakes successfully .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 46 rulers in the drawer. Tim put 25 more rulers into the drawer. There are _____ rulers in the drawer now .",
+        "answer": 71,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt saw a rollercoaster. 7 students rode the rollercoaster every 5 minutes. _____ students rode the rollercoaster in 15 minutes.",
+        "answer": 21,
+        "type": "Type_4"
+    },
+    {
+        "question": "The next act involved several jugglers. If each juggler is juggling 6 balls at a time, _____ balls are needed if there are 378 jugglers putting a show at the same time.",
+        "answer": 2268,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam found 35 seashells on the beach. Joan found 18 seashells. They had _____ seashells all together.",
+        "answer": 53,
+        "type": "Type_4"
+    },
+    {
+        "question": "The farmer had 127 apples. The farmer gave 88 apples to his neighbor. the farmer has _____ apples now.",
+        "answer": 39,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara has 31 red and 15 green balloons . She gave Sandy 24 red balloons. She is left with _____ red balloons .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "9 of Hayley\u2019s closest friends like stickers. If she plans to give all of them an equal number of stickers, each would receive _____ if she has 72 stickers.",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan gathered 33 books to sell. She found 26 more to sell at her yard sale. She has _____ books for sale now.",
+        "answer": 59,
+        "type": "Type_4"
+    },
+    {
+        "question": "Keith picked 47 pears,  and Mike picked 12 pears from the pear tree . Keith gave away 46 pears. Keith and Mike are left with _____ pears .",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tom found 15 seashells, and Fred found 43 seashells on the beach . When they cleaned them , they discovered that 29 were cracked. Fred fond _____ more seashellsthan Tom .",
+        "answer": 28,
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred went to 36 basketball games last year and 35 basketball games the year before.  This year, he went to 11 less games than he did last year. Fred went to _____ basketball games this year.",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa paid $12.08 for grapes and was refunded $9.85 for cherries. she spent _____ in total.",
+        "answer": "2.23",
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason went to the mall on Saturday to buy clothes . He spent $ 14.28 in total on shorts and a jacket . He spent $ 4.74 on the jacket. Jason spent _____ on the shorts .",
+        "answer": "9.54",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 760 quarters in her bank. She received 418 more quarters. She has _____ quarters now.",
+        "answer": 1178,
+        "type": "Type_4"
+    },
+    {
+        "question": "They entered the circus tent and saw that there are 4 sections for the audience. If each section can accommodate 246 people, the tent can accommodate _____ people in total.",
+        "answer": 984,
+        "type": "Type_4"
+    },
+    {
+        "question": "Christian\u2019s father and the senior ranger gathered firewood as they walked towards the lake in the park and brought with them sacks. If every sack can contain around 20 pieces of wood, they were able to fill _____ sacks if they gathered 80 pieces of wood.",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason has 44 blue marbles and 16 red marbles. Tom has 24 blue marbles. Jason has _____ more blue marbles than Tom.",
+        "answer": 20,
+        "type": "Type_4"
+    },
+    {
+        "question": "For the final act, the circus brought out dancing animals wearing crowns. If each crown is made with 7 different colored feathers, _____ feathers are needed for 934 crowns.",
+        "answer": 6538,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan found 70 seashells on the beach . Sam gave her  27 seashells. Joan has _____ seashells now .",
+        "answer": 97,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason had 9 Pokemon cards . He gave 4 to his friends. He has _____ Pokemon cards now.",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy has 10 books, and Tim has 33 books. Benny lost 24 of their books. They have _____ books together .",
+        "answer": 19,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 6 roses in the vase. Mary cut some roses from her flower garden and put 16 more roses in the vase. There are _____  roses in the vase now.",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 28 bales of hay in the barn . Tim stacked bales in the barn today . There were already 54 bales of hay in the barn. _____ bales are stored in the barn .",
+        "answer": 82,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam had 98 pennies in his bank . He found 93 more pennies. He has _____ pennies now .",
+        "answer": 191,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan picked 9 limes and Sara gave him 4 limes. Dan has _____ limes now.",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan picked 43 apples from the orchard.  Melanie gave Joan 27 more apples. Joan has _____ apples now.",
+        "answer": 70,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tony had $20. Tony paid $8 for a ticket to a baseball game. At the game, Tony bought a hot dog for $3. Tony had _____ money then .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan found 79 seashells. Mike gave her 63 seashells. She has _____ in total.",
+        "answer": 142,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy went to the mall to buy clothes.  She spent 13.99 on shorts, 12.14 on a shirt, and received 7.43 for returning a jacket. _____ is the net amount of money that Sandy spent on clothes.",
+        "answer": "18.7",
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason planned to go to 11 football games this month and 17 games last month . His plans changed so he missed 16 of the games. In all , he attended _____ games .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "David has 7 boxes of stuffed toy dogs. Each box has 4 dogs in it. There are _____ dogs in all.",
+        "answer": 28,
+        "type": "Type_4"
+    },
+    {
+        "question": "Lexie\u2019s mom gathered all her watercolor paintings and thought of placing an equal number of paintings in 4 rooms in the house. If Lexie has 32 watercolor paintings, _____ paintings will be placed in each room.",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason went to 11 football games this month.  He went to 17 games last month and plans to go to 16 games next month. He will attend _____ more games in the previous month and in the next month than he did in this month.",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny has 24 books, and he gave Sandy  10 books. Tim has 33 books. They have _____ books together .",
+        "answer": 47,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tom found 7 seashells yesterday and found 4 more today. Tom found _____ seashells .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie grew 139 turnips . Benny grew 113 turnips. Melanie grew _____ more turnips than Benny .",
+        "answer": 26,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan went to 4 football games this year . She went to a total of 9 games this year and last. Joan went to _____ football games last year .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike joined his school's band.  He bought a trumpet for $145.16, and sold a song book which was $5.84. The net amount that Mike spent at the music store is _____ .",
+        "answer": "139.32",
+        "type": "Type_4"
+    },
+    {
+        "question": "The mini library also has a section for the classics. If Jack has a collection of 6 classic authors, with each author having 33 books, he has _____ books in the classics section.",
+        "answer": 198,
+        "type": "Type_4"
+    },
+    {
+        "question": "Chris has been saving his allowance to buy a new pair of soccer cleats and a ball. His grandmother gave Chris $25 for his birthday. His aunt and uncle gave Chris $20 ,  and his parents gave him $75. Now Chris had $279. Chris had $_____ before his birthday.",
+        "answer": 159,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant serves 6 cakes during lunch and 9 during dinner today. _____ more cakes are served during dinner than lunch.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jack has a section filled with short story booklets. If each booklet has 9 pages, and there are 49 booklets in the short story section, Jack would need to go through _____ pages if he plans to read them all.",
+        "answer": 441,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant made 9 hamburgers to serve during lunch . They quickly sold those and had to make 3 more. They made _____ hamburgers for lunch .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "In 1 week, an airplane pilot flew 1134 miles on Tuesday and 1475 miles on Thursday. If the pilot flies the same number of miles 3 weeks in a row, the pilot flew _____ miles in all.",
+        "answer": 7827,
+        "type": "Type_4"
+    },
+    {
+        "question": "A 12 ounce can of cranberry juice sells for 84 cents. The cost in cents per ounce is _____ .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie had 7 dimes in her bank . Her dad gave her 8 dimes, and she gave her mother 4 dimes. Melanie has _____ dimes now .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jessica has $ 11.73 money and she spent $ 10.22 on a cat toy. She is left $ _____ .",
+        "answer": "1.51",
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa picked 42 pears from the pear tree. Nancy sold 17 of the pears. _____ pears were left .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "Christian and the junior ranger brought a bag of 140 nails as they visited every station assigned to the junior ranger. If they left exactly 7 nails in every station they visited, Joline and the junior ranger visited _____ stations .",
+        "answer": 20,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jessica found 8 seashells. She gave Joan 6 seashells. Jessica is left with _____ seashells .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 14 rulers and 34 crayons in a drawer.  Tim takes out 11 rulers from the drawer. There are _____ rulers in the drawer now .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason has 676 Pokemon cards . Alyssa bought Jason 224 new Pokemon cards. Jason has _____ Pokemon cards now .",
+        "answer": 900,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie had 8 dimes in her bank.  She gave 7 dimes to her dad.  Her mother then gave her 4 dimes. Melanie have _____ dimes now .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan found 56 seashells on the beach,  Jessica gave him some of her seashells.  She gave him 22 seashells. Dan has _____ seashells now.",
+        "answer": 78,
+        "type": "Type_4"
+    },
+    {
+        "question": "Chloe was playing a trivia game. In the first round, she scored 40 points, and in the second round, she scored 50 points. In the last round, she lost 4 points. She had _____ points at the end of the game.",
+        "answer": 86,
+        "type": "Type_4"
+    },
+    {
+        "question": "Justin needs 61 paper plates for a birthday party. He already has 26 blue plates and 7 red plates. Justin should buy _____ more plates .",
+        "answer": 28,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike had 34 peaches at his roadside fruit dish . He went to the orchard and picked peaches to stock up . There are now 86 peaches. He picked _____ number of peaches .",
+        "answer": 52,
+        "type": "Type_4"
+    },
+    {
+        "question": "Ellen made smoothies in the blender . She used 0.2 cup of strawberries , 0.1 cup of yogurt , and 0.2 cup of orange juice. Ellen used _____ cups of ingredients for the smoothies .",
+        "answer": "0.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "Shirley sold 20 boxes of Do-Si-Dos. Shirley needs to deliver _____ cases of 4 boxes, plus extra boxes .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jose starts with 7 bottle caps. He gets 2 more from Rebecca. Jose end up with _____ bottle caps .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used , he bought _____ new books .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Diane is a beekeeper . Last year , she harvested 2479 pounds of honey . This year , she bought some new hives and increased her honey harvest by 6085 pounds. Diane harvested _____ pounds of honey this year .",
+        "answer": 8564,
+        "type": "Type_4"
+    },
+    {
+        "question": "Ella owns 2 dogs . Each day , 1 dog eats 0.12 scoop of dog food, and the other dog eats 0.12 scoop. Together , the 2 dogs eat _____ dog food each day .",
+        "answer": "0.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "Tommy had some balloons. His mom gave him 34 more balloons for his birthday. Then, Tommy had 60 balloons. Tommy had _____ baloons to start with.",
+        "answer": 26,
+        "type": "Type_4"
+    },
+    {
+        "question": "Brett drove 55 miles every hour. He would drive _____ miles in 8 hours.",
+        "answer": 440,
+        "type": "Type_4"
+    },
+    {
+        "question": "Last Saturday , Spencer walked all over town running errands . First , he walked 0.3 mile from his house to the library and 0.1 mile from the library to the post office . Then he walked 0.4 mile from the post office back home. In all , Spencer walked _____ miles .",
+        "answer": "0.8",
+        "type": "Type_4"
+    },
+    {
+        "question": "Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance, he has _____ amount of money now.",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Gumballs come in packages of 5. Nathan ate 20 gumballs. He ate _____ whole boxes .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Irwin 's family went on a camping trip in the mountains . On the first day , they hiked from their car to the campsite . First , they hiked 0.2 mile from the car to a stream , and 0.4 mile from the stream to a meadow . Then they hiked 0.1 mile from the meadow to the campsite. In all , Irwin 's family hiked _____ miles .",
+        "answer": "0.7",
+        "type": "Type_4"
+    },
+    {
+        "question": "Isabel bought 900 pieces of paper. She used 156 pieces of the paper. She is left with _____ pieces of paper.",
+        "answer": 744,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tori was 4.4 feet tall . Then she grew 2.86 feet taller. Tori is _____ feets tall now .",
+        "answer": "7.26",
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 2 pencils in the drawer . Tim placed 3 pencils in the drawer. Now , there are _____ pencils in total .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 6 birds and 3 nests. There are _____ more birds than nests.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan purchased a basketball game for $ 5.2 , and a racing game for $ 4.23. Joan spent _____ on video games .",
+        "answer": "9.43",
+        "type": "Type_4"
+    },
+    {
+        "question": "Roden went to a pet shop. He bought 15 gold fish and 7 blue fish. So , he bought _____ fishes .",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4 trays at a time. If he had to pick up 10 trays from 1 table and 2 trays from another, he would make _____ trips.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Gavin has 23 shirts. 6 are blue the rest are green. Gavin has _____ green shirts .",
+        "answer": 17,
+        "type": "Type_4"
+    },
+    {
+        "question": "Rachel was organizing her book case making sure each of the shelves had exactly 9 books on it. If she had 6 shelves of mystery books and 2 shelves of picture books, she had _____ books in total.",
+        "answer": 72,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara had 21 quarters in her bank. Her dad gave her 49 more quarters. She has _____ quarters now .",
+        "answer": 70,
+        "type": "Type_4"
+    },
+    {
+        "question": "Karen added 0.25 cup of walnuts to a batch of trail mix . Later , she added 0.25 cup of almonds. In all , Karen put _____ cups of nuts in the trail mix .",
+        "answer": "0.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "The farmers reported that they harvest 45 sacks of apples from each of the 8 sections of the orchard daily. _____ sacks are harvested every day.",
+        "answer": 360,
+        "type": "Type_4"
+    },
+    {
+        "question": "A worker at a medical lab is studying blood samples . 2 samples contained a total of 7341 blood cells . The first sample contained 4221 blood cells. There were _____ blood cells in the second sample .",
+        "answer": 3120,
+        "type": "Type_4"
+    },
+    {
+        "question": "At Lindsey 's Vacation Wear , 0.38 the garments are bikinis, and 0.25 are trunks. _____ fraction of the garments are either bikinis or trunks .",
+        "answer": "0.63",
+        "type": "Type_4"
+    },
+    {
+        "question": "Gino has 63 popsicle sticks. I have 50 popsicle sticks. The sum of our popsicle sticks is _____ .",
+        "answer": 113,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason has 7 violet balloons and 4 red balloons . He lost 3 of the violet balloons. Jason has _____ violet balloons now .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Christina just transferred $ 69 out of her bank account . As a result , the account now has $ 26935 in it. There was _____ money in the account before the transfer .",
+        "answer": 27004,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tammy drove 55 miles in 1 hour. At that rate, she can drive _____ miles in 36 hours.",
+        "answer": 1980,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kaleb had 34 books. If he sold 17 of them and used the money he earned to buy 7 new books, so Kaleb would have _____ books .",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "While on vacation, Megan took 15 pictures at the zoo and 18 at the museum. If she later deleted 31 of the pictures, she still has _____ pictures from her vacation .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Rose has 9 apples and 12 erasers. If she shares the apples among 3 friends, each friend would get _____ apples .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Todd has some gum. Steve gave him 16 more pieces of gum. Now Todd has 54 pieces of gum. Todd had _____ pieces to start with.",
+        "answer": 38,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa loves eating fruits. Alyssa paid $12.08 for grapes, and $9.85 for cherries. In total, Alyssa spent $_____ .",
+        "answer": "21.93",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt went to a concert. A total of 65899 people attended the concert. The next week, she went to a second concert, which had 119  more people in attendance. There were _____ people at the second  concert.",
+        "answer": 66018,
+        "type": "Type_4"
+    },
+    {
+        "question": "Students at Arcadia schools are participating in a coat drive . 9437 coats have been collected so far . 6922 coats were collected from the high schools , and the rest from the elementary schools. _____ coats were collected at the elementary schools .",
+        "answer": 2515,
+        "type": "Type_4"
+    },
+    {
+        "question": "Marta picked 2 pumpkins . The first pumpkin weighed 4 pounds , and the second pumpkin weighed 8.7 pounds. All together , the 2 pumpkins weigh _____ pounds .",
+        "answer": "12.7",
+        "type": "Type_4"
+    },
+    {
+        "question": "Seth bought 20 cartons of ice cream and 2 cartons of yogurt. Each carton of ice cream cost $6, and each carton of yogurt cost $1. Seth spent $_____ more on ice cream than on yogurt.",
+        "answer": 118,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan spent $ 11.76 on a snake toy , and a cage cost him $ 14.54 . Dan also found a dollar bill on the ground. The total cost of Dan 's purchases was _____ .",
+        "answer": "26.3",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike invited 13 friends to a birthday party, but 7 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 4, he should buy _____ cupcakes .",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "Norma has 88 cards. She loses 70. So, Norma would have _____ cards .",
+        "answer": 18,
+        "type": "Type_4"
+    },
+    {
+        "question": "A spaceship traveled 0.5 light-year from Earth to Planet X and 0.1 light-year from Planet X to Planet Y. Then it traveled 0.1 light-year from Planet Y back to Earth. In all , spaceship traveled _____ light-years .",
+        "answer": "0.7",
+        "type": "Type_4"
+    },
+    {
+        "question": "Wendy ran 19.83 miles and walked 9.17 miles. Wendy ran _____ farther than she walked .",
+        "answer": "10.67",
+        "type": "Type_4"
+    },
+    {
+        "question": "Ethan has 31 presents. Alissa has 22 more than Ethan. Alissa has _____ presents .",
+        "answer": 53,
+        "type": "Type_4"
+    },
+    {
+        "question": "If Heather bicycled 40 kilometers at 8 kilometers per hour, Heather was bicycling for _____ hours .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jessica spent $ 10.22 on a cat toy , and a cage cost her $ 11.73. The total cost of Jessica 's purchases was _____ .",
+        "answer": "21.95",
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 46 rulers in the drawer . Tim took 25 rulers from the drawer. There are _____ rulers in the drawer now.",
+        "answer": 21,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kaleen filled a bucket with 0.75 gallon of water . A few minutes later , she realized only 0.5 gallon of water remained. _____ water had leaked out of the bucket .",
+        "answer": "0.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "Paige had 8 songs on her mp3.0 player. If she deleted 5 old songs from it and then added 30 new songs, she has _____ songs on her mp3.0 player.",
+        "answer": 33,
+        "type": "Type_4"
+    },
+    {
+        "question": "Amy had 4 music files and 21 video files on her flash drive. If she deleted 23 of the files, there were _____ files still on her flash drive.",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan has $3. He bought a candy bar for $1. The money left is $ _____ .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy 's dog had 8 puppies, and 3 had spots . She gave 4 to her friends. Now , She has _____ puppies .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt bought 3 pizzas for $8 each. The total amount she paid for the 3 pizzas was _____ .",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred has 110 blue marbles. Fred has 22 times more blue marbles than Tim. Tim has _____ blue marbles .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Blake filled a bucket with 0.8 gallon of water . Later , he poured out 0.2 gallon of the water. There is _____ gallons of water in the bucket .",
+        "answer": "0.6",
+        "type": "Type_4"
+    },
+    {
+        "question": "Randy has 78 blocks. He uses 19 blocks to build a tower. There are _____ blocks left.",
+        "answer": 59,
+        "type": "Type_4"
+    },
+    {
+        "question": "Heather went to the county fair last weekend . When she got there , she had to walk 0.33 mile from the car to the entrance . Then she walked 0.33 mile to the carnival rides and 0.08 mile from the carnival rides back to the car. In all , Heather waled _____ miles .",
+        "answer": "0.75",
+        "type": "Type_4"
+    },
+    {
+        "question": "You go out for a long walk. You walk 0.75 mile and then sit down to take a rest. Then you walk 0.25 of a mile. You walked _____ miles altogether.",
+        "answer": 1,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were a total of 27 soccer games during the 3 month season. If the games are equally divided, _____ soccer games are played a month .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Last week Tom had 74 dollars . He washed cars over the weekend and now has 86 dollars. He made _____ money washing cars .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dan found 56 seashells on the beach , he gave Jessica some of his seashells . He has 22 seashells. He gave _____ seashells to Jessica .",
+        "answer": 34,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 28 girls and 35 boys on the playground at recess. In all , there were _____ children .",
+        "answer": 63,
+        "type": "Type_4"
+    },
+    {
+        "question": "Carrie's mom gave her $91 to go shopping. She bought a sweater for $24, a T-shirt for $6, and a pair of shoes for $11. Carrie is left with $_____ .",
+        "answer": 50,
+        "type": "Type_4"
+    },
+    {
+        "question": "Abe 's family moved from the Bahamas to Japan , so they had convert their money into Japanese yen . Their checking account now has 6359 yen, and their savings account now has 3485 yen. They have _____ yen .",
+        "answer": 9844,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa picked 25 limes, and Mike picked 32 limes . Tom picked 12 plums. So , _____ limes were picked in all .",
+        "answer": 57,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tyler had 15 dogs. Each dog had 5 puppies. Tyler now has _____ puppies .",
+        "answer": 75,
+        "type": "Type_4"
+    },
+    {
+        "question": "30 dogs are barking. 10 more dogs start to bark. _____ dogs are barking.",
+        "answer": 40,
+        "type": "Type_4"
+    },
+    {
+        "question": "A toy store had 4 giant stuffed bears in stock when they got another shipment with 10 bears in it. The put the bears onto shelves with 7 on each shelf. they would have used _____ shelves .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Faye had 34 coloring books. If she gave away 3 of them, but then bought 48 more, she would have _____ books in total.",
+        "answer": 79,
+        "type": "Type_4"
+    },
+    {
+        "question": "Luke was trying to expand his game collection. He bought 2 games from a friend and bought 2 more at a garage sale. If 2 of the games didn't work, hhe endded up with _____ good games .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy has 10 books , Benny has 24 books , and Tim has 33 books. _____ many books do they have together .",
+        "answer": 67,
+        "type": "Type_4"
+    },
+    {
+        "question": "Before starting her shift , a waitress checks to make sure there is enough mustard for her customers . She finds 0.25 bottle at the first table , 0.25 bottle at the second table , and 0.38 bottle at the third table. Altogether , the waitress found _____ bottles of mustard .",
+        "answer": "0.88",
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 3 eggs in each box. So , there are _____ eggs in 2 boxes.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Billy has 62 crayons. 52 are eaten by a hippopotamus. So, Billy would have _____ crayons .",
+        "answer": 10,
+        "type": "Type_4"
+    },
+    {
+        "question": "Nancy went to 9 football games this month . She went to 8 games last month , and plans to go to 7 games next month . She paid 3 dollars for the tickets. In all , she would attend _____ games .",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 4 squirrels in a tree with 2 nuts. There are _____ more squirrels than nuts.",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 24 bicycles and 14 tricycles in the storage area at Danny's apartment building. Each bicycle has 2 wheels, and each tricycle has 3 wheels. In all , there are _____ wheels .",
+        "answer": 90,
+        "type": "Type_4"
+    },
+    {
+        "question": "Christopher strolled 5 miles at 4 miles per hour. Christopher strolled for _____ hours .",
+        "answer": "1.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "Arthur has 6 cards. Aaron has with 5 cards. Aaron finds another 62. Aaron end up with _____ cards .",
+        "answer": 67,
+        "type": "Type_4"
+    },
+    {
+        "question": "Paco 's Countertop Company purchased pieces of marble from a quarry . The weights of the pieces they purchased were 0.33 ton , 0.33 ton , and 0.08 ton. In all , Paco 's Countertop Company purchased _____ tons of marble .",
+        "answer": "0.75",
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa's dog had puppies . She gave 7 to her friends . She now has 5 puppies. She had _____ puppies to start with.",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Milford Lake was originally blue because it only had 809 algae plants . Now there are 3263 algae plants , and the lake has turned green. There are _____ more algae plants in Milford Lake now .",
+        "answer": 2454,
+        "type": "Type_4"
+    },
+    {
+        "question": "Debby's class is going on a field trip to the zoo. If each van can hold 4 people and there are 2 students and 6 adults going, they would need _____ vans .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Martin strolled to Lawrence's house. It is 12 miles from Martin's house to Lawrence's house. It took Martin 6 hours to get there. So , Martin went there at _____ miles per hour .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. Mary have _____ black balloons now .",
+        "answer": 28,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 7.75 gallons of water in Becky 's fish tank. If Becky adds 7 gallons more , In all , there will be _____ gallons .",
+        "answer": "14.75",
+        "type": "Type_4"
+    },
+    {
+        "question": "Brian\u2019s car gets 20 miles per gallon. On his last trip, he used 3 gallons of gas. He travelled _____ miles on his last trip.",
+        "answer": 60,
+        "type": "Type_4"
+    },
+    {
+        "question": "A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats. They are left with _____ cats .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Maggi had 3 packages of cupcakes. There are 4 cupcakes in each package. She ate 5 cupcakes. _____ are left.",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kendall is learning to drive , so this weekend she practiced driving 0.17 mile with her mother and another 0.5 mile with her father. In all , Karen drove _____ far .",
+        "answer": "0.67",
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan paid $8.77 on a cat toy, and a cage cost her $10.97 with a $20 bill. Joan received $_____ in change.",
+        "answer": "0.26",
+        "type": "Type_4"
+    },
+    {
+        "question": "Josh had 142 pencils. He gave 31 pencils to Dorothy. Josh is left with _____ pencils .",
+        "answer": 111,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 11 friends playing a video game online when 5 players quit. If each player left had 5 lives, they had _____ lives in total.",
+        "answer": 30,
+        "type": "Type_4"
+    },
+    {
+        "question": "Luke had 47 pieces of clothing to wash. He put 17 of them in 1 load, but decided to split the rest into 5 equal loads. _____ pieces of clothing shuld go in each of the small loads.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Evelyn starts with 18 bottle caps. She finds another 63. Evelyn end with _____ bottle caps.",
+        "answer": 81,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa went to 11 soccer games this year , but missed 12 . She went to 13 games last year and plans to go to 15 games next year. In all , Alyssa will go to _____ soccer games .",
+        "answer": 39,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason went to the mall on Saturday to buy clothes . He spent $ 14.28 on shorts and $ 4.74 on a jacket. In total , Jason spent _____ on clothing .",
+        "answer": "19.02",
+        "type": "Type_4"
+    },
+    {
+        "question": "It takes 4 apples to make 1 pie. It takes _____ apples to make 504 pies.",
+        "answer": 2016,
+        "type": "Type_4"
+    },
+    {
+        "question": "Olivia was making baggies of cookies with 9 cookies in each bag. If she had 13 chocolate chip cookies and 41 oatmeal cookies, she could make _____ baggies.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Pamela has 50 Skittles. She gives 7 to Karen. Pamela would have _____ Skittles .",
+        "answer": 43,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 96 cupcakes for 8 children to share. Each person will get _____ cupcakes if they share the cupcakes equally.",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "A teacher has 344 pieces of candy. If there are 43 students, and the candy is divided evenly, each student would get _____ pieces .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Larry has 67 cards. Dennis takes 9 away. So , Larry would have _____ cards .",
+        "answer": 58,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 39 baseball cards , and 9 were torn . Sara bought 24 of Sally 's baseball cards. Now , Sally has _____ baseball cards .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan 's cat had 8 kittens . She gave 2 to her friends. She has _____ many kittens now .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Misha has 34 dollars. She has to earn _____ more dollars to have 47 dollars.",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie has 41 books and 31 magazines in her library . She bought several books at a yard sale over the weekend . She now has 87 books in her library. She bought _____ books at the yard sale .",
+        "answer": 46,
+        "type": "Type_4"
+    },
+    {
+        "question": "Faye was selling her necklaces at a garage sale. She sold 3 bead necklaces and 7 gem stone necklaces. If each necklace cost 7 dollars, she earned _____ money .",
+        "answer": 70,
+        "type": "Type_4"
+    },
+    {
+        "question": "So far , an orchard has sold a combined total of 9792 pounds of fresh and frozen fruit this season. If they have sold 3513 pounds of frozen fruit , _____ pounds of fresh fruit have been sold so far .",
+        "answer": 6279,
+        "type": "Type_4"
+    },
+    {
+        "question": "Peter starts with 8 erasers. Bridget gives Peter 3 more. So, Peter end up with _____ erasers .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 5 people on the Green Bay High track team. If a relay race is 150 meters long, each team member would have to run _____ meters .",
+        "answer": 30,
+        "type": "Type_4"
+    },
+    {
+        "question": "In March it rained 0.81 inches . It rained 0.35 inches less in April than in March. It rained _____ inches in April .",
+        "answer": "0.46",
+        "type": "Type_4"
+    },
+    {
+        "question": "Lino picked up 292 shells at the seashore in the morning and 324 shells in the afternoon. In all , he picked up _____ shells .",
+        "answer": 616,
+        "type": "Type_4"
+    },
+    {
+        "question": "Isabella\u2019s hair is 18 inches long. If her hair grows 4 more inches, it will be _____ inches long .",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "Megan had 93 files on her computer. She deleted 21 of them and put the rest into folders with 8 files in each 1. Megan ended up with _____ folders .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "James had 39 stickers. He got some more stickers for his birthday. Then he had 61 stickers. James got _____ stickers for his birthday .",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally had 760 quarters in her bank . She spent 418 of her quarters. She has _____ quarters now .",
+        "answer": 342,
+        "type": "Type_4"
+    },
+    {
+        "question": "Martha is inviting 4 friends to a party. She has 12 cookies. Each friend would get _____ cookies .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Christine wandered 20 miles at 4 miles per hour. Christine wandered for _____ hours .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt wants to make a border around her garden. She needs 125 rocks to complete the border. She has 64 rocks. She needs _____  more rocks to complete the border.",
+        "answer": 61,
+        "type": "Type_4"
+    },
+    {
+        "question": "Betty has 24 oranges stored in boxes. If there are 3 boxes, as a result _____ oranges must go in each box.",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Emily was planting vegetables in her garden. She started with 41 seeds and planted 29 of them in the big garden, and in each of her small gardens, put 4 seeds each. Emily had _____ small gardens .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "At Mrs. Hilt's house, there was 29 inches of snow, and Brecknock Elementary School received 17 inches of snow. Mrs. Hilt's house had _____ incehs of snow .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "532 people are watching a movie in a theater. The theater has 750 seats. There are _____ seats empty in the theater.",
+        "answer": 218,
+        "type": "Type_4"
+    },
+    {
+        "question": "Cade had 87 marbles. He gave 8 to Dylan. Therefore , he is left with _____ marbles .",
+        "answer": 79,
+        "type": "Type_4"
+    },
+    {
+        "question": "Denise removes 5 bananas from a jar. There were originally 46 bananas in the jar. As a result , _____ bananas are left in the jar.",
+        "answer": 41,
+        "type": "Type_4"
+    },
+    {
+        "question": "Ted has 15 candy bars. He wants to put them into 5 bags so there are the same number of candy bars in each bag. _____ candy bars should go in each bag.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "If there are 7 bottle caps in a box and Linda puts 7 more bottle caps inside, there are _____ bottle caps in the box.",
+        "answer": 14,
+        "type": "Type_4"
+    },
+    {
+        "question": "Martha bought 18 small cakes. She has 3 children. She would like to divide the cakes among her children so that each child gets the same amount. Each child would get _____ cakes .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Marlee has 12 guests coming to her Halloween party. Each table will hold 3 guests. She would need _____ tables .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kevin starts with 7 cards. He finds another 47. Kevin end with _____ cards .",
+        "answer": 54,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 22 walnut trees currently in the park . Park workers will plant walnut trees today . When the workers are finished there will be 55 walnut trees in the park. The workers planted _____ walnut trees today.",
+        "answer": 33,
+        "type": "Type_4"
+    },
+    {
+        "question": "Elizabeth went to the salon and had 0.38 inch of hair cut off . The next day she went back and asked for another 0.5 inch to be cut off. She had cut off _____ hair in all .",
+        "answer": "0.88",
+        "type": "Type_4"
+    },
+    {
+        "question": "On Saturday, Sara spent $10.62 each on 2 tickets to a movie theater. She also rented a movie for $1.59, and bought a movie for $13.95. Sara spent $_____ on movies.",
+        "answer": "36.78",
+        "type": "Type_4"
+    },
+    {
+        "question": "The cafeteria had 62 apples. For lunch they handed out 8 to students and decided to use the rest to make pies. If each pie takes 9 apples, they could make _____ pies .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason picked 46 pears , Keith picked 47 pears , and Mike picked 12 pears from the pear tree. _____ many pears were picked in total .",
+        "answer": 105,
+        "type": "Type_4"
+    },
+    {
+        "question": "At the beach , Miki and her sister both built sandcastles and then measured their heights . Miki 's sandcastle was 0.83 foot tall, and her sister 's was 0.5 foot tall. Miki 's sandcastle was _____ taller than her sister 's .",
+        "answer": "0.33",
+        "type": "Type_4"
+    },
+    {
+        "question": "A bee has 6 legs. Therefore , 2 bees would have _____ legs .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "The Hawks scored 3 touchdowns worth 7 points each. They have _____ points .",
+        "answer": 21,
+        "type": "Type_4"
+    },
+    {
+        "question": "At a pie-eating contest , Erik got through 0.67 pie before time was called ; Frank finished just 0.33 pie. Erik ate _____ more pie than Frank .",
+        "answer": "0.34",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sue\u2019s mother made 75 cookies. She put the cookies in bags, with 3 cookies in each bag. She could fill _____ bags .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant served 9 pizzas during lunch and 6 during dinner today. _____ pizzas were served today .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Emily collected eggs from the hen and put them into 303 baskets. She put 28 eggs into each basket. Emily collected _____ eggs .",
+        "answer": 8484,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kaleb had saved up 21 dollars. If he received another 15 dollars for his allowance, therefore he can buy _____ 6 dollar toys .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary\u2019s mom is getting ready for Mary\u2019s birthday party. She blew up 6 balloons this morning and 5 balloons this afternoon. So , in all , she blew up _____ balloons  .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred had 7 dimes in his bank . His sister borrowed 3 of his dimes. Fred has _____ many dimes now .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "John walks 0.7 miles to school, and Nina walks 0.4 miles to school. John walked _____ farther than Nina.",
+        "answer": "0.3",
+        "type": "Type_4"
+    },
+    {
+        "question": "The Richmond Tigers sold a total of 9570 tickets last season. If they sold 3867 tickets in the first half of the season , they sold _____ tickets in the second half .",
+        "answer": 5703,
+        "type": "Type_4"
+    },
+    {
+        "question": "Warren has 252 guests coming to his party. Each table will hold 4 guests. So , he would need _____ tables .",
+        "answer": 63,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike found 6 seashells and 3 starfish , but 4 of the seashells were broken. Mike found _____ unbroken seashells .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "Carefully following a recipe , Kenny used exactly 0.17 cup of oil and 1.17 cups of water. In all , Kenny used _____ cups of liquid .",
+        "answer": "1.33",
+        "type": "Type_4"
+    },
+    {
+        "question": "Willie has 48 bananas. Charles has 14 bananas. He loses 35. Willie will have _____ bananas .",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "A cereal box holds 18 cups of cereal. Each serving is 2 cups. There are _____ servings in the whole box.",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Zach wants to ride the Ferris wheel, the roller coaster, and the log ride. The Ferris wheel costs 2 tickets, the roller coaster costs 7 tickets, and the log ride costs 1 ticket. Zach has 1 ticket. Zach should buy _____ more tickets.",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "The farmer had 127 apples. He gave 88 apples to his neighbor. He has _____ apples now.",
+        "answer": 39,
+        "type": "Type_4"
+    },
+    {
+        "question": "At a restaurant, each adult meal costs $3, and kids eat free. If a group of 12 people came in and 7 were kids, it would cost $_____ for the group to eat.",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "It rained 0.9 inches on Monday . On Tuesday , it rained 0.7 inches less than on Monday. It rained _____ inches on Tuesday .",
+        "answer": "0.2",
+        "type": "Type_4"
+    },
+    {
+        "question": "Tim 's cat had kittens . He gave 3 to Jessica and 6 to Sara . He now has 9 kittens. He had _____ kittens to start with .",
+        "answer": 18,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason had Pokemon cards. Jason gave 9 to his friends. Jason now has 4 Pokemon cards left. Jason had _____ Pokemon cards start with .",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara got fast food for lunch . Sara spent $ 5.36 on a hotdog and $ 5.1 on a salad. The total of the lunch bill was _____ .",
+        "answer": "10.46",
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 7 dogwood trees currently in the park . Park workers will plant 5 dogwood trees today and 4 dogwood trees tomorrow . It took 8 workers to finish the work. The park will have _____ dogwood trees when the workers are finished .",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "Will had 57 dollars. If he spent 27 bucks on a new game, he can buy _____ 6 dollar toys with the money he had left.",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Logan recorded the snowfall every day during a snowstorm . He recorded 0.33 centimeter on Wednesday , 0.33 centimeter on Thursday , and 0.22 centimeter on Friday. Logan recorded _____ centimeters of snow .",
+        "answer": "0.89",
+        "type": "Type_4"
+    },
+    {
+        "question": "For his car , Mike spent $ 118.54 on speakers and $ 106.33 on new tires . Mike wanted 3 CD 's for $ 4.58 but decided not to. In total , Mike spent _____ on car parts .",
+        "answer": "224.87",
+        "type": "Type_4"
+    },
+    {
+        "question": "A chef bought 0.14 kilograms of almonds and 0.38 kilograms of pecans. In all , the chef baught _____ kilograms of nuts .",
+        "answer": "0.52",
+        "type": "Type_4"
+    },
+    {
+        "question": "Henry earned 5 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 7 of them, he actually earned _____ dollars .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "Brennan had 0.25 grams of pepper . Then he used 0.16 grams of the pepper to make some scrambled eggs. Brennan has _____ grams of pepper .",
+        "answer": "0.09",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mikey had 356 leaves. Some of her leaves blew away. Now she has 112 leaves left. So , _____ leaves blew away.",
+        "answer": 244,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, so she should have _____ lives .",
+        "answer": 56,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan decided to sell all of her old books . She gathered up 33 books to sell . She sold 26 books in a yard sale. Joan has _____ books now .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie goes fishing with Tom. Melanie catches 8 trout. Tom catches 2 times as many trout as Melanie. Tom caught _____ trouts .",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "During a visit to an orchard , Charlie picked 0.17 bag of Golden Delicious apples , 0.17 bag of Macintosh apples , and 0.33 bag of Cortland apples. In total, Charlie picked _____ bags of fruit .",
+        "answer": "0.67",
+        "type": "Type_4"
+    },
+    {
+        "question": "April's discount flowers was having a sale where each rose was 7 dollars. If April started with 9 roses and had 4 roses left, she earned _____ dollars .",
+        "answer": 35,
+        "type": "Type_4"
+    },
+    {
+        "question": "The Litter Patrol picked up 10 glass bottles and 8 aluminum cans on Saturday. Altogether , they picked up _____ pieces of litter .",
+        "answer": 18,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary went to the mall . She spent $ 13.04 on a shirt and $ 12.27 on a jacket . She went to 2 shops. In total , Mary spent _____ dollars on clothing .",
+        "answer": "25.31",
+        "type": "Type_4"
+    },
+    {
+        "question": "While playing a video game , Paul scored 3103 points . He and his cousin together have a total of 5816 points. Paul 's cousin have _____ points .",
+        "answer": 2713,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jonathan wants to buy a dictionary that costs $11, a dinosaur book that costs $19, and a children's cookbook that costs $7. He has saved $8 from his allowance. Jonathan needs $_____ to buy all 3 books.",
+        "answer": 29,
+        "type": "Type_4"
+    },
+    {
+        "question": "Wendy was playing a video game where she scores 5 points for each treasure she finds. If she found 4 treasures on the first level and 3 on the second, Her score would be _____ .",
+        "answer": 35,
+        "type": "Type_4"
+    },
+    {
+        "question": "Paula's aunt gave her $109 to spend on clothes at the mall. She bought 2 shirts that cost $11 each and a pair of pants that cost $13. Paula is left with $_____ to buy more clothes.",
+        "answer": 74,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy went to the mall to buy clothes . She spent $ 13.99 on shorts , $ 12.14 on a shirt , and $ 7.43 on a jacket. Sandy spent _____ on clothes .",
+        "answer": "33.56",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt ate 5 apples every hour. Therefore , she would have eaten _____ apples at the end of 3 hours.",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Franklin had 58 Valentines. Mrs. Franklin gave some to her students. Now she has 16. Mrs. Franklin gave _____ Valentines to her students.",
+        "answer": 42,
+        "type": "Type_4"
+    },
+    {
+        "question": "A company invited 18 people to a luncheon, but 12 of them didn't show up. If the tables they had held 3 people each, they need _____ tables .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "I have a pet golden retriever. Each year he gains 11 pounds. He is 8 years old. He weighs _____ pounds .",
+        "answer": 88,
+        "type": "Type_4"
+    },
+    {
+        "question": "A farmer estimates that he will harvest 48097 bushels of wheat . The weather is perfect during the growing season , so he harvests 684 bushels of wheat more than expected. The farmer harvested _____ bushels of wheat .",
+        "answer": 48781,
+        "type": "Type_4"
+    },
+    {
+        "question": "Isabel had 2 pages of math homework and 4 pages of reading homework. If each page had 5 problems on it, she had to complete _____ problems total.",
+        "answer": 30,
+        "type": "Type_4"
+    },
+    {
+        "question": "Arthur baked 115 muffins. James baked 12 times as many. James baked _____ muffins .",
+        "answer": 1380,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan purchased a basketball game for $5.2, and a racing game for $4.23. Joan spent $_____ on video games.",
+        "answer": "9.43",
+        "type": "Type_4"
+    },
+    {
+        "question": "While shopping, Maria bought 35 green towels and 21 white towels. If she gave her mother 34 of them, Maria ended up with _____ towels .",
+        "answer": 22,
+        "type": "Type_4"
+    },
+    {
+        "question": "Alyssa loves eating fruits . Alyssa paid $ 12.08 for grapes , and $ 9.85 for cherries. In total , Alyssa spent _____ .",
+        "answer": "21.93",
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie picked 7 plums and 4 oranges from the orchard . She gave 3 plums to Sam. She has _____  plums now .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jane has 28 old, brown sheets of drawing paper and 27 old, yellow sheets of drawing paper. She has _____ pieces of drawing paper .",
+        "answer": 55,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike worked 3 hours each day, for 5 days. In total , he worked for _____ hours .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Luke made 9 dollars mowing lawns and 18 dollars weed eating. If he only spent 3 dollar a week, the money last him _____ weeks .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Snyder made 86 heart cookies. She made 36 red cookies, and the rest are pink. She made _____ pink cookies .",
+        "answer": 50,
+        "type": "Type_4"
+    },
+    {
+        "question": "2 birds were sitting on the fence. 4 more birds came to join them. So , _____ birds are sitting on the fence.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mariela was in the hospital, and she got 403 get well cards from around the country. When she got home she got 287 more cards from friends  and family. Mariela got _____ get well cards .",
+        "answer": 690,
+        "type": "Type_4"
+    },
+    {
+        "question": "The Montoya family spends 0.6 their budget on groceries and another 0.2 going out to eat. Altogether , Montoya family spent _____ fraction of their budget on the food .",
+        "answer": "0.8",
+        "type": "Type_4"
+    },
+    {
+        "question": "For Halloween Debby and her sister combined the candy they received. Debby had 32 pieces of candy while her sister had 42. If they ate 35 pieces the first night, they are left with _____ pieces .",
+        "answer": 39,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jack starts with 62 marbles. He shares 33 with Rebecca. Therefore , Jack end up with _____ marbles.",
+        "answer": 29,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jovana had 5 pounds of shells in her bucket. She added some shells, and now has 28 pounds of shells. She added _____ pounds .",
+        "answer": 23,
+        "type": "Type_4"
+    },
+    {
+        "question": "Michelle began her pizza delivery route with 0.5 tank of gas in her car . When she made it back to the pizzeria , 0.17 tank of gas was left. Michelle used _____ gas .",
+        "answer": "0.33",
+        "type": "Type_4"
+    },
+    {
+        "question": "Edward was selling his old games. He started out with 35 but sold 19 of them. He packed the rest up putting 8 games into each box. He had to use _____ boxes .",
+        "answer": 2,
+        "type": "Type_4"
+    },
+    {
+        "question": "My dog had some bones. Then, he dug up 367 bones. Now he has 860 bones. He started with _____ bones .",
+        "answer": 493,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan has 40 blue balloons. Melanie has 41 blue balloons. _____ many blue balloons do they have in total .",
+        "answer": 81,
+        "type": "Type_4"
+    },
+    {
+        "question": "If Karen sold 36 boxes of Tagalongs, Karen picked up _____ cases of 12 boxes from the cookie mom.",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "I have 648 pencils. If I put 4 pencils in each pencil box, I will fill _____ pencil boxes .",
+        "answer": 162,
+        "type": "Type_4"
+    },
+    {
+        "question": "Keith spent $ 136.01 on speakers , $ 139.38 on a CD player , and $ 112.46 on new tires . He wanted 3 CD 's for $ 6.16 , but did n't buy them. In total , he spent $_____  .",
+        "answer": "387.85",
+        "type": "Type_4"
+    },
+    {
+        "question": "Kevin bought 2 watermelons . The first watermelon was 9.91 pounds , and the second watermelon was 4.11 pounds. Kevin baught _____ pounds of watermelon .",
+        "answer": "14.02",
+        "type": "Type_4"
+    },
+    {
+        "question": "Kelly has 50 Nintendo games. She needs to give away _____ games so that she will have 35 games left.",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan went to 4 football games this year . She went to 9 games last year. Joan went to _____ football games in all .",
+        "answer": 13,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 41 short trees and 44 tall trees currently in the park . Park workers will plant 57 short trees today. When the workers are finished the park will have _____ short trees .",
+        "answer": 98,
+        "type": "Type_4"
+    },
+    {
+        "question": "Hoping to be named Salesperson of the Month , Rosa called the names from 10.2 pages of the phone book last week . This week , she called the people listed on another 8.6 pages of the same phone book. In all ,  Rosa called _____ pages worth of people .",
+        "answer": "18.8",
+        "type": "Type_4"
+    },
+    {
+        "question": "If Teresa jogged 25 kilometers at 5 kilometers per hour, Teresa was jogging for _____ hours .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jorge scored 156 goals playing soccer last season. This season he scored 187 goals. The total number of goals Jorge scored is _____ .",
+        "answer": 343,
+        "type": "Type_4"
+    },
+    {
+        "question": "Beka flew 873 miles to visit her aunt. Jackson flew 563 miles to visit his aunt. Beka flew _____ more miles than Jackson.",
+        "answer": 310,
+        "type": "Type_4"
+    },
+    {
+        "question": "Albert\u2019s cabbage patch has 12 rows of cabbage. In each row, there are 15 heads of cabbage.In all , Albert has _____ heads of cabbage .",
+        "answer": 180,
+        "type": "Type_4"
+    },
+    {
+        "question": "Edward started his own lawn mowing business. In the spring he made 2 dollars mowing lawns, and in the summer he made 27 dollars. If he had to spend 5 dollars buying supplies, He end up with _____ amount of money.",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "Roger had 16 dollars. For his birthday he got 28 more dollars but spent 25 on a new game. He has _____ money now.",
+        "answer": 19,
+        "type": "Type_4"
+    },
+    {
+        "question": "It snowed 0.32 inches on Monday and 0.21 inches on Tuesday. It snowed _____ inches on Monday and Tuesday combined .",
+        "answer": "0.53",
+        "type": "Type_4"
+    },
+    {
+        "question": "Melanie had 7 dimes in her bank . Her dad gave her 8 dimes, and her mother gave her 4 dimes. Melanie has _____ dimes now .",
+        "answer": 19,
+        "type": "Type_4"
+    },
+    {
+        "question": "Bryan had 8 precious stones in his collection which he sold to his friend from the jewelry store. If the stones were sold at 1785 dollar each, In total , Bryan got _____ dollars .",
+        "answer": 14280,
+        "type": "Type_4"
+    },
+    {
+        "question": "Brandy made trail mix for a backpacking trip . She used 0.17 pound of peanuts , 0.17 pound of chocolate chips , and 0.08 pound of raisins. Brandy made _____ pounds of trail mix .",
+        "answer": "0.42",
+        "type": "Type_4"
+    },
+    {
+        "question": "The school cafeteria had 38 apples. If they used 20 to make lunch for the students and then bought 28 more, they would have _____ apples .",
+        "answer": 46,
+        "type": "Type_4"
+    },
+    {
+        "question": "Beth has 4 packs of crayons. Each pack has 10 crayons in it. She also has 6 extra crayons. Altogether , Beth has _____ crayons .",
+        "answer": 46,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jane starts with 87 crayons. 7 are eaten by a hippopotamus. Jane end up with _____ crayons .",
+        "answer": 80,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt looked at her car's odometer before a trip. The odometer showed that she had traveled 212.3 miles. When she stopped for lunch,  the odometer read 372. She has travelled _____ miles .",
+        "answer": "159.7",
+        "type": "Type_4"
+    },
+    {
+        "question": "Wendy's old washing machine could only wash 8 pieces of clothing at a time. If she had to wash 39 shirts and 33 sweaters, she would have to do _____ loads .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Robin had 18 pieces of gum. Her brother gave her some more pieces. Now Robin has 44 pieces in all. Robin's brother gave her _____ pieces of gum .",
+        "answer": 26,
+        "type": "Type_4"
+    },
+    {
+        "question": "A waiter had 9 tables he was waiting on, with 7 women and 3 men at each table. In total , the waiter had _____ customers .",
+        "answer": 90,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary loves eating fruits. Mary paid $7.19 for berries, and $6.83 for peaches with a $20 bill. Mary received $_____ as change .",
+        "answer": "5.98",
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 7 crayons in the drawer . Mary took 3 crayons out of the drawer. There are _____ crayons now .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sue\u2019s family went on vacation. Her mom drove the car at 60 mph. They camped at a campground after traveling for 5 hours. The campground was _____ miles from their home.",
+        "answer": 300,
+        "type": "Type_4"
+    },
+    {
+        "question": "Rupert and Ronald aced their math test. So their mother bought for them a wonderful trampoline yesterday. Ronald jumped 157 times on  the trampoline. Rupert jumped 86 more times than Ronald. They jumped _____ times altogether.",
+        "answer": 243,
+        "type": "Type_4"
+    },
+    {
+        "question": "Isabella\u2019s hair is 18 inches long. She got a haircut, and now her hair is 9 inches long. _____ inches of Isabella\u2019s hair got cut off.",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary had 18 baseball cards , and 8 were torn . Fred gave Mary 26 new baseball cards . Mary bought 40 baseball cards. Now , Mary has _____ baseball cards .",
+        "answer": 84,
+        "type": "Type_4"
+    },
+    {
+        "question": "Marilyn starts with 51 bottle caps. She shares 36 with Nancy. Marilyn end up with _____ bottle caps .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary has 9 yellow marbles. Joan has 3 yellow marbles. In all , they have _____ yellow marbles .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jazmin had 1209 dolls and Geraldine had 2186 dolls. If they put their dolls together, they would have _____ dolls .",
+        "answer": 3395,
+        "type": "Type_4"
+    },
+    {
+        "question": "Bryan took a look at his books as well. If Bryan has 56 books in each of his 9 bookshelves, in total he has _____ books does .",
+        "answer": 504,
+        "type": "Type_4"
+    },
+    {
+        "question": "A bee colony produced 0.36 pounds of honey , but bears ate 0.05 pounds of it. _____ pounds of honey remains .",
+        "answer": "0.31",
+        "type": "Type_4"
+    },
+    {
+        "question": "Each day , the polar bear at Richmond 's zoo eats 0.2 bucket of trout and 0.4 bucket of salmon. The polar bear eats _____ buckets of fish daily .",
+        "answer": "0.6",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike bought some toys . He bought marbles for $ 9.05 , a football for $ 4.95 , and spent $ 6.52 on a baseball. In total , Mike spent _____ on toys .",
+        "answer": "20.52",
+        "type": "Type_4"
+    },
+    {
+        "question": "Heather starts with 86 blocks. She shares 41 with Jose. So , Heather end up with _____ blocks .",
+        "answer": 45,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary had 33 Pokemon cards , and 6 were torn . Sam gave Mary 23 new Pokemon cards. Mary has _____ Pokemon cards now .",
+        "answer": 56,
+        "type": "Type_4"
+    },
+    {
+        "question": "Craig walked 0.2 mile from school to David 's house and 0.7 mile from David 's house to his own house. In all , Craig walked _____ miles .",
+        "answer": "0.9",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara had 100 pennies and 783 quarters in her bank . Her dad borrowed 271 quarters from Sara. She has _____ quarters now .",
+        "answer": 512,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jeffrey wants to split a collection of bottle caps into groups of 2. Jeffrey has 12 bottle caps. Therefore , _____ groups will be created.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "In a school, there are 542 girls and 387 boys. So, there are _____ pupils in that school.",
+        "answer": 929,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan picked 37 oranges, and Sara picked 10 oranges . Alyssa picked 30 pears. _____ oranges were picked in total .",
+        "answer": 47,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan found 70 seashells on the beach . She gave Sam some of her seashells . She has 27 seashells left. She gave _____ seashells to Sam.",
+        "answer": 43,
+        "type": "Type_4"
+    },
+    {
+        "question": "Michelle has 7 boxes of crayons. Each box holds 5 crayons. So , Michelle has _____ crayons .",
+        "answer": 35,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 16 pecan pies and 14 apples pies. If she wants to arrange all of the pies in  rows of 5 pies each, she will have _____ rows .",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "The schools debate team had 26 boys and 46 girls on it. If they were split into groups of 9 , they can make _____ groups .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "During a school play , Jonah staffed the snack bar . He served 0.25 pitcher of lemonade during the first intermission , 0.42 pitcher during the second , and 0.25 pitcher during the third. In all , Jonah poured _____ pitchers of lemonade .",
+        "answer": "0.92",
+        "type": "Type_4"
+    },
+    {
+        "question": "Each CD rack holds 8 CDs. A shelf can hold 4 racks. So , _____ CDs can fit on the shelf.",
+        "answer": 32,
+        "type": "Type_4"
+    },
+    {
+        "question": "A waiter had 19 customers to wait on. If 14 customers left, and he got another 36 customers, he would have _____ customers .",
+        "answer": 41,
+        "type": "Type_4"
+    },
+    {
+        "question": "Juan ran 80 miles at 10 miles per hour. Juan ran for _____ hours .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary is baking a cake . The recipe calls for 7 cups of flour and 3 cups of sugar . She already put in 2 cups of flour. She needs to add _____ cups of flour .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "A restaurant served 7 slices of pie during lunch and 5 during dinner today . It served 8 of them yesterday. Overall , _____ slices of pie were served today .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sara has 31 red and 15 green balloons . Sandy has 24 red balloons. They have _____ red balloons in total .",
+        "answer": 55,
+        "type": "Type_4"
+    },
+    {
+        "question": "You have 24 cookies and want to share them equally with 6 people. Each person would get _____ cookies .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Barbara has 9 candies. She buys 18 more. In all , Barbara has _____ candies .",
+        "answer": 27,
+        "type": "Type_4"
+    },
+    {
+        "question": "13 ducks are swimming in a lake. 20 more ducks come to join them. _____ ducks are swimming in the lake.",
+        "answer": 33,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt saw 144 bees in the hive. The next day she saw 3 times that many. She saw _____ bees on the second day.",
+        "answer": 432,
+        "type": "Type_4"
+    },
+    {
+        "question": "A magician was selling magic card decks for 2 dollars each. If he started with 5 decks, and by the end of the day, he had 3 left, he earned $_____.",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Ceasar needs to read a 563 page book for school. He has already read 147 pages. He is left with _____ pages to read .",
+        "answer": 416,
+        "type": "Type_4"
+    },
+    {
+        "question": "A florist had 37 roses. If she sold 16 of them, and then later picked 19 more, she would have _____ roses .",
+        "answer": 40,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam grew 4 watermelons , but the rabbits ate 3 watermelons .Sam has _____ watermelons .",
+        "answer": 1,
+        "type": "Type_4"
+    },
+    {
+        "question": "Eugene has 51 pencils. He gets 6 more from Joyce. In all, Eugene has _____ pencils .",
+        "answer": 57,
+        "type": "Type_4"
+    },
+    {
+        "question": "A sandbox is 312 centimeters long and 146 centimeters wide. The sandbox covers _____ square centimeters of ground .",
+        "answer": 45552,
+        "type": "Type_4"
+    },
+    {
+        "question": "Each bag contains 23 pounds of oranges. There are _____ pounds of oranges in 45 bags.",
+        "answer": 1035,
+        "type": "Type_4"
+    },
+    {
+        "question": "In Yardley it snowed 0.12 inch in the morning and 0.5 inch in the afternoon. The total amount of snowfall was _____ .",
+        "answer": "0.63",
+        "type": "Type_4"
+    },
+    {
+        "question": "Andrew spent 3 day working on his Science report. He worked for 2.5 hours each day. He worked for _____ hours .",
+        "answer": "7.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt bought an ice cream cone for 99 cents. 2 ice cream cones would cost _____ cents.",
+        "answer": 198,
+        "type": "Type_4"
+    },
+    {
+        "question": "Isha\u2019s pencil is 12 cubes long. If she gets another pencil that is 12 cubes long, both pencils are _____ cubes long .",
+        "answer": 24,
+        "type": "Type_4"
+    },
+    {
+        "question": "Melissa scored 120 points in each game. She scored _____ points in 10 games.",
+        "answer": 1200,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally has 9 orange balloons and 4 blue balloons . She lost 2 of the orange balloons. Now , Sally has _____ orange balloons .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Faye had 46 math problems and 9 science problems for homework. If she finished 40 of the problems at school, she had _____ problems to do for homework.",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Bonnie 's science class recorded the rainfall each day . They recorded 0.17 centimeter of rain on Monday , 0.42 centimeter of rain on Tuesday , and 0.08 centimeter of rain on Wednesday. In all , the class recorded _____ centimeters of rain .",
+        "answer": "0.67",
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred went to 36 basketball games this year , but missed 35 . He went to 11 games last year. Fred went to _____ basketball games in total .",
+        "answer": 47,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were originally 20817 houses in Lincoln County . During a housing boom , developers built 97741. There are _____ houses now in Lincoln County .",
+        "answer": 118558,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jane buys an apple for $0.75 and pays with a $5 bill. She will get _____ as change.",
+        "answer": "4.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and  85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry  Hound's ears. _____ fleas perished.",
+        "answer": 121,
+        "type": "Type_4"
+    },
+    {
+        "question": "On the first day of the week, Pat had 39 stickers. Pat earned 22 more during the week. Pat had _____ stickers at the end of the week.",
+        "answer": 61,
+        "type": "Type_4"
+    },
+    {
+        "question": "Pamela bought 9.8 ounces of sugar , and she spilled 5.2 ounces of it on the floor. The amount of sugar left is _____ .",
+        "answer": "4.6",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sarah had some trucks. She gave 13 to Jeff, and now she has 38 trucks left. Sarah had _____ trucks to start with.",
+        "answer": 51,
+        "type": "Type_4"
+    },
+    {
+        "question": "I read 21 pages of my English book yesterday. Today, I read 17 pages. In total , I read _____ number of pages .",
+        "answer": 38,
+        "type": "Type_4"
+    },
+    {
+        "question": "Shannon and her family use up a lot of strawberry and blueberry jelly , since they eat toast every morning . At the moment , they have a combined total of 6310 grams of jelly. If they have 4518 grams of blueberry jelly , they have _____ grams of strawberry jelly .",
+        "answer": 1792,
+        "type": "Type_4"
+    },
+    {
+        "question": "Rosa had 67 flowers. Andre gave her some more flowers. Now, Rosa has 90 flowers. Andre gave _____ flowers to Rosa.",
+        "answer": 23,
+        "type": "Type_4"
+    },
+    {
+        "question": "1 pencil weighs 28.3 grams. 5 pencils weigh _____ .",
+        "answer": "141.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mandy made an apple pie . She used 0.67 tablespoon of cinnamon and 0.5 tablespoon of nutmeg. Mandy used _____ more tablespoons of cinnamon than nutmeg .",
+        "answer": "0.17",
+        "type": "Type_4"
+    },
+    {
+        "question": "For the school bake sale Carol made 30 cupcakes. If she sold 9 of them and then made 28 more, she would have _____ cupcakes .",
+        "answer": 49,
+        "type": "Type_4"
+    },
+    {
+        "question": "Dina made cookies . She used 0.62 cup of flour and 0.25 cup of sugar. Dina used _____ more flour than sugar .",
+        "answer": "0.38",
+        "type": "Type_4"
+    },
+    {
+        "question": "Our watermelons have 100 seeds each. If we have 4 watermelons, there would be _____ seeds when taken out of the watermelons.",
+        "answer": 400,
+        "type": "Type_4"
+    },
+    {
+        "question": "While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half. If each question was worth 5 points, His final score was _____ .",
+        "answer": 50,
+        "type": "Type_4"
+    },
+    {
+        "question": "While making pastries , a bakery used 0.2 bag of wheat flour and 0.1 bag of white flour. In all, the bakery used _____ bags of flour.",
+        "answer": "0.3",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mark has 13 trees in his backyard. If he plants 12 more, he will have _____ trees .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "Scarlett made a fruit salad with 0.25 pound of melon and 0.38 pound of berries. In all , Scarlett used _____ pounds of fruit .",
+        "answer": "0.63",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt measured the distance from her desk to the water fountain. It was 30 feet. If she goes to the water fountain 4 times today , Mrs. Hilt walked _____ feet on her trips to the fountain .",
+        "answer": 120,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 1986 books in Oak Grove 's public library . In addition , there are 5106 books in its school libraries. Overall , the Oak Grove libraries had _____ books .",
+        "answer": 7092,
+        "type": "Type_4"
+    },
+    {
+        "question": "Nancy has 9 5 dollars bills. Therefore , she has _____ dollars .",
+        "answer": 45,
+        "type": "Type_4"
+    },
+    {
+        "question": "If Harold split 15 apples between 3 people in her class and kept the left overs, ach classmate will get _____ apples .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "A farmer started the day with 8.75 buckets of seeds . After spending the morning sowing seeds , she now has 6 buckets. The farmers sow _____ buckets of seeds .",
+        "answer": "2.75",
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason has 676 Pokemon cards . Alyssa bought 224 of Jason 's Pokemon cards. Jason has _____ Pokemon cards now .",
+        "answer": 452,
+        "type": "Type_4"
+    },
+    {
+        "question": "A marine biologist measured 1 fish that was 0.3 foot long, and a second fish that was 0.2 foot long. The first fish was _____ longer .",
+        "answer": "0.1",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sally earns $12.5 an hour cleaning houses. If she works for 12 hours, she will make $_____ .",
+        "answer": 150,
+        "type": "Type_4"
+    },
+    {
+        "question": "A painter needed to paint 10 rooms in a building. Each room takes 8 hours to paint. If he already painted 8 rooms, he will take _____ hours to paint the rest.",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were a total of 8 football games this year , 6 are played at night . Keith missed 4 of the games. In total , Keith went to _____ football games .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "In fourth grade there were 10 students at the start of the year. During the year, 4 students left, and 42 new students came to school. There were _____ students in fourth grade at the end.",
+        "answer": 48,
+        "type": "Type_4"
+    },
+    {
+        "question": "Each bottle cap costs $2. 6 bottle caps costs _____ .",
+        "answer": 12,
+        "type": "Type_4"
+    },
+    {
+        "question": "Upon arriving at the circus, they went to the ticket booth and asked how much each ticket cost. If each ticket costs 44 dollars, and they bought 7 tickets, they spent _____ dollars on tickets.",
+        "answer": 308,
+        "type": "Type_4"
+    },
+    {
+        "question": "Marie can bike at a speed of 12 miles an hour. She can bike _____ miles in 31 hours.",
+        "answer": 372,
+        "type": "Type_4"
+    },
+    {
+        "question": "Greg and Sharon own neighboring cornfields . Greg harvested 0.4 acre of corn on Monday, and Sharon harvested 0.1 acre. Greg harvested _____ more acres than Sharon .",
+        "answer": "0.3",
+        "type": "Type_4"
+    },
+    {
+        "question": "John needs $2.5. He has $0.75. He needs _____ more money .",
+        "answer": "1.75",
+        "type": "Type_4"
+    },
+    {
+        "question": "Roger has 95 candies. He gives 3 to Stephanie. Roger will have _____ candies .",
+        "answer": 92,
+        "type": "Type_4"
+    },
+    {
+        "question": "Heather has 60 oranges. Russell takes 35 away. So , Heather would have _____ oranges .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred has 10 red balloons , Sam has 46 red balloons , and Dan has 16 red balloons . The balloons cost 10 dollars. In all , they have _____ red balloons .",
+        "answer": 72,
+        "type": "Type_4"
+    },
+    {
+        "question": "At the town carnival Billy rode the ferris wheel 7 times and the bumper cars 3 times. If each ride cost 5 tickets, he used _____ tickets .",
+        "answer": 50,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike has 35 books in his library . He bought several books at a yard sale over the weekend . He now has 56 books in his library. He baught _____ books at the yard sale .",
+        "answer": 21,
+        "type": "Type_4"
+    },
+    {
+        "question": "A pet store had 18 puppies. In 1 day, they sold 3 of them and put the rest into cages with 5 in each cage. Therefore , they used _____ cages  .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Brenda starts with 7 Skittles. She buys 8 more. Brenda end with _____ Skittles .",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "A waiter had 44 customers in his section. If 12 of them left, and the rest of his tables had 8 people at each table, he had _____ tables .",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "After a party, 0.62 of the cake is left over. That night, big brother eats 0.25 of the cake. _____ is left over after that.",
+        "answer": "0.38",
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt bought 6 hot dogs. Each hot dog costs 50 cents. She paid _____ cents for all of the hot dogs.",
+        "answer": 300,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 40 boys and some girls on the playground. There are 117 children altogether. There are _____ girls on the playground.",
+        "answer": 77,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny picked 2 apples, and Dan picked 9 apples from the apple tree. They picked up _____ apples in total .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "At a pizza party , Mason and his friends drank 2.67 bottles of lemon-lime soda and 2.67 bottles of cola. In all they drank _____ bottles of soda .",
+        "answer": "5.33",
+        "type": "Type_4"
+    },
+    {
+        "question": "Iesha has 58 books. 19 are about school, and the rest are about sports. Iesha has _____ books about sports.",
+        "answer": 39,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joshua has 40 bottle caps. He buys 7 more. In all , Joshua has _____ bottle caps .",
+        "answer": 47,
+        "type": "Type_4"
+    },
+    {
+        "question": "For a birthday party, Jerry bought 41 regular sodas and 22 diet sodas. If his fridge would only hold 9 on each shelf, he will be able to fill up _____ shelves .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "On Friday, Fred paid $5.92 each on 2 tickets to a movie theater. He also borrowed a movie for $6.79. Fred paid with a $20 bill. Fred received $_____ as change.",
+        "answer": "1.37",
+        "type": "Type_4"
+    },
+    {
+        "question": "A car company produced 3884 cars in North America and 2871 cars in Europe. There are _____ cars in all .",
+        "answer": 6755,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt reads 5 books a day. So , she reads _____ books in 3 days.",
+        "answer": 15,
+        "type": "Type_4"
+    },
+    {
+        "question": "Connie had some marbles. She gave 73 to Juan. Now she has 70 marbles left. She had started with _____ marbles .",
+        "answer": 143,
+        "type": "Type_4"
+    },
+    {
+        "question": "Gary had 73 dollars. He spent 55 dollars on a pet snake. There are _____ dollars left with Gary .",
+        "answer": 18,
+        "type": "Type_4"
+    },
+    {
+        "question": "Sandy went to the mall to buy clothes. She spent $13.99 on shorts, $12.14 on a shirt, and $7.43 on a jacket. Sandy spent $_____ on clothes.",
+        "answer": "33.56",
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 39 girls and 4 boys trying out for the schools basketball team. If only 26 of them got called back, _____ students didn't make the cut.",
+        "answer": 17,
+        "type": "Type_4"
+    },
+    {
+        "question": "Rachel bought 2 coloring books. 1 had 23 pictures, and the other had 32. After 1 week, she had already colored 44 of the pictures. She still have to color _____ pictures .",
+        "answer": 11,
+        "type": "Type_4"
+    },
+    {
+        "question": "3 owls were sitting on the fence. 2 more owls joined them. Now , there are _____ owls on the fence .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "If books came from all the 4 continents that Bryan had been into and he collected 122 books per continent,  he has _____ books from all 4 continents combined.",
+        "answer": 488,
+        "type": "Type_4"
+    },
+    {
+        "question": "The school's baseball team had 48 new players and 6 returning players. If the coach put them into groups with 6 players in each group, there would be _____ groups .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jovana filled her bucket with 5 pounds of shells. If she adds 12 more pounds of shell to fill her bucket, therefore she has _____ pounds .",
+        "answer": 17,
+        "type": "Type_4"
+    },
+    {
+        "question": "Kelly bought 0.1 pounds of peanuts and 0.4 pounds of raisins. In all she baught _____ pounds of snacks .",
+        "answer": "0.5",
+        "type": "Type_4"
+    },
+    {
+        "question": "Hannah 's Vegetarian Restaurant bought 0.33 pound of green peppers and 0.33 pound of red peppers. In all , Hannah 's Vegetarian Restaurant baught _____ pounds of pepper .",
+        "answer": "0.66",
+        "type": "Type_4"
+    },
+    {
+        "question": "Fred has 5 yellow balloons , Sam has 6 yellow balloons , and Mary has 7 yellow balloons . The balloons cost 9 dollars. In total , they have _____ yellow balloons .",
+        "answer": 18,
+        "type": "Type_4"
+    },
+    {
+        "question": "Brad has 17 balloons. 8 balloons are red, and the rest are green. Brad has _____ green balloons .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "A store had 40 coloring books in stock. They ended up putting them on sale and getting rid of 20 of them. The put the ones they still had onto shelves with 4 on each shelf. They used _____ shelves .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny's high school played 39 baseball games this year. He attended  14 games. Benny miss _____ baseball games .",
+        "answer": 25,
+        "type": "Type_4"
+    },
+    {
+        "question": "For the school bake sale Wendy made pastries. She baked 4 cupcakes and 29 cookies. After the sale she had 24 to take back home. She sold _____ pastries .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan joined her school 's band . She bought a trumpet for $ 149.16 , a music tool for $ 9.98 , and a song book which was $ 4.14 . Joan found $ 8.65 in her pocket. Joan spent $ _____ at the music store .",
+        "answer": "163.28",
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason found 49 seashells and 48 starfish on the beach . He gave 13 of the seashells to Tim. Now , Jason has _____ seashells .",
+        "answer": 36,
+        "type": "Type_4"
+    },
+    {
+        "question": "Omar and Karen made egg rolls to share at the school potluck. Omar rolled 219 egg rolls. Karen rolled 229 egg rolls. The total number  of egg rolls Omar and Karen rolled is _____ .",
+        "answer": 448,
+        "type": "Type_4"
+    },
+    {
+        "question": "Zach scored 42 points in the football game. Ben scored 21 points. Zach scored _____ more points .",
+        "answer": 21,
+        "type": "Type_4"
+    },
+    {
+        "question": "Benny received 67 dollars for his birthday . He went to a sporting goods store and bought a baseball glove , baseball , and bat. He had 33 dollars over , he spent _____ on the baseball gear .",
+        "answer": 34,
+        "type": "Type_4"
+    },
+    {
+        "question": "A ship full of grain crashes into a coral reef . By the time the ship is fixed , 49952 tons of grain have spilled into the water . Only 918 tons of grain remain onboard. Originally , The ship contained _____ tons of grain .",
+        "answer": 50870,
+        "type": "Type_4"
+    },
+    {
+        "question": "For Halloween Sarah received 108 pieces of candy. She ate 36 pieces then placed the rest into piles with 9 in each pile. She could make _____ piles .",
+        "answer": 8,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike joined his school 's band . He bought a trumpet for $ 145.16 , and a song book which was $ 5.84. Mike spent _____ at the music store .",
+        "answer": 151,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary had 8 potatoes in the garden . The rabbits ate 3 of the potatoes. Mary has _____ potatoes now .",
+        "answer": 5,
+        "type": "Type_4"
+    },
+    {
+        "question": "Lansing has 25 elementary schools. There are 247 students in each school. Altogether , there are _____ elementary students in Lansing.",
+        "answer": 6175,
+        "type": "Type_4"
+    },
+    {
+        "question": "There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. There are _____ black dots in all.",
+        "answer": 4764,
+        "type": "Type_4"
+    },
+    {
+        "question": "A treasure hunter discovered a buried treasure chest filled with a total of 5155 gems . 45 of the gems were diamonds , and the rest were rubies. _____ of the gems were rubies .",
+        "answer": 5110,
+        "type": "Type_4"
+    },
+    {
+        "question": "Megan has 19 seashells. She needs to find _____ more seashells to have 25 seashells in her collection.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Joan has 9 blue balloons , Sally has 5 blue balloons , and Jessica has 2 blue balloons. They have _____ blue baloons in total .",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "Jason has 18 books, and he has read 9 of them . Mary has 42 books. Together , they have _____ books .",
+        "answer": 60,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mary earns $46 cleaning a home. She cleaned _____ homes , if she made 276 dollars.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Last year at Newberg 's airport , 14507 passengers landed on time . Unfortunately , 213 passengers landed late. In all , _____ passengers landed in Newberg last year .",
+        "answer": 14720,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 58 geese and 37 ducks in the marsh. In all , there were _____ birds .",
+        "answer": 95,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mrs. Hilt needs to share $3.75 equally among 3 total people. Each person will get $ _____ .",
+        "answer": "1.25",
+        "type": "Type_4"
+    },
+    {
+        "question": "While taking inventory at her pastry shop , Kelly realizes that she had 0.4 box of baking powder yesterday , but the supply is now down to 0.3 box. Kelly had _____ more baking powser yesterday .",
+        "answer": "0.1",
+        "type": "Type_4"
+    },
+    {
+        "question": "Sam had 9 dimes in his bank . His dad gave him 7 dimes. Sam has _____ dimes now .",
+        "answer": 16,
+        "type": "Type_4"
+    },
+    {
+        "question": "Each of farmer Cunningham 's 6048 lambs is either black or white . There are 193 white ones. Farmer Cunningham 's _____ lambs are black .",
+        "answer": 5855,
+        "type": "Type_4"
+    },
+    {
+        "question": "Bobby ate 26 pieces of candy. Then, he ate 17 more. Bobby ate _____ pieces of candy .",
+        "answer": 43,
+        "type": "Type_4"
+    },
+    {
+        "question": "Shelby\u2019s teacher gives out gold stars for great math work. Yesterday, Shelby earned 4 gold stars. Today, she earned 3 more. So , in all , Shelby earned _____ gold stars .",
+        "answer": 7,
+        "type": "Type_4"
+    },
+    {
+        "question": "Maria needs 21 cartons of berries to make a berry cobbler. She already has 4 cartons of strawberries and 8 cartons of blueberries. Maria should buy _____ more cartons of berries .",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were 58 geese and 37 ducks in the marsh. There were _____ birds in the marsh .",
+        "answer": 95,
+        "type": "Type_4"
+    },
+    {
+        "question": "My car gets 20 miles per gallon. I can drive _____ miles on 5 gallons of gas.",
+        "answer": 100,
+        "type": "Type_4"
+    },
+    {
+        "question": "It took Amanda 3 hours to stroll to Kimberly's house at 2 miles per hour. So , we can say that Amanda's house is _____ miles far from Kimberly's house.",
+        "answer": 6,
+        "type": "Type_4"
+    },
+    {
+        "question": "Lucy has an aquarium with 212 fish. She wants to buy 68 more fish. Lucy would have _____ fishes then.",
+        "answer": 280,
+        "type": "Type_4"
+    },
+    {
+        "question": "Michelle has 2 crayons. Janet has 2 crayons. If Janet gives all of her crayons to Michelle, therefore Michelle will have _____ crayons.",
+        "answer": 4,
+        "type": "Type_4"
+    },
+    {
+        "question": "Josh had 16 marbles in his collection. He lost 7 marbles. He has _____ marbles now.",
+        "answer": 9,
+        "type": "Type_4"
+    },
+    {
+        "question": "Tom found 7 seashells, but 4 were broken. Tom found _____ unbroken seashells .",
+        "answer": 3,
+        "type": "Type_4"
+    },
+    {
+        "question": "Mike had 16 video games, but 8 of them weren't working. If he wanted to sell the working games for $7 each, he could earn $_____ .",
+        "answer": 56,
+        "type": "Type_4"
+    },
+    {
+        "question": "There were a total of 13 hockey games a month. The season is played for  14 months. There are _____ hockey games are in the seasons .",
+        "answer": 182,
+        "type": "Type_4"
+    },
+    {
+        "question": "A candy store has 6 boxes of chocolates. Each box has 500 pieces. Altogether , there are _____ pieces in the boxes.",
+        "answer": 3000,
+        "type": "Type_4"
+    }
+]
